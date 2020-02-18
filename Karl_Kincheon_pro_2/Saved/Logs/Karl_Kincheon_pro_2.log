@@ -1658,3 +1658,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.18-17.32.23:208][397]AssetCheck: New page: Asset Save: multiple assets
 [2020.02.18-17.32.23:208][397]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2020.02.18-17.32.23:208][397]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.02.18-17.35.50:067][875]Cmd: TRANSACTION UNDO
+[2020.02.18-17.35.50:067][875]LogEditorTransaction: Undo Scale Actors
+[2020.02.18-17.35.55:841][204]Cmd: TRANSACTION UNDO
+[2020.02.18-17.35.55:841][204]LogEditorTransaction: Undo Scale Actors
+[2020.02.18-17.36.12:711][197]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.18-17.36.38:603][747]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.18-17.37.05:932][377]Cmd: TRANSACTION UNDO
+[2020.02.18-17.37.05:932][377]LogEditorTransaction: Undo Move Actors
+[2020.02.18-17.42.23:309][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.02.18-17.42.23:485][410]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/FirstPersonExampleMap_Auto2964DEFA741F8A22F069F74810C3540F0.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2020.02.18-17.42.23:488][410]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.204
+[2020.02.18-17.42.23:488][410]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.204
+[2020.02.18-17.45.48:926][460]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
