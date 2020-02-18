@@ -2568,3 +2568,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.18-18.42.08:620][663]AssetCheck: New page: Asset Save: Map_3
 [2020.02.18-18.42.08:620][663]LogContentValidation: Display: Validating World /Game/Map_3.Map_3
 [2020.02.18-18.42.12:974][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.02.18-18.43.09:303][371]Cmd: TRANSACTION UNDO
+[2020.02.18-18.43.09:303][371]LogEditorTransaction: Undo Marquee Select
+[2020.02.18-18.43.39:206][127]Cmd: TRANSACTION UNDO
+[2020.02.18-18.43.39:206][127]LogEditorTransaction: Undo Move Actors
+[2020.02.18-18.45.39:858][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.02.18-18.45.42:713][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map_3" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Map_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.18-18.45.42:737][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.18-18.45.42:799][239]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Map_3ECF4DE30498FA4673E006EAC3230DF95.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Map_3.umap'
+[2020.02.18-18.45.42:811][239]LogFileHelpers: Saving map 'Map_3' took 0.099
+[2020.02.18-18.45.42:821][239]AssetCheck: New page: Asset Save: Map_3
+[2020.02.18-18.45.42:821][239]LogContentValidation: Display: Validating World /Game/Map_3.Map_3
+[2020.02.18-18.46.45:097][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.02.18-18.46.45:124][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map_3" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Map_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.18-18.46.45:149][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.18-18.46.45:193][932]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Map_3FFB6E254492B938FD536E79292B41595.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Map_3.umap'
+[2020.02.18-18.46.45:201][932]LogFileHelpers: Saving map 'Map_3' took 0.077
+[2020.02.18-18.46.45:208][932]AssetCheck: New page: Asset Save: Map_3
+[2020.02.18-18.46.45:208][932]LogContentValidation: Display: Validating World /Game/Map_3.Map_3
