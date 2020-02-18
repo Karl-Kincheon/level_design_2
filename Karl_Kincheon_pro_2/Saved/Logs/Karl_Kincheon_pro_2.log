@@ -2818,3 +2818,44 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.18-19.12.34:942][795]LogFileHelpers: Saving map 'map_4' took 0.243
 [2020.02.18-19.12.34:951][795]AssetCheck: New page: Asset Save: map_4
 [2020.02.18-19.12.34:951][795]LogContentValidation: Display: Validating World /Game/map_4.map_4
+[2020.02.18-19.15.59:544][639]LogEditorViewport: Clicking Background
+[2020.02.18-19.16.06:522][ 50]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush5)
+[2020.02.18-19.16.08:071][142]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush4)
+[2020.02.18-19.16.09:347][218]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush6)
+[2020.02.18-19.16.12:323][391]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Cylinder Brush13)
+[2020.02.18-19.16.18:455][752]LogEditorViewport: Clicking Background
+[2020.02.18-19.16.18:921][780]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush4)
+[2020.02.18-19.16.20:169][854]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush5)
+[2020.02.18-19.16.20:644][882]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush6)
+[2020.02.18-19.16.25:268][153]LogEditorViewport: Clicking Background
+[2020.02.18-19.18.23:045][582]LogActorFactory: Actor Factory created TemplateFloor
+[2020.02.18-19.18.23:774][625]LogActorFactory: Actor Factory created TemplateFloor
+[2020.02.18-19.18.26:598][791]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.18-19.19.33:971][824]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TemplateFloor2)
+[2020.02.18-19.19.47:481][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor3)
+[2020.02.18-19.19.48:545][694]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush4)
+[2020.02.18-19.19.50:980][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor2)
+[2020.02.18-19.20.19:323][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor4)
+[2020.02.18-19.20.25:598][909]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush7)
+[2020.02.18-19.20.28:541][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor6)
+[2020.02.18-19.20.49:016][305]LogEditorViewport: Clicking Background
+[2020.02.18-19.21.01:923][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2020.02.18-19.21.02:841][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor4)
+[2020.02.18-19.21.07:500][409]Cmd: TRANSACTION UNDO
+[2020.02.18-19.21.07:500][409]LogEditorTransaction: Undo Move Actors
+[2020.02.18-19.21.09:189][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor6)
+[2020.02.18-19.21.37:364][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor6)
+[2020.02.18-19.21.43:974][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor7)
+[2020.02.18-19.22.12:782][295]LogEditorViewport: Clicking Background
+[2020.02.18-19.22.16:133][496]LogEditorViewport: Clicking Background
+[2020.02.18-19.22.16:499][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor9)
+[2020.02.18-19.22.21:647][826]LogEditorViewport: Clicking Background
+[2020.02.18-19.22.25:764][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2020.02.18-19.22.30:748][371]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 2
+[2020.02.18-19.22.47:919][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.02.18-19.22.47:957][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map_4" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/map_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.18-19.22.47:981][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.02.18-19.22.48:195][398]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/map_4665F437B4F486FBB5E3B8085DFCF3AC9.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/map_4.umap'
+[2020.02.18-19.22.48:206][398]LogFileHelpers: Saving map 'map_4' took 0.250
+[2020.02.18-19.22.48:215][398]AssetCheck: New page: Asset Save: map_4
+[2020.02.18-19.22.48:216][398]LogContentValidation: Display: Validating World /Game/map_4.map_4
