@@ -2458,3 +2458,113 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.18-18.23.56:548][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
 [2020.02.18-18.24.01:778][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
 [2020.02.18-18.24.09:008][332]LogEditorViewport: Clicking Background
+[2020.02.18-18.27.53:110][711]LogSlate: Window 'New Level' being destroyed
+[2020.02.18-18.27.53:114][711]LightingResults: New page: Lighting Build
+[2020.02.18-18.27.53:115][711]LogWorld: UWorld::CleanupWorld for map_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.27.53:115][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.27.53:115][711]MapCheck: New page: Map Check
+[2020.02.18-18.27.53:115][711]LightingResults: New page: Lighting Build
+[2020.02.18-18.27.53:164][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.02.18-18.27.53:168][711]LogAIModule: Creating AISystem for world Untitled
+[2020.02.18-18.27.53:456][711]LoadErrors: New page: New Map
+[2020.02.18-18.27.55:864][849]LogTexture: Display: Building textures: Texture2D_4 (G8, 128X128)
+[2020.02.18-18.27.58:130][972]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.02.18-18.28.11:515][745]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.18-18.28.11:515][745]Can't find target actor or component.
+[2020.02.18-18.28.13:362][855]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.18-18.28.13:362][855]Can't find target actor or component.
+[2020.02.18-18.28.14:727][936]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.18-18.28.14:727][936]Can't find target actor or component.
+[2020.02.18-18.28.15:678][993]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.18-18.28.15:678][993]Can't find target actor or component.
+[2020.02.18-18.28.16:612][ 49]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.18-18.28.18:217][135]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.02.18-18.28.18:551][153]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.18-18.31.29:433][ 30]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2020.02.18-18.31.29:435][ 30]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2020.02.18-18.31.29:436][ 30]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2020.02.18-18.31.29:438][ 30]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2020.02.18-18.31.29:440][ 30]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2020.02.18-18.31.29:442][ 30]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2020.02.18-18.31.29:444][ 30]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2020.02.18-18.31.29:446][ 30]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2020.02.18-18.31.29:448][ 30]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2020.02.18-18.31.29:449][ 30]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2020.02.18-18.31.29:451][ 30]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2020.02.18-18.31.29:453][ 30]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2020.02.18-18.31.29:453][ 30]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2020.02.18-18.31.29:456][ 30]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2020.02.18-18.31.29:456][ 30]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.18-18.31.29:459][ 30]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.18-18.31.29:459][ 30]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2020.02.18-18.31.29:461][ 30]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2020.02.18-18.31.29:778][ 48]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2020.02.18-18.31.29:780][ 48]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2020.02.18-18.31.30:139][ 69]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2020.02.18-18.31.30:143][ 69]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2020.02.18-18.31.35:247][375]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2020.02.18-18.31.35:250][375]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2020.02.18-18.31.35:554][393]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2020.02.18-18.31.35:556][393]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2020.02.18-18.31.35:877][412]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2020.02.18-18.31.35:879][412]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2020.02.18-18.31.43:707][859]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.18-18.34.23:484][488]Cmd: TRANSACTION UNDO
+[2020.02.18-18.34.23:484][488]LogEditorTransaction: Undo Scale Actors
+[2020.02.18-18.34.23:719][488]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/13462/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/2/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_6A92445D41376A5C503A9A9E59559874__1_0_0_0_3_13315_0.udd.
+[2020.02.18-18.34.28:611][771]Cmd: TRANSACTION UNDO
+[2020.02.18-18.34.28:611][771]LogEditorTransaction: Undo Scale Actors
+[2020.02.18-18.38.09:487][395]Cmd: DELETE
+[2020.02.18-18.38.09:487][395]Cmd: ACTOR DELETE
+[2020.02.18-18.38.10:210][395]LogEditorActor: Deleted Actor: Brush
+[2020.02.18-18.38.10:347][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.02.18-18.38.10:366][395]LogEditorActor: Deleted 1 Actors (0.879 secs)
+[2020.02.18-18.38.26:146][300]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/13462/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/6/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_5AE555CB47F0878332FB36837443015D__1_0_0_0_3_13315_0.udd.
+[2020.02.18-18.38.28:862][463]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.18-18.38.31:390][611]Cmd: TRANSACTION UNDO
+[2020.02.18-18.38.31:390][611]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.18-18.38.31:805][622]Cmd: TRANSACTION UNDO
+[2020.02.18-18.38.31:805][622]LogEditorTransaction: Undo Move Actors
+[2020.02.18-18.38.32:492][661]Cmd: TRANSACTION UNDO
+[2020.02.18-18.38.32:492][661]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.18-18.38.33:343][709]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.18-18.39.18:447][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.02.18-18.39.18:495][ 12]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2020.02.18-18.39.18:496][ 12]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.18-18.39.18:497][ 12]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2020.02.18-18.39.18:567][ 12]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Untitled_3_Auto47815981344779380C6EF98B4904FBD2D.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Temp/Untitled_3_Auto4.umap'
+[2020.02.18-18.39.18:836][ 12]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_3' took 0.412
+[2020.02.18-18.39.18:836][ 12]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.412
+[2020.02.18-18.41.02:780][336]LogEditorViewport: Clicking Background
+[2020.02.18-18.41.14:370][ 26]LogEditorViewport: Clicking Background
+[2020.02.18-18.41.36:203][178]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2020.02.18-18.41.37:374][220]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2020.02.18-18.41.37:916][252]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2020.02.18-18.41.58:824][663]LogSlate: Window 'Save Level As' being destroyed
+[2020.02.18-18.41.59:461][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map_3" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Map_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.18-18.41.59:485][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.02.18-18.41.59:499][663]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2020.02.18-18.41.59:501][663]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.18-18.41.59:502][663]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2020.02.18-18.41.59:503][663]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2020.02.18-18.41.59:504][663]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2020.02.18-18.41.59:506][663]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2020.02.18-18.41.59:545][663]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Map_349A6D05E47FE0C491D608389D1404F20.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Map_3.umap'
+[2020.02.18-18.41.59:757][663]LogFileHelpers: Saving map 'Map_3' took 0.490
+[2020.02.18-18.41.59:758][663]Cmd: MAP LOAD FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Map_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.18-18.41.59:785][663]LightingResults: New page: Lighting Build
+[2020.02.18-18.41.59:786][663]LoadErrors: New page: Loading map: Map_3.umap
+[2020.02.18-18.41.59:862][663]LogWorld: UWorld::CleanupWorld for Map_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.42.00:036][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.42.00:131][663]MapCheck: New page: Map Check
+[2020.02.18-18.42.00:131][663]LightingResults: New page: Lighting Build
+[2020.02.18-18.42.01:410][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.02.18-18.42.03:431][663]LogAIModule: Creating AISystem for world Map_3
+[2020.02.18-18.42.05:556][663]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.18-18.42.05:699][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.02.18-18.42.05:710][663]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.18-18.42.05:889][663]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77.433ms to complete.
+[2020.02.18-18.42.05:889][663]LogFileHelpers: Loading map 'Map_3' took 6.131
+[2020.02.18-18.42.08:620][663]AssetCheck: New page: Asset Save: Map_3
+[2020.02.18-18.42.08:620][663]LogContentValidation: Display: Validating World /Game/Map_3.Map_3
+[2020.02.18-18.42.12:974][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
