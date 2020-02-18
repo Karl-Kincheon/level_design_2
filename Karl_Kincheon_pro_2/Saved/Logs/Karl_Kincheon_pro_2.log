@@ -2271,3 +2271,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.18-18.08.59:840][453]AssetCheck: New page: Asset Save: multiple assets
 [2020.02.18-18.08.59:840][453]LogContentValidation: Display: Validating World /Game/map_1.map_1
 [2020.02.18-18.08.59:840][453]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/map_1_BuiltData.map_1_BuiltData
+[2020.02.18-18.09.34:598][940]LogSlate: Window 'FirstPersonExampleMap_BuiltData' being destroyed
+[2020.02.18-18.09.34:602][940]LogSlate: Window 'FirstPersonExampleMap_BuiltData' being destroyed
