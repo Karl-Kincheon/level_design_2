@@ -2861,3 +2861,34 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.18-19.22.48:216][398]LogContentValidation: Display: Validating World /Game/map_4.map_4
 [2020.02.18-19.24.29:735][ 18]LogEditorViewport: Clicking Background
 [2020.02.18-19.25.15:001][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.02.18-19.34.38:518][570]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush21)
+[2020.02.18-19.34.40:051][661]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush38)
+[2020.02.18-19.34.41:182][728]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush35)
+[2020.02.18-19.34.42:091][782]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush36)
+[2020.02.18-19.34.43:133][844]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Box Brush37)
+[2020.02.18-19.34.54:724][517]Cmd: DELETE
+[2020.02.18-19.34.54:724][517]Cmd: ACTOR DELETE
+[2020.02.18-19.34.54:745][517]LogEditorActor: Deleted Actor: Brush
+[2020.02.18-19.34.54:745][517]LogEditorActor: Deleted Actor: Brush
+[2020.02.18-19.34.54:745][517]LogEditorActor: Deleted Actor: Brush
+[2020.02.18-19.34.54:745][517]LogEditorActor: Deleted Actor: Brush
+[2020.02.18-19.34.54:746][517]LogEditorActor: Deleted Actor: Brush
+[2020.02.18-19.34.54:767][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.02.18-19.34.54:832][517]LogEditorActor: Deleted 5 Actors (0.108 secs)
+[2020.02.18-19.34.57:192][656]Cmd: TRANSACTION UNDO
+[2020.02.18-19.34.57:192][656]LogEditorTransaction: Undo Delete Actors
+[2020.02.18-19.34.57:740][669]Cmd: TRANSACTION UNDO
+[2020.02.18-19.34.57:740][669]LogEditorTransaction: Undo Move Actors
+[2020.02.18-19.34.58:278][693]Cmd: TRANSACTION UNDO
+[2020.02.18-19.34.58:278][693]LogEditorTransaction: Undo Move Actors
+[2020.02.18-19.35.00:457][816]LogEditorViewport: Clicking Background
+[2020.02.18-19.35.02:907][963]Cmd: TRANSACTION UNDO
+[2020.02.18-19.35.02:907][963]LogEditorTransaction: Undo Clicking Background
+[2020.02.18-19.35.08:392][264]LogEditorViewport: Clicking Background
+[2020.02.18-19.35.14:927][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.02.18-19.35.14:953][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map_4" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/map_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.18-19.35.14:977][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.02.18-19.35.15:198][653]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/map_43E3359654A45B1F840E08E9DF21091F6.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/map_4.umap'
+[2020.02.18-19.35.15:208][653]LogFileHelpers: Saving map 'map_4' took 0.254
+[2020.02.18-19.35.15:218][653]AssetCheck: New page: Asset Save: map_4
+[2020.02.18-19.35.15:218][653]LogContentValidation: Display: Validating World /Game/map_4.map_4
