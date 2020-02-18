@@ -2165,3 +2165,109 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.18-18.06.24:911][434]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.267
 [2020.02.18-18.06.24:920][434]AssetCheck: New page: Asset Save: FirstPersonExampleMap
 [2020.02.18-18.06.24:920][434]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.02.18-18.07.50:412][717]LogSlate: Window 'Save Level As' being destroyed
+[2020.02.18-18.07.51:298][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.02.18-18.07.51:419][717]LogAIModule: Creating AISystem for world map_1
+[2020.02.18-18.07.51:433][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/map_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.18-18.07.51:462][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.02.18-18.07.51:655][717]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/map_116C8F2C848386E56B4ADD295B8FBA1FF.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/map_1.umap'
+[2020.02.18-18.07.52:113][717]LogFileHelpers: Saving map 'map_1' took 1.389
+[2020.02.18-18.07.52:114][717]Cmd: MAP LOAD FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/map_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.18-18.07.52:147][717]LightingResults: New page: Lighting Build
+[2020.02.18-18.07.52:148][717]LoadErrors: New page: Loading map: map_1.umap
+[2020.02.18-18.07.52:149][717]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.07.52:149][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.07.52:201][717]MapCheck: New page: Map Check
+[2020.02.18-18.07.52:201][717]LightingResults: New page: Lighting Build
+[2020.02.18-18.07.52:231][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.02.18-18.07.52:371][717]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.18-18.07.52:469][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.02.18-18.07.52:479][717]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.18-18.07.52:479][717]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2020.02.18-18.07.52:479][717]LogFileHelpers: Loading map 'map_1' took 0.365
+[2020.02.18-18.07.52:483][717]AssetCheck: New page: Asset Save: map_1
+[2020.02.18-18.07.52:483][717]LogContentValidation: Display: Validating World /Game/map_1.map_1
+[2020.02.18-18.07.56:230][881]LogAssetEditorSubsystem: Opening Asset editor for MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.02.18-18.08.10:919][535]LogSlate: Window 'Save Level As' being destroyed
+[2020.02.18-18.08.21:937][182]MapCheck: New page: Map Check
+[2020.02.18-18.08.21:957][182]Cmd: MAP REBUILD ALLVISIBLE
+[2020.02.18-18.08.21:957][182]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.02.18-18.08.22:130][182]LogWorld: UWorld::CleanupWorld for map_1, bSessionEnded=true, bCleanupResources=false
+[2020.02.18-18.08.22:167][182]LightingResults: New page: Lighting Build - Feb 18, 2020, 6:08:22 AM
+[2020.02.18-18.08.22:175][182]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.18-18.08.22:179][182]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.18-18.08.22:179][182]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.18-18.08.22:180][182]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.18-18.08.22:180][182]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16472
+[2020.02.18-18.08.26:701][182]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.18-18.08.26:701][182]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.18-18.08.26:701][182]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.18-18.08.26:701][182]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.18-18.08.26:701][182]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.18-18.08.26:827][182]LogEditorBuildUtils: Build time 0:04
+[2020.02.18-18.08.28:494][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.02.18-18.08.35:918][238]Job is a success!
+[2020.02.18-18.08.36:752][239]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.022s
+[2020.02.18-18.08.36:752][239]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.18-18.08.36:752][239]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.02.18-18.08.36:752][239]LogVolumetricLightmapImport:      Bricks at depth
+[2020.02.18-18.08.36:752][239]LogVolumetricLightmapImport:          0: 1.7% covering 100.0% of volume
+[2020.02.18-18.08.36:752][239]LogVolumetricLightmapImport:          1: 6.7% covering 6.3% of volume
+[2020.02.18-18.08.36:752][239]LogVolumetricLightmapImport:          2: 91.7% covering 1.3% of volume
+[2020.02.18-18.08.36:752][239]LogVolumetricLightmapImport:      Bricks in each level
+[2020.02.18-18.08.36:752][239]LogVolumetricLightmapImport:          map_1 			 60 bricks 	 100.0% (Persistent Level)
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 256X128)
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 256X128)
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2020.02.18-18.08.37:830][239]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/13462/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/5/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_88BBE0AE48179639010BDFB0CCEFF__7361A1E5E7E51E0DEEE9DCA3A67905CED63B4A9E.udd.
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 256X128)
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 128X64)
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 128X128)
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 128X128)
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 128X64)
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 64X32)
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 64X64)
+[2020.02.18-18.08.37:830][239]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 64X64)
+[2020.02.18-18.08.38:030][239]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 128X64)
+[2020.02.18-18.08.38:030][239]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 32X32)
+[2020.02.18-18.08.38:030][239]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 128X64)
+[2020.02.18-18.08.38:030][239]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X64)
+[2020.02.18-18.08.38:030][239]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 256X64)
+[2020.02.18-18.08.38:030][239]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X64)
+[2020.02.18-18.08.38:062][239]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2020.02.18-18.08.38:064][239]LogStaticLightingSystem: map_1_BuiltData storing lightmap data for 121 meshes in 8 LightmapResourceClusters (15.1 Meshes per cluster).
+[2020.02.18-18.08.38:095][239]Lightmass on DESKTOP-IFJPMID: 8.62 sec total, 147 ms importing, 61 ms setup, 1.10 sec photons, 7.28 sec processing, 0 ms extra exporting [185/185 mappings]. Threads: 50.9 sec total, 24.9 sec processing.
+[2020.02.18-18.08.38:095][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.02.18-18.08.38:131][239]LogStaticLightingSystem: Illumination: 15.6 sec (787 ms encoding lightmaps, 224 ms encoding shadowmaps)
+[2020.02.18-18.08.38:131][239]LogStaticLightingSystem: Lightmap texture memory:  5.9 MB (0.6 MB streaming, 5.3 MB non-streaming), 16 textures
+[2020.02.18-18.08.38:131][239]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (0.1 MB streaming, 1.3 MB non-streaming), 7 textures
+[2020.02.18-18.08.38:718][239]DumpUnbuiltLightIteractions
+[2020.02.18-18.08.38:718][239]Lights with unbuilt interactions: 0
+[2020.02.18-18.08.38:718][239]
+[2020.02.18-18.08.38:718][239]Primitives with unbuilt interactions: 0
+[2020.02.18-18.08.38:803][240]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.18-18.08.38:803][240]MapCheck: New page: map_1 - Feb 18, 2020, 6:08:38 AM
+[2020.02.18-18.08.38:804][240]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.365ms to complete.
+[2020.02.18-18.08.59:315][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.02.18-18.08.59:342][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/map_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.18-18.08.59:365][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.02.18-18.08.59:582][453]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/map_1869FF8A044927FB397E6CFBCDAB6ED95.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/map_1.umap'
+[2020.02.18-18.08.59:591][453]LogFileHelpers: Saving map 'map_1' took 0.249
+[2020.02.18-18.08.59:591][453]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map_1_BuiltData" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/map_1_BuiltData.uasset" SILENT=true
+[2020.02.18-18.08.59:825][453]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/map_1_BuiltData9283D819481756E0B24BEB9592979745.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/map_1_BuiltData.uasset'
+[2020.02.18-18.08.59:840][453]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.18-18.08.59:840][453]LogContentValidation: Display: Validating World /Game/map_1.map_1
+[2020.02.18-18.08.59:840][453]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/map_1_BuiltData.map_1_BuiltData
