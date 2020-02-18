@@ -606,3 +606,1055 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.18-17.20.00:422][  7]LogAssetRegistry: Asset discovery search completed in 8.4854 seconds
 [2020.02.18-17.20.00:425][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
 [2020.02.18-17.20.04:490][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.18-17.21.23:088][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.18-17.21.26:587][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2020.02.18-17.21.27:472][ 16]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall4)
+[2020.02.18-17.21.28:188][ 58]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor)
+[2020.02.18-17.21.28:853][ 97]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (BigWall)
+[2020.02.18-17.21.29:652][144]LogEditorViewport: Clicking on Actor (CTRL LMB): PostProcessVolume (PostProcessVolume)
+[2020.02.18-17.21.30:531][196]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube9)
+[2020.02.18-17.21.31:427][249]LogEditorViewport: Clicking on Actor (CTRL LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2020.02.18-17.21.33:821][392]Cmd: TRANSACTION UNDO
+[2020.02.18-17.21.33:821][392]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.18-17.21.33:837][392]LogSlate: Took 0.000484 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.18-17.21.36:851][558]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube11)
+[2020.02.18-17.21.37:548][599]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube10)
+[2020.02.18-17.21.38:336][646]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube14)
+[2020.02.18-17.21.38:912][680]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall3)
+[2020.02.18-17.21.39:982][743]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall1)
+[2020.02.18-17.21.42:694][905]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall1)
+[2020.02.18-17.21.53:745][543]Cmd: DELETE
+[2020.02.18-17.21.53:745][543]Cmd: ACTOR DELETE
+[2020.02.18-17.21.53:943][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.18-17.21.53:944][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.18-17.21.53:944][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.18-17.21.53:944][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.18-17.21.53:944][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.18-17.21.53:944][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.18-17.21.53:945][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.18-17.21.53:945][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.18-17.21.53:945][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.18-17.21.53:945][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.18-17.21.53:945][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.18-17.21.53:945][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.18-17.21.53:945][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.18-17.21.53:946][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.18-17.21.53:946][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.18-17.21.53:946][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.18-17.21.53:946][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.18-17.21.53:946][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.18-17.21.53:946][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.18-17.21.53:946][543]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.18-17.21.53:971][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.02.18-17.21.53:981][543]LogEditorActor: Deleted 20 Actors (0.094 secs)
+[2020.02.18-17.21.55:172][615]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.02.18-17.21.56:318][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2020.02.18-17.21.57:742][760]Cmd: DELETE
+[2020.02.18-17.21.57:742][760]Cmd: ACTOR DELETE
+[2020.02.18-17.21.57:743][760]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.18-17.21.57:766][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.02.18-17.21.57:767][760]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.02.18-17.22.01:580][963]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.02.18-17.22.13:737][610]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.02.18-17.22.13:737][610]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2020.02.18-17.22.13:737][610]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2020.02.18-17.22.13:737][610]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2020.02.18-17.22.13:737][610]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2020.02.18-17.22.13:737][610]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2020.02.18-17.22.13:737][610]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2020.02.18-17.22.13:737][610]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2020.02.18-17.22.13:737][610]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2020.02.18-17.22.13:737][610]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2020.02.18-17.22.13:737][610]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2020.02.18-17.22.13:737][610]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2020.02.18-17.22.13:737][610]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2020.02.18-17.22.13:737][610]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2020.02.18-17.22.13:737][610]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2020.02.18-17.22.13:737][610]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2020.02.18-17.22.27:916][376]LogRenderer: Reallocating scene render targets to support 960x324 Format 9 NumSamples 1 (Frame:3813).
+[2020.02.18-17.22.27:937][377]LogRenderer: Reallocating scene render targets to support 996x324 Format 9 NumSamples 1 (Frame:3815).
+[2020.02.18-17.22.27:959][378]LogRenderer: Reallocating scene render targets to support 1032x324 Format 9 NumSamples 1 (Frame:3817).
+[2020.02.18-17.22.27:984][379]LogRenderer: Reallocating scene render targets to support 1048x324 Format 9 NumSamples 1 (Frame:3819).
+[2020.02.18-17.22.28:010][380]LogRenderer: Reallocating scene render targets to support 1080x324 Format 9 NumSamples 1 (Frame:3821).
+[2020.02.18-17.22.28:042][381]LogRenderer: Reallocating scene render targets to support 1104x324 Format 9 NumSamples 1 (Frame:3823).
+[2020.02.18-17.22.28:074][382]LogRenderer: Reallocating scene render targets to support 1120x324 Format 9 NumSamples 1 (Frame:3825).
+[2020.02.18-17.22.28:096][383]LogRenderer: Reallocating scene render targets to support 1124x324 Format 9 NumSamples 1 (Frame:3827).
+[2020.02.18-17.22.37:667][954]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2020.02.18-17.22.37:669][954]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2020.02.18-17.22.37:670][954]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2020.02.18-17.22.37:672][954]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2020.02.18-17.22.37:673][954]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2020.02.18-17.22.37:674][954]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2020.02.18-17.22.37:676][954]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2020.02.18-17.22.37:678][954]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2020.02.18-17.22.37:678][954]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2020.02.18-17.22.37:681][954]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2020.02.18-17.22.37:682][954]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2020.02.18-17.22.37:684][954]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2020.02.18-17.22.37:685][954]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2020.02.18-17.22.37:688][954]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2020.02.18-17.22.37:691][954]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2020.02.18-17.22.37:695][954]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2020.02.18-17.22.37:695][954]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2020.02.18-17.22.37:697][954]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2020.02.18-17.22.37:697][954]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2020.02.18-17.22.37:700][954]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2020.02.18-17.22.37:701][954]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2020.02.18-17.22.37:702][954]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2020.02.18-17.22.37:703][954]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2020.02.18-17.22.37:705][954]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2020.02.18-17.22.37:705][954]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2020.02.18-17.22.37:707][954]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2020.02.18-17.22.37:708][954]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2020.02.18-17.22.37:710][954]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2020.02.18-17.22.37:711][954]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2020.02.18-17.22.37:713][954]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2020.02.18-17.22.37:714][954]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2020.02.18-17.22.37:716][954]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2020.02.18-17.22.37:716][954]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2020.02.18-17.22.37:718][954]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2020.02.18-17.22.37:719][954]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2020.02.18-17.22.37:721][954]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2020.02.18-17.22.37:721][954]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2020.02.18-17.22.37:723][954]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2020.02.18-17.22.37:723][954]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2020.02.18-17.22.37:726][954]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2020.02.18-17.22.37:727][954]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2020.02.18-17.22.37:729][954]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 64X64)
+[2020.02.18-17.22.37:729][954]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2020.02.18-17.22.37:732][954]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 64X64)
+[2020.02.18-17.22.37:732][954]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2020.02.18-17.22.37:733][954]LogTexture: Display: Building textures: Texture2D_38 (BGRA8, 64X64)
+[2020.02.18-17.22.37:735][954]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2020.02.18-17.22.37:736][954]LogTexture: Display: Building textures: Texture2D_39 (BGRA8, 64X64)
+[2020.02.18-17.22.37:737][954]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2020.02.18-17.22.37:739][954]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 64X64)
+[2020.02.18-17.22.37:739][954]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2020.02.18-17.22.37:741][954]LogTexture: Display: Building textures: Texture2D_41 (BGRA8, 64X64)
+[2020.02.18-17.22.37:741][954]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2020.02.18-17.22.37:744][954]LogTexture: Display: Building textures: Texture2D_42 (BGRA8, 64X64)
+[2020.02.18-17.22.37:744][954]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2020.02.18-17.22.37:747][954]LogTexture: Display: Building textures: Texture2D_43 (BGRA8, 64X64)
+[2020.02.18-17.22.37:748][954]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2020.02.18-17.22.37:749][954]LogTexture: Display: Building textures: Texture2D_44 (BGRA8, 64X64)
+[2020.02.18-17.22.37:750][954]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2020.02.18-17.22.37:751][954]LogTexture: Display: Building textures: Texture2D_45 (BGRA8, 64X64)
+[2020.02.18-17.22.37:753][954]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2020.02.18-17.22.37:755][954]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 64X64)
+[2020.02.18-17.22.37:756][954]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2020.02.18-17.22.37:758][954]LogTexture: Display: Building textures: Texture2D_47 (BGRA8, 64X64)
+[2020.02.18-17.22.37:758][954]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2020.02.18-17.22.37:760][954]LogTexture: Display: Building textures: Texture2D_48 (BGRA8, 64X64)
+[2020.02.18-17.22.37:761][954]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2020.02.18-17.22.37:763][954]LogTexture: Display: Building textures: Texture2D_49 (BGRA8, 64X64)
+[2020.02.18-17.22.37:763][954]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2020.02.18-17.22.37:765][954]LogTexture: Display: Building textures: Texture2D_50 (BGRA8, 64X64)
+[2020.02.18-17.22.37:766][954]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2020.02.18-17.22.37:767][954]LogTexture: Display: Building textures: Texture2D_51 (BGRA8, 64X64)
+[2020.02.18-17.22.37:768][954]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2020.02.18-17.22.37:770][954]LogTexture: Display: Building textures: Texture2D_52 (BGRA8, 64X64)
+[2020.02.18-17.22.37:770][954]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2020.02.18-17.22.37:773][954]LogTexture: Display: Building textures: Texture2D_53 (BGRA8, 64X64)
+[2020.02.18-17.22.37:773][954]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2020.02.18-17.22.37:776][954]LogTexture: Display: Building textures: Texture2D_54 (BGRA8, 64X64)
+[2020.02.18-17.22.37:776][954]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2020.02.18-17.22.37:778][954]LogTexture: Display: Building textures: Texture2D_55 (BGRA8, 64X64)
+[2020.02.18-17.22.37:779][954]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2020.02.18-17.22.37:781][954]LogTexture: Display: Building textures: Texture2D_56 (BGRA8, 64X64)
+[2020.02.18-17.22.37:782][954]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 64X64)
+[2020.02.18-17.22.37:783][954]LogTexture: Display: Building textures: Texture2D_57 (BGRA8, 64X64)
+[2020.02.18-17.22.37:784][954]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 64X64)
+[2020.02.18-17.22.37:786][954]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 64X64)
+[2020.02.18-17.22.37:786][954]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 64X64)
+[2020.02.18-17.22.37:788][954]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 64X64)
+[2020.02.18-17.22.37:789][954]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 64X64)
+[2020.02.18-17.22.37:792][954]LogTexture: Display: Building textures: Texture2D_60 (BGRA8, 64X64)
+[2020.02.18-17.22.37:793][954]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 64X64)
+[2020.02.18-17.22.37:795][954]LogTexture: Display: Building textures: Texture2D_61 (BGRA8, 64X64)
+[2020.02.18-17.22.37:795][954]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 64X64)
+[2020.02.18-17.22.37:797][954]LogTexture: Display: Building textures: Texture2D_62 (BGRA8, 64X64)
+[2020.02.18-17.22.37:798][954]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2020.02.18-17.22.37:800][954]LogTexture: Display: Building textures: Texture2D_63 (BGRA8, 64X64)
+[2020.02.18-17.22.37:801][954]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2020.02.18-17.22.37:803][954]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 64X64)
+[2020.02.18-17.22.37:804][954]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 64X64)
+[2020.02.18-17.22.37:805][954]LogTexture: Display: Building textures: Texture2D_65 (BGRA8, 64X64)
+[2020.02.18-17.22.37:806][954]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 64X64)
+[2020.02.18-17.22.37:808][954]LogTexture: Display: Building textures: Texture2D_66 (BGRA8, 64X64)
+[2020.02.18-17.22.37:809][954]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 64X64)
+[2020.02.18-17.22.37:810][954]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 64X64)
+[2020.02.18-17.22.37:811][954]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 64X64)
+[2020.02.18-17.22.37:813][954]LogTexture: Display: Building textures: Texture2D_68 (BGRA8, 64X64)
+[2020.02.18-17.22.37:813][954]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 64X64)
+[2020.02.18-17.22.37:815][954]LogTexture: Display: Building textures: Texture2D_69 (BGRA8, 64X64)
+[2020.02.18-17.22.37:816][954]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 64X64)
+[2020.02.18-17.22.37:817][954]LogTexture: Display: Building textures: Texture2D_70 (BGRA8, 64X64)
+[2020.02.18-17.22.37:818][954]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 64X64)
+[2020.02.18-17.22.37:820][954]LogTexture: Display: Building textures: Texture2D_71 (BGRA8, 64X64)
+[2020.02.18-17.22.37:821][954]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 64X64)
+[2020.02.18-17.22.37:825][954]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 64X64)
+[2020.02.18-17.22.37:825][954]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 64X64)
+[2020.02.18-17.22.37:828][954]LogTexture: Display: Building textures: Texture2D_73 (BGRA8, 64X64)
+[2020.02.18-17.22.37:829][954]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 64X64)
+[2020.02.18-17.22.37:830][954]LogTexture: Display: Building textures: Texture2D_74 (BGRA8, 64X64)
+[2020.02.18-17.22.37:831][954]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 64X64)
+[2020.02.18-17.22.37:832][954]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 64X64)
+[2020.02.18-17.22.37:833][954]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 64X64)
+[2020.02.18-17.22.37:836][954]LogTexture: Display: Building textures: Texture2D_76 (BGRA8, 64X64)
+[2020.02.18-17.22.37:837][954]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 64X64)
+[2020.02.18-17.22.37:839][954]LogTexture: Display: Building textures: Texture2D_77 (BGRA8, 64X64)
+[2020.02.18-17.22.37:840][954]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 64X64)
+[2020.02.18-17.22.37:842][954]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 64X64)
+[2020.02.18-17.22.37:842][954]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 64X64)
+[2020.02.18-17.22.37:846][954]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 64X64)
+[2020.02.18-17.22.37:952][956]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 64X64)
+[2020.02.18-17.22.37:954][956]LogTexture: Display: Building textures: Texture2D_80 (BGRA8, 64X64)
+[2020.02.18-17.22.38:031][957]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 64X64)
+[2020.02.18-17.22.38:034][957]LogTexture: Display: Building textures: Texture2D_81 (BGRA8, 64X64)
+[2020.02.18-17.22.38:035][957]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 64X64)
+[2020.02.18-17.22.38:037][957]LogTexture: Display: Building textures: Texture2D_82 (BGRA8, 64X64)
+[2020.02.18-17.22.38:038][957]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 64X64)
+[2020.02.18-17.22.38:039][957]LogTexture: Display: Building textures: Texture2D_83 (BGRA8, 64X64)
+[2020.02.18-17.22.38:040][957]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 64X64)
+[2020.02.18-17.22.38:042][957]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 64X64)
+[2020.02.18-17.22.38:042][957]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2020.02.18-17.22.38:045][957]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 64X64)
+[2020.02.18-17.22.38:046][957]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 64X64)
+[2020.02.18-17.22.38:047][957]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 64X64)
+[2020.02.18-17.22.38:048][957]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 64X64)
+[2020.02.18-17.22.38:050][957]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 64X64)
+[2020.02.18-17.22.38:050][957]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 64X64)
+[2020.02.18-17.22.38:054][957]LogTexture: Display: Building textures: Texture2D_88 (BGRA8, 64X64)
+[2020.02.18-17.22.38:055][957]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 64X64)
+[2020.02.18-17.22.38:057][957]LogTexture: Display: Building textures: Texture2D_89 (BGRA8, 64X64)
+[2020.02.18-17.22.38:057][957]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 64X64)
+[2020.02.18-17.22.38:059][957]LogTexture: Display: Building textures: Texture2D_90 (BGRA8, 64X64)
+[2020.02.18-17.22.38:059][957]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 64X64)
+[2020.02.18-17.22.38:062][957]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 64X64)
+[2020.02.18-17.22.38:062][957]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 64X64)
+[2020.02.18-17.22.38:064][957]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 64X64)
+[2020.02.18-17.22.38:064][957]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2020.02.18-17.22.38:066][957]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 64X64)
+[2020.02.18-17.22.38:067][957]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2020.02.18-17.22.38:069][957]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 64X64)
+[2020.02.18-17.22.38:070][957]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 64X64)
+[2020.02.18-17.22.38:071][957]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 64X64)
+[2020.02.18-17.22.38:072][957]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 64X64)
+[2020.02.18-17.22.38:074][957]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 64X64)
+[2020.02.18-17.22.38:074][957]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 64X64)
+[2020.02.18-17.22.38:076][957]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 64X64)
+[2020.02.18-17.22.38:077][957]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 64X64)
+[2020.02.18-17.22.38:078][957]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 64X64)
+[2020.02.18-17.22.38:079][957]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 64X64)
+[2020.02.18-17.22.38:081][957]LogTexture: Display: Building textures: Texture2D_99 (BGRA8, 64X64)
+[2020.02.18-17.22.38:082][957]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 64X64)
+[2020.02.18-17.22.38:083][957]LogTexture: Display: Building textures: Texture2D_100 (BGRA8, 64X64)
+[2020.02.18-17.22.38:084][957]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2020.02.18-17.22.38:085][957]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 64X64)
+[2020.02.18-17.22.38:086][957]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 64X64)
+[2020.02.18-17.22.38:088][957]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 64X64)
+[2020.02.18-17.22.38:089][957]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2020.02.18-17.22.38:090][957]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 64X64)
+[2020.02.18-17.22.38:091][957]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 64X64)
+[2020.02.18-17.22.38:093][957]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 64X64)
+[2020.02.18-17.22.38:094][957]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 64X64)
+[2020.02.18-17.22.38:096][957]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 64X64)
+[2020.02.18-17.22.38:096][957]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 64X64)
+[2020.02.18-17.22.38:098][957]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 64X64)
+[2020.02.18-17.22.38:098][957]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 64X64)
+[2020.02.18-17.22.38:100][957]LogTexture: Display: Building textures: Texture2D_107 (BGRA8, 64X64)
+[2020.02.18-17.22.38:100][957]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 64X64)
+[2020.02.18-17.22.38:102][957]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 64X64)
+[2020.02.18-17.22.38:103][957]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 64X64)
+[2020.02.18-17.22.38:105][957]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 64X64)
+[2020.02.18-17.22.38:105][957]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 64X64)
+[2020.02.18-17.22.38:107][957]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 64X64)
+[2020.02.18-17.22.38:108][957]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 64X64)
+[2020.02.18-17.22.38:110][957]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 64X64)
+[2020.02.18-17.22.38:111][957]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 64X64)
+[2020.02.18-17.22.38:112][957]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 64X64)
+[2020.02.18-17.22.38:113][957]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 64X64)
+[2020.02.18-17.22.38:114][957]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 64X64)
+[2020.02.18-17.22.38:115][957]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 64X64)
+[2020.02.18-17.22.38:117][957]LogTexture: Display: Building textures: Texture2D_114 (BGRA8, 64X64)
+[2020.02.18-17.22.38:117][957]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 64X64)
+[2020.02.18-17.22.38:119][957]LogTexture: Display: Building textures: Texture2D_115 (BGRA8, 64X64)
+[2020.02.18-17.22.38:120][957]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 64X64)
+[2020.02.18-17.22.38:121][957]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 64X64)
+[2020.02.18-17.22.38:122][957]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 64X64)
+[2020.02.18-17.22.38:124][957]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 64X64)
+[2020.02.18-17.22.38:125][957]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 64X64)
+[2020.02.18-17.22.38:126][957]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 64X64)
+[2020.02.18-17.22.38:128][957]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 64X64)
+[2020.02.18-17.22.38:129][957]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 64X64)
+[2020.02.18-17.22.38:130][957]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 64X64)
+[2020.02.18-17.22.38:132][957]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 64X64)
+[2020.02.18-17.22.38:132][957]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 64X64)
+[2020.02.18-17.22.38:134][957]LogTexture: Display: Building textures: Texture2D_121 (BGRA8, 64X64)
+[2020.02.18-17.22.38:134][957]LogTexture: Display: Building textures: Texture2D_122 (BGRA8, 64X64)
+[2020.02.18-17.22.38:136][957]LogTexture: Display: Building textures: Texture2D_122 (BGRA8, 64X64)
+[2020.02.18-17.22.38:137][957]LogTexture: Display: Building textures: Texture2D_123 (BGRA8, 64X64)
+[2020.02.18-17.22.38:139][957]LogTexture: Display: Building textures: Texture2D_123 (BGRA8, 64X64)
+[2020.02.18-17.22.38:139][957]LogTexture: Display: Building textures: Texture2D_124 (BGRA8, 64X64)
+[2020.02.18-17.22.38:141][957]LogTexture: Display: Building textures: Texture2D_124 (BGRA8, 64X64)
+[2020.02.18-17.22.38:141][957]LogTexture: Display: Building textures: Texture2D_125 (BGRA8, 64X64)
+[2020.02.18-17.22.38:143][957]LogTexture: Display: Building textures: Texture2D_125 (BGRA8, 64X64)
+[2020.02.18-17.22.38:144][957]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 64X64)
+[2020.02.18-17.22.38:146][957]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 64X64)
+[2020.02.18-17.22.38:146][957]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 64X64)
+[2020.02.18-17.22.38:148][957]LogTexture: Display: Building textures: Texture2D_127 (BGRA8, 64X64)
+[2020.02.18-17.22.38:149][957]LogTexture: Display: Building textures: Texture2D_128 (BGRA8, 64X64)
+[2020.02.18-17.22.38:150][957]LogTexture: Display: Building textures: Texture2D_128 (BGRA8, 64X64)
+[2020.02.18-17.22.38:151][957]LogTexture: Display: Building textures: Texture2D_129 (BGRA8, 64X64)
+[2020.02.18-17.22.38:153][957]LogTexture: Display: Building textures: Texture2D_129 (BGRA8, 64X64)
+[2020.02.18-17.22.38:154][957]LogTexture: Display: Building textures: Texture2D_130 (BGRA8, 64X64)
+[2020.02.18-17.22.38:156][957]LogTexture: Display: Building textures: Texture2D_130 (BGRA8, 64X64)
+[2020.02.18-17.22.38:156][957]LogTexture: Display: Building textures: Texture2D_131 (BGRA8, 64X64)
+[2020.02.18-17.22.38:158][957]LogTexture: Display: Building textures: Texture2D_131 (BGRA8, 64X64)
+[2020.02.18-17.22.38:159][957]LogTexture: Display: Building textures: Texture2D_132 (BGRA8, 64X64)
+[2020.02.18-17.22.38:161][957]LogTexture: Display: Building textures: Texture2D_132 (BGRA8, 64X64)
+[2020.02.18-17.22.38:162][957]LogTexture: Display: Building textures: Texture2D_133 (BGRA8, 64X64)
+[2020.02.18-17.22.38:163][957]LogTexture: Display: Building textures: Texture2D_133 (BGRA8, 64X64)
+[2020.02.18-17.22.38:164][957]LogTexture: Display: Building textures: Texture2D_134 (BGRA8, 64X64)
+[2020.02.18-17.22.38:166][957]LogTexture: Display: Building textures: Texture2D_134 (BGRA8, 64X64)
+[2020.02.18-17.22.38:166][957]LogTexture: Display: Building textures: Texture2D_135 (BGRA8, 64X64)
+[2020.02.18-17.22.38:168][957]LogTexture: Display: Building textures: Texture2D_135 (BGRA8, 64X64)
+[2020.02.18-17.22.38:169][957]LogTexture: Display: Building textures: Texture2D_136 (BGRA8, 64X64)
+[2020.02.18-17.22.38:171][957]LogTexture: Display: Building textures: Texture2D_136 (BGRA8, 64X64)
+[2020.02.18-17.22.38:172][957]LogTexture: Display: Building textures: Texture2D_137 (BGRA8, 64X64)
+[2020.02.18-17.22.38:174][957]LogTexture: Display: Building textures: Texture2D_137 (BGRA8, 64X64)
+[2020.02.18-17.22.38:175][957]LogTexture: Display: Building textures: Texture2D_138 (BGRA8, 64X64)
+[2020.02.18-17.22.38:178][957]LogTexture: Display: Building textures: Texture2D_138 (BGRA8, 64X64)
+[2020.02.18-17.22.38:179][957]LogTexture: Display: Building textures: Texture2D_139 (BGRA8, 64X64)
+[2020.02.18-17.22.38:180][957]LogTexture: Display: Building textures: Texture2D_139 (BGRA8, 64X64)
+[2020.02.18-17.22.38:181][957]LogTexture: Display: Building textures: Texture2D_140 (BGRA8, 64X64)
+[2020.02.18-17.22.38:183][957]LogTexture: Display: Building textures: Texture2D_140 (BGRA8, 64X64)
+[2020.02.18-17.22.38:184][957]LogTexture: Display: Building textures: Texture2D_141 (BGRA8, 64X64)
+[2020.02.18-17.22.38:186][957]LogTexture: Display: Building textures: Texture2D_141 (BGRA8, 64X64)
+[2020.02.18-17.22.38:187][957]LogTexture: Display: Building textures: Texture2D_142 (BGRA8, 64X64)
+[2020.02.18-17.22.38:188][957]LogTexture: Display: Building textures: Texture2D_142 (BGRA8, 64X64)
+[2020.02.18-17.22.38:189][957]LogTexture: Display: Building textures: Texture2D_143 (BGRA8, 64X64)
+[2020.02.18-17.22.38:192][957]LogTexture: Display: Building textures: Texture2D_143 (BGRA8, 64X64)
+[2020.02.18-17.22.38:193][957]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 64X64)
+[2020.02.18-17.22.38:197][957]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 64X64)
+[2020.02.18-17.22.38:312][959]LogTexture: Display: Building textures: Texture2D_145 (BGRA8, 64X64)
+[2020.02.18-17.22.38:315][959]LogTexture: Display: Building textures: Texture2D_145 (BGRA8, 64X64)
+[2020.02.18-17.22.38:315][959]LogTexture: Display: Building textures: Texture2D_146 (BGRA8, 64X64)
+[2020.02.18-17.22.38:318][959]LogTexture: Display: Building textures: Texture2D_146 (BGRA8, 64X64)
+[2020.02.18-17.22.38:318][959]LogTexture: Display: Building textures: Texture2D_147 (BGRA8, 64X64)
+[2020.02.18-17.22.38:321][959]LogTexture: Display: Building textures: Texture2D_147 (BGRA8, 64X64)
+[2020.02.18-17.22.38:321][959]LogTexture: Display: Building textures: Texture2D_148 (BGRA8, 64X64)
+[2020.02.18-17.22.38:323][959]LogTexture: Display: Building textures: Texture2D_148 (BGRA8, 64X64)
+[2020.02.18-17.22.38:323][959]LogTexture: Display: Building textures: Texture2D_149 (BGRA8, 64X64)
+[2020.02.18-17.22.38:326][959]LogTexture: Display: Building textures: Texture2D_149 (BGRA8, 64X64)
+[2020.02.18-17.22.38:327][959]LogTexture: Display: Building textures: Texture2D_150 (BGRA8, 64X64)
+[2020.02.18-17.22.38:330][959]LogTexture: Display: Building textures: Texture2D_150 (BGRA8, 64X64)
+[2020.02.18-17.22.38:330][959]LogTexture: Display: Building textures: Texture2D_151 (BGRA8, 64X64)
+[2020.02.18-17.22.38:332][959]LogTexture: Display: Building textures: Texture2D_151 (BGRA8, 64X64)
+[2020.02.18-17.22.38:332][959]LogTexture: Display: Building textures: Texture2D_152 (BGRA8, 64X64)
+[2020.02.18-17.22.38:336][959]LogTexture: Display: Building textures: Texture2D_152 (BGRA8, 64X64)
+[2020.02.18-17.22.38:337][959]LogTexture: Display: Building textures: Texture2D_153 (BGRA8, 64X64)
+[2020.02.18-17.22.38:338][959]LogTexture: Display: Building textures: Texture2D_153 (BGRA8, 64X64)
+[2020.02.18-17.22.38:339][959]LogTexture: Display: Building textures: Texture2D_154 (BGRA8, 64X64)
+[2020.02.18-17.22.38:341][959]LogTexture: Display: Building textures: Texture2D_154 (BGRA8, 64X64)
+[2020.02.18-17.22.38:342][959]LogTexture: Display: Building textures: Texture2D_155 (BGRA8, 64X64)
+[2020.02.18-17.22.38:345][959]LogTexture: Display: Building textures: Texture2D_155 (BGRA8, 64X64)
+[2020.02.18-17.22.38:345][959]LogTexture: Display: Building textures: Texture2D_156 (BGRA8, 64X64)
+[2020.02.18-17.22.38:347][959]LogTexture: Display: Building textures: Texture2D_156 (BGRA8, 64X64)
+[2020.02.18-17.22.38:348][959]LogTexture: Display: Building textures: Texture2D_157 (BGRA8, 64X64)
+[2020.02.18-17.22.38:350][959]LogTexture: Display: Building textures: Texture2D_157 (BGRA8, 64X64)
+[2020.02.18-17.22.38:351][959]LogTexture: Display: Building textures: Texture2D_158 (BGRA8, 64X64)
+[2020.02.18-17.22.38:352][959]LogTexture: Display: Building textures: Texture2D_158 (BGRA8, 64X64)
+[2020.02.18-17.22.38:353][959]LogTexture: Display: Building textures: Texture2D_159 (BGRA8, 64X64)
+[2020.02.18-17.22.38:355][959]LogTexture: Display: Building textures: Texture2D_159 (BGRA8, 64X64)
+[2020.02.18-17.22.38:356][959]LogTexture: Display: Building textures: Texture2D_160 (BGRA8, 64X64)
+[2020.02.18-17.22.38:358][959]LogTexture: Display: Building textures: Texture2D_160 (BGRA8, 64X64)
+[2020.02.18-17.22.38:359][959]LogTexture: Display: Building textures: Texture2D_161 (BGRA8, 64X64)
+[2020.02.18-17.22.38:361][959]LogTexture: Display: Building textures: Texture2D_161 (BGRA8, 64X64)
+[2020.02.18-17.22.38:361][959]LogTexture: Display: Building textures: Texture2D_162 (BGRA8, 64X64)
+[2020.02.18-17.22.38:363][959]LogTexture: Display: Building textures: Texture2D_162 (BGRA8, 64X64)
+[2020.02.18-17.22.38:363][959]LogTexture: Display: Building textures: Texture2D_163 (BGRA8, 64X64)
+[2020.02.18-17.22.38:366][959]LogTexture: Display: Building textures: Texture2D_163 (BGRA8, 64X64)
+[2020.02.18-17.22.38:366][959]LogTexture: Display: Building textures: Texture2D_164 (BGRA8, 64X64)
+[2020.02.18-17.22.38:369][959]LogTexture: Display: Building textures: Texture2D_164 (BGRA8, 64X64)
+[2020.02.18-17.22.38:369][959]LogTexture: Display: Building textures: Texture2D_165 (BGRA8, 64X64)
+[2020.02.18-17.22.38:371][959]LogTexture: Display: Building textures: Texture2D_165 (BGRA8, 64X64)
+[2020.02.18-17.22.38:372][959]LogTexture: Display: Building textures: Texture2D_166 (BGRA8, 64X64)
+[2020.02.18-17.22.38:374][959]LogTexture: Display: Building textures: Texture2D_166 (BGRA8, 64X64)
+[2020.02.18-17.22.38:375][959]LogTexture: Display: Building textures: Texture2D_167 (BGRA8, 64X64)
+[2020.02.18-17.22.38:378][959]LogTexture: Display: Building textures: Texture2D_167 (BGRA8, 64X64)
+[2020.02.18-17.22.38:379][959]LogTexture: Display: Building textures: Texture2D_168 (BGRA8, 64X64)
+[2020.02.18-17.22.38:381][959]LogTexture: Display: Building textures: Texture2D_168 (BGRA8, 64X64)
+[2020.02.18-17.22.38:382][959]LogTexture: Display: Building textures: Texture2D_169 (BGRA8, 64X64)
+[2020.02.18-17.22.38:384][959]LogTexture: Display: Building textures: Texture2D_169 (BGRA8, 64X64)
+[2020.02.18-17.22.38:384][959]LogTexture: Display: Building textures: Texture2D_170 (BGRA8, 64X64)
+[2020.02.18-17.22.38:386][959]LogTexture: Display: Building textures: Texture2D_170 (BGRA8, 64X64)
+[2020.02.18-17.22.38:387][959]LogTexture: Display: Building textures: Texture2D_171 (BGRA8, 64X64)
+[2020.02.18-17.22.38:389][959]LogTexture: Display: Building textures: Texture2D_171 (BGRA8, 64X64)
+[2020.02.18-17.22.38:390][959]LogTexture: Display: Building textures: Texture2D_172 (BGRA8, 64X64)
+[2020.02.18-17.22.38:392][959]LogTexture: Display: Building textures: Texture2D_172 (BGRA8, 64X64)
+[2020.02.18-17.22.38:393][959]LogTexture: Display: Building textures: Texture2D_173 (BGRA8, 64X64)
+[2020.02.18-17.22.38:395][959]LogTexture: Display: Building textures: Texture2D_173 (BGRA8, 64X64)
+[2020.02.18-17.22.38:396][959]LogTexture: Display: Building textures: Texture2D_174 (BGRA8, 64X64)
+[2020.02.18-17.22.38:398][959]LogTexture: Display: Building textures: Texture2D_174 (BGRA8, 64X64)
+[2020.02.18-17.22.38:399][959]LogTexture: Display: Building textures: Texture2D_175 (BGRA8, 64X64)
+[2020.02.18-17.22.38:401][959]LogTexture: Display: Building textures: Texture2D_175 (BGRA8, 64X64)
+[2020.02.18-17.22.38:402][959]LogTexture: Display: Building textures: Texture2D_176 (BGRA8, 64X64)
+[2020.02.18-17.22.38:404][959]LogTexture: Display: Building textures: Texture2D_176 (BGRA8, 64X64)
+[2020.02.18-17.22.38:405][959]LogTexture: Display: Building textures: Texture2D_177 (BGRA8, 64X64)
+[2020.02.18-17.22.38:407][959]LogTexture: Display: Building textures: Texture2D_177 (BGRA8, 64X64)
+[2020.02.18-17.22.38:408][959]LogTexture: Display: Building textures: Texture2D_178 (BGRA8, 64X64)
+[2020.02.18-17.22.38:410][959]LogTexture: Display: Building textures: Texture2D_178 (BGRA8, 64X64)
+[2020.02.18-17.22.38:411][959]LogTexture: Display: Building textures: Texture2D_179 (BGRA8, 64X64)
+[2020.02.18-17.22.38:414][959]LogTexture: Display: Building textures: Texture2D_179 (BGRA8, 64X64)
+[2020.02.18-17.22.38:414][959]LogTexture: Display: Building textures: Texture2D_180 (BGRA8, 64X64)
+[2020.02.18-17.22.38:416][959]LogTexture: Display: Building textures: Texture2D_180 (BGRA8, 64X64)
+[2020.02.18-17.22.38:417][959]LogTexture: Display: Building textures: Texture2D_181 (BGRA8, 64X64)
+[2020.02.18-17.22.38:418][959]LogTexture: Display: Building textures: Texture2D_181 (BGRA8, 64X64)
+[2020.02.18-17.22.38:419][959]LogTexture: Display: Building textures: Texture2D_182 (BGRA8, 64X64)
+[2020.02.18-17.22.38:421][959]LogTexture: Display: Building textures: Texture2D_182 (BGRA8, 64X64)
+[2020.02.18-17.22.38:422][959]LogTexture: Display: Building textures: Texture2D_183 (BGRA8, 64X64)
+[2020.02.18-17.22.38:424][959]LogTexture: Display: Building textures: Texture2D_183 (BGRA8, 64X64)
+[2020.02.18-17.22.38:425][959]LogTexture: Display: Building textures: Texture2D_184 (BGRA8, 64X64)
+[2020.02.18-17.22.38:427][959]LogTexture: Display: Building textures: Texture2D_184 (BGRA8, 64X64)
+[2020.02.18-17.22.38:428][959]LogTexture: Display: Building textures: Texture2D_185 (BGRA8, 64X64)
+[2020.02.18-17.22.38:430][959]LogTexture: Display: Building textures: Texture2D_185 (BGRA8, 64X64)
+[2020.02.18-17.22.38:430][959]LogTexture: Display: Building textures: Texture2D_186 (BGRA8, 64X64)
+[2020.02.18-17.22.38:432][959]LogTexture: Display: Building textures: Texture2D_186 (BGRA8, 64X64)
+[2020.02.18-17.22.38:433][959]LogTexture: Display: Building textures: Texture2D_187 (BGRA8, 64X64)
+[2020.02.18-17.22.38:434][959]LogTexture: Display: Building textures: Texture2D_187 (BGRA8, 64X64)
+[2020.02.18-17.22.38:435][959]LogTexture: Display: Building textures: Texture2D_188 (BGRA8, 64X64)
+[2020.02.18-17.22.38:437][959]LogTexture: Display: Building textures: Texture2D_188 (BGRA8, 64X64)
+[2020.02.18-17.22.38:438][959]LogTexture: Display: Building textures: Texture2D_189 (BGRA8, 64X64)
+[2020.02.18-17.22.38:440][959]LogTexture: Display: Building textures: Texture2D_189 (BGRA8, 64X64)
+[2020.02.18-17.22.38:440][959]LogTexture: Display: Building textures: Texture2D_190 (BGRA8, 64X64)
+[2020.02.18-17.22.38:443][959]LogTexture: Display: Building textures: Texture2D_190 (BGRA8, 64X64)
+[2020.02.18-17.22.38:444][959]LogTexture: Display: Building textures: Texture2D_191 (BGRA8, 64X64)
+[2020.02.18-17.22.38:446][959]LogTexture: Display: Building textures: Texture2D_191 (BGRA8, 64X64)
+[2020.02.18-17.22.38:447][959]LogTexture: Display: Building textures: Texture2D_192 (BGRA8, 64X64)
+[2020.02.18-17.22.38:449][959]LogTexture: Display: Building textures: Texture2D_192 (BGRA8, 64X64)
+[2020.02.18-17.22.38:450][959]LogTexture: Display: Building textures: Texture2D_193 (BGRA8, 64X64)
+[2020.02.18-17.22.38:452][959]LogTexture: Display: Building textures: Texture2D_193 (BGRA8, 64X64)
+[2020.02.18-17.22.38:453][959]LogTexture: Display: Building textures: Texture2D_194 (BGRA8, 64X64)
+[2020.02.18-17.22.38:455][959]LogTexture: Display: Building textures: Texture2D_194 (BGRA8, 64X64)
+[2020.02.18-17.22.38:455][959]LogTexture: Display: Building textures: Texture2D_195 (BGRA8, 64X64)
+[2020.02.18-17.22.38:458][959]LogTexture: Display: Building textures: Texture2D_195 (BGRA8, 64X64)
+[2020.02.18-17.22.38:458][959]LogTexture: Display: Building textures: Texture2D_196 (BGRA8, 64X64)
+[2020.02.18-17.22.38:461][959]LogTexture: Display: Building textures: Texture2D_196 (BGRA8, 64X64)
+[2020.02.18-17.22.38:461][959]LogTexture: Display: Building textures: Texture2D_197 (BGRA8, 64X64)
+[2020.02.18-17.22.38:463][959]LogTexture: Display: Building textures: Texture2D_197 (BGRA8, 64X64)
+[2020.02.18-17.22.38:464][959]LogTexture: Display: Building textures: Texture2D_198 (BGRA8, 64X64)
+[2020.02.18-17.22.38:465][959]LogTexture: Display: Building textures: Texture2D_198 (BGRA8, 64X64)
+[2020.02.18-17.22.38:466][959]LogTexture: Display: Building textures: Texture2D_199 (BGRA8, 64X64)
+[2020.02.18-17.22.38:468][959]LogTexture: Display: Building textures: Texture2D_199 (BGRA8, 64X64)
+[2020.02.18-17.22.38:468][959]LogTexture: Display: Building textures: Texture2D_200 (BGRA8, 64X64)
+[2020.02.18-17.22.38:470][959]LogTexture: Display: Building textures: Texture2D_200 (BGRA8, 64X64)
+[2020.02.18-17.22.38:472][959]LogTexture: Display: Building textures: Texture2D_201 (BGRA8, 64X64)
+[2020.02.18-17.22.38:473][959]LogTexture: Display: Building textures: Texture2D_201 (BGRA8, 64X64)
+[2020.02.18-17.22.38:474][959]LogTexture: Display: Building textures: Texture2D_202 (BGRA8, 64X64)
+[2020.02.18-17.22.38:476][959]LogTexture: Display: Building textures: Texture2D_202 (BGRA8, 64X64)
+[2020.02.18-17.22.38:477][959]LogTexture: Display: Building textures: Texture2D_203 (BGRA8, 64X64)
+[2020.02.18-17.22.38:480][959]LogTexture: Display: Building textures: Texture2D_203 (BGRA8, 64X64)
+[2020.02.18-17.22.38:481][959]LogTexture: Display: Building textures: Texture2D_204 (BGRA8, 64X64)
+[2020.02.18-17.22.38:483][959]LogTexture: Display: Building textures: Texture2D_204 (BGRA8, 64X64)
+[2020.02.18-17.22.38:483][959]LogTexture: Display: Building textures: Texture2D_205 (BGRA8, 64X64)
+[2020.02.18-17.22.38:485][959]LogTexture: Display: Building textures: Texture2D_205 (BGRA8, 64X64)
+[2020.02.18-17.22.38:486][959]LogTexture: Display: Building textures: Texture2D_206 (BGRA8, 64X64)
+[2020.02.18-17.22.38:488][959]LogTexture: Display: Building textures: Texture2D_206 (BGRA8, 64X64)
+[2020.02.18-17.22.38:489][959]LogTexture: Display: Building textures: Texture2D_207 (BGRA8, 64X64)
+[2020.02.18-17.22.38:491][959]LogTexture: Display: Building textures: Texture2D_207 (BGRA8, 64X64)
+[2020.02.18-17.22.38:492][959]LogTexture: Display: Building textures: Texture2D_208 (BGRA8, 64X64)
+[2020.02.18-17.22.38:496][959]LogTexture: Display: Building textures: Texture2D_208 (BGRA8, 64X64)
+[2020.02.18-17.22.38:536][960]LogTexture: Display: Building textures: Texture2D_209 (BGRA8, 64X64)
+[2020.02.18-17.22.38:538][960]LogTexture: Display: Building textures: Texture2D_209 (BGRA8, 64X64)
+[2020.02.18-17.22.38:632][961]LogTexture: Display: Building textures: Texture2D_210 (BGRA8, 64X64)
+[2020.02.18-17.22.38:634][961]LogTexture: Display: Building textures: Texture2D_210 (BGRA8, 64X64)
+[2020.02.18-17.22.38:635][961]LogTexture: Display: Building textures: Texture2D_211 (BGRA8, 64X64)
+[2020.02.18-17.22.38:636][961]LogTexture: Display: Building textures: Texture2D_211 (BGRA8, 64X64)
+[2020.02.18-17.22.38:637][961]LogTexture: Display: Building textures: Texture2D_212 (BGRA8, 64X64)
+[2020.02.18-17.22.38:639][961]LogTexture: Display: Building textures: Texture2D_212 (BGRA8, 64X64)
+[2020.02.18-17.22.38:640][961]LogTexture: Display: Building textures: Texture2D_213 (BGRA8, 64X64)
+[2020.02.18-17.22.38:643][961]LogTexture: Display: Building textures: Texture2D_213 (BGRA8, 64X64)
+[2020.02.18-17.22.38:644][961]LogTexture: Display: Building textures: Texture2D_214 (BGRA8, 64X64)
+[2020.02.18-17.22.38:646][961]LogTexture: Display: Building textures: Texture2D_214 (BGRA8, 64X64)
+[2020.02.18-17.22.38:647][961]LogTexture: Display: Building textures: Texture2D_215 (BGRA8, 64X64)
+[2020.02.18-17.22.38:650][961]LogTexture: Display: Building textures: Texture2D_215 (BGRA8, 64X64)
+[2020.02.18-17.22.38:650][961]LogTexture: Display: Building textures: Texture2D_216 (BGRA8, 64X64)
+[2020.02.18-17.22.38:652][961]LogTexture: Display: Building textures: Texture2D_216 (BGRA8, 64X64)
+[2020.02.18-17.22.38:653][961]LogTexture: Display: Building textures: Texture2D_217 (BGRA8, 64X64)
+[2020.02.18-17.22.38:656][961]LogTexture: Display: Building textures: Texture2D_217 (BGRA8, 64X64)
+[2020.02.18-17.22.38:657][961]LogTexture: Display: Building textures: Texture2D_218 (BGRA8, 64X64)
+[2020.02.18-17.22.38:659][961]LogTexture: Display: Building textures: Texture2D_218 (BGRA8, 64X64)
+[2020.02.18-17.22.38:659][961]LogTexture: Display: Building textures: Texture2D_219 (BGRA8, 64X64)
+[2020.02.18-17.22.38:661][961]LogTexture: Display: Building textures: Texture2D_219 (BGRA8, 64X64)
+[2020.02.18-17.22.38:662][961]LogTexture: Display: Building textures: Texture2D_220 (BGRA8, 64X64)
+[2020.02.18-17.22.38:664][961]LogTexture: Display: Building textures: Texture2D_220 (BGRA8, 64X64)
+[2020.02.18-17.22.38:665][961]LogTexture: Display: Building textures: Texture2D_221 (BGRA8, 64X64)
+[2020.02.18-17.22.38:666][961]LogTexture: Display: Building textures: Texture2D_221 (BGRA8, 64X64)
+[2020.02.18-17.22.38:667][961]LogTexture: Display: Building textures: Texture2D_222 (BGRA8, 64X64)
+[2020.02.18-17.22.38:669][961]LogTexture: Display: Building textures: Texture2D_222 (BGRA8, 64X64)
+[2020.02.18-17.22.38:670][961]LogTexture: Display: Building textures: Texture2D_223 (BGRA8, 64X64)
+[2020.02.18-17.22.38:672][961]LogTexture: Display: Building textures: Texture2D_223 (BGRA8, 64X64)
+[2020.02.18-17.22.38:672][961]LogTexture: Display: Building textures: Texture2D_224 (BGRA8, 64X64)
+[2020.02.18-17.22.38:674][961]LogTexture: Display: Building textures: Texture2D_224 (BGRA8, 64X64)
+[2020.02.18-17.22.38:675][961]LogTexture: Display: Building textures: Texture2D_225 (BGRA8, 64X64)
+[2020.02.18-17.22.38:677][961]LogTexture: Display: Building textures: Texture2D_225 (BGRA8, 64X64)
+[2020.02.18-17.22.38:678][961]LogTexture: Display: Building textures: Texture2D_226 (BGRA8, 64X64)
+[2020.02.18-17.22.38:680][961]LogTexture: Display: Building textures: Texture2D_226 (BGRA8, 64X64)
+[2020.02.18-17.22.38:681][961]LogTexture: Display: Building textures: Texture2D_227 (BGRA8, 64X64)
+[2020.02.18-17.22.38:682][961]LogTexture: Display: Building textures: Texture2D_227 (BGRA8, 64X64)
+[2020.02.18-17.22.38:683][961]LogTexture: Display: Building textures: Texture2D_228 (BGRA8, 64X64)
+[2020.02.18-17.22.38:685][961]LogTexture: Display: Building textures: Texture2D_228 (BGRA8, 64X64)
+[2020.02.18-17.22.38:686][961]LogTexture: Display: Building textures: Texture2D_229 (BGRA8, 64X64)
+[2020.02.18-17.22.38:688][961]LogTexture: Display: Building textures: Texture2D_229 (BGRA8, 64X64)
+[2020.02.18-17.22.38:688][961]LogTexture: Display: Building textures: Texture2D_230 (BGRA8, 64X64)
+[2020.02.18-17.22.38:690][961]LogTexture: Display: Building textures: Texture2D_230 (BGRA8, 64X64)
+[2020.02.18-17.22.38:691][961]LogTexture: Display: Building textures: Texture2D_231 (BGRA8, 64X64)
+[2020.02.18-17.22.38:693][961]LogTexture: Display: Building textures: Texture2D_231 (BGRA8, 64X64)
+[2020.02.18-17.22.38:694][961]LogTexture: Display: Building textures: Texture2D_232 (BGRA8, 64X64)
+[2020.02.18-17.22.38:696][961]LogTexture: Display: Building textures: Texture2D_232 (BGRA8, 64X64)
+[2020.02.18-17.22.38:697][961]LogTexture: Display: Building textures: Texture2D_233 (BGRA8, 64X64)
+[2020.02.18-17.22.38:698][961]LogTexture: Display: Building textures: Texture2D_233 (BGRA8, 64X64)
+[2020.02.18-17.22.38:698][961]LogTexture: Display: Building textures: Texture2D_234 (BGRA8, 64X64)
+[2020.02.18-17.22.38:700][961]LogTexture: Display: Building textures: Texture2D_234 (BGRA8, 64X64)
+[2020.02.18-17.22.38:701][961]LogTexture: Display: Building textures: Texture2D_235 (BGRA8, 64X64)
+[2020.02.18-17.22.38:703][961]LogTexture: Display: Building textures: Texture2D_235 (BGRA8, 64X64)
+[2020.02.18-17.22.38:703][961]LogTexture: Display: Building textures: Texture2D_236 (BGRA8, 64X64)
+[2020.02.18-17.22.38:705][961]LogTexture: Display: Building textures: Texture2D_236 (BGRA8, 64X64)
+[2020.02.18-17.22.38:706][961]LogTexture: Display: Building textures: Texture2D_237 (BGRA8, 64X64)
+[2020.02.18-17.22.38:708][961]LogTexture: Display: Building textures: Texture2D_237 (BGRA8, 64X64)
+[2020.02.18-17.22.38:709][961]LogTexture: Display: Building textures: Texture2D_238 (BGRA8, 64X64)
+[2020.02.18-17.22.38:711][961]LogTexture: Display: Building textures: Texture2D_238 (BGRA8, 64X64)
+[2020.02.18-17.22.38:713][961]LogTexture: Display: Building textures: Texture2D_239 (BGRA8, 64X64)
+[2020.02.18-17.22.38:715][961]LogTexture: Display: Building textures: Texture2D_239 (BGRA8, 64X64)
+[2020.02.18-17.22.38:715][961]LogTexture: Display: Building textures: Texture2D_240 (BGRA8, 64X64)
+[2020.02.18-17.22.38:717][961]LogTexture: Display: Building textures: Texture2D_240 (BGRA8, 64X64)
+[2020.02.18-17.22.38:717][961]LogTexture: Display: Building textures: Texture2D_241 (BGRA8, 64X64)
+[2020.02.18-17.22.38:719][961]LogTexture: Display: Building textures: Texture2D_241 (BGRA8, 64X64)
+[2020.02.18-17.22.38:720][961]LogTexture: Display: Building textures: Texture2D_242 (BGRA8, 64X64)
+[2020.02.18-17.22.38:722][961]LogTexture: Display: Building textures: Texture2D_242 (BGRA8, 64X64)
+[2020.02.18-17.22.38:722][961]LogTexture: Display: Building textures: Texture2D_243 (BGRA8, 64X64)
+[2020.02.18-17.22.38:724][961]LogTexture: Display: Building textures: Texture2D_243 (BGRA8, 64X64)
+[2020.02.18-17.22.38:725][961]LogTexture: Display: Building textures: Texture2D_244 (BGRA8, 64X64)
+[2020.02.18-17.22.38:726][961]LogTexture: Display: Building textures: Texture2D_244 (BGRA8, 64X64)
+[2020.02.18-17.22.38:727][961]LogTexture: Display: Building textures: Texture2D_245 (BGRA8, 64X64)
+[2020.02.18-17.22.38:729][961]LogTexture: Display: Building textures: Texture2D_245 (BGRA8, 64X64)
+[2020.02.18-17.22.38:729][961]LogTexture: Display: Building textures: Texture2D_246 (BGRA8, 64X64)
+[2020.02.18-17.22.38:731][961]LogTexture: Display: Building textures: Texture2D_246 (BGRA8, 64X64)
+[2020.02.18-17.22.38:732][961]LogTexture: Display: Building textures: Texture2D_247 (BGRA8, 64X64)
+[2020.02.18-17.22.38:734][961]LogTexture: Display: Building textures: Texture2D_247 (BGRA8, 64X64)
+[2020.02.18-17.22.38:734][961]LogTexture: Display: Building textures: Texture2D_248 (BGRA8, 64X64)
+[2020.02.18-17.22.38:737][961]LogTexture: Display: Building textures: Texture2D_248 (BGRA8, 64X64)
+[2020.02.18-17.22.38:738][961]LogTexture: Display: Building textures: Texture2D_249 (BGRA8, 64X64)
+[2020.02.18-17.22.38:739][961]LogTexture: Display: Building textures: Texture2D_249 (BGRA8, 64X64)
+[2020.02.18-17.22.38:740][961]LogTexture: Display: Building textures: Texture2D_250 (BGRA8, 64X64)
+[2020.02.18-17.22.38:743][961]LogTexture: Display: Building textures: Texture2D_250 (BGRA8, 64X64)
+[2020.02.18-17.22.38:744][961]LogTexture: Display: Building textures: Texture2D_251 (BGRA8, 64X64)
+[2020.02.18-17.22.38:746][961]LogTexture: Display: Building textures: Texture2D_251 (BGRA8, 64X64)
+[2020.02.18-17.22.38:746][961]LogTexture: Display: Building textures: Texture2D_252 (BGRA8, 64X64)
+[2020.02.18-17.22.38:748][961]LogTexture: Display: Building textures: Texture2D_252 (BGRA8, 64X64)
+[2020.02.18-17.22.38:749][961]LogTexture: Display: Building textures: Texture2D_253 (BGRA8, 64X64)
+[2020.02.18-17.22.38:751][961]LogTexture: Display: Building textures: Texture2D_253 (BGRA8, 64X64)
+[2020.02.18-17.22.38:752][961]LogTexture: Display: Building textures: Texture2D_254 (BGRA8, 64X64)
+[2020.02.18-17.22.38:754][961]LogTexture: Display: Building textures: Texture2D_254 (BGRA8, 64X64)
+[2020.02.18-17.22.38:754][961]LogTexture: Display: Building textures: Texture2D_255 (BGRA8, 64X64)
+[2020.02.18-17.22.38:756][961]LogTexture: Display: Building textures: Texture2D_255 (BGRA8, 64X64)
+[2020.02.18-17.22.38:757][961]LogTexture: Display: Building textures: Texture2D_256 (BGRA8, 64X64)
+[2020.02.18-17.22.38:759][961]LogTexture: Display: Building textures: Texture2D_256 (BGRA8, 64X64)
+[2020.02.18-17.22.38:760][961]LogTexture: Display: Building textures: Texture2D_257 (BGRA8, 64X64)
+[2020.02.18-17.22.38:762][961]LogTexture: Display: Building textures: Texture2D_257 (BGRA8, 64X64)
+[2020.02.18-17.22.38:764][961]LogTexture: Display: Building textures: Texture2D_258 (BGRA8, 64X64)
+[2020.02.18-17.22.38:766][961]LogTexture: Display: Building textures: Texture2D_258 (BGRA8, 64X64)
+[2020.02.18-17.22.38:766][961]LogTexture: Display: Building textures: Texture2D_259 (BGRA8, 64X64)
+[2020.02.18-17.22.38:768][961]LogTexture: Display: Building textures: Texture2D_259 (BGRA8, 64X64)
+[2020.02.18-17.22.38:769][961]LogTexture: Display: Building textures: Texture2D_260 (BGRA8, 64X64)
+[2020.02.18-17.22.38:772][961]LogTexture: Display: Building textures: Texture2D_260 (BGRA8, 64X64)
+[2020.02.18-17.22.38:773][961]LogTexture: Display: Building textures: Texture2D_261 (BGRA8, 64X64)
+[2020.02.18-17.22.38:775][961]LogTexture: Display: Building textures: Texture2D_261 (BGRA8, 64X64)
+[2020.02.18-17.22.38:776][961]LogTexture: Display: Building textures: Texture2D_262 (BGRA8, 64X64)
+[2020.02.18-17.22.38:779][961]LogTexture: Display: Building textures: Texture2D_262 (BGRA8, 64X64)
+[2020.02.18-17.22.38:780][961]LogTexture: Display: Building textures: Texture2D_263 (BGRA8, 64X64)
+[2020.02.18-17.22.38:782][961]LogTexture: Display: Building textures: Texture2D_263 (BGRA8, 64X64)
+[2020.02.18-17.22.38:783][961]LogTexture: Display: Building textures: Texture2D_264 (BGRA8, 64X64)
+[2020.02.18-17.22.38:785][961]LogTexture: Display: Building textures: Texture2D_264 (BGRA8, 64X64)
+[2020.02.18-17.22.38:786][961]LogTexture: Display: Building textures: Texture2D_265 (BGRA8, 64X64)
+[2020.02.18-17.22.38:788][961]LogTexture: Display: Building textures: Texture2D_265 (BGRA8, 64X64)
+[2020.02.18-17.22.38:789][961]LogTexture: Display: Building textures: Texture2D_266 (BGRA8, 64X64)
+[2020.02.18-17.22.38:791][961]LogTexture: Display: Building textures: Texture2D_266 (BGRA8, 64X64)
+[2020.02.18-17.22.38:792][961]LogTexture: Display: Building textures: Texture2D_267 (BGRA8, 64X64)
+[2020.02.18-17.22.38:794][961]LogTexture: Display: Building textures: Texture2D_267 (BGRA8, 64X64)
+[2020.02.18-17.22.38:795][961]LogTexture: Display: Building textures: Texture2D_268 (BGRA8, 64X64)
+[2020.02.18-17.22.38:797][961]LogTexture: Display: Building textures: Texture2D_268 (BGRA8, 64X64)
+[2020.02.18-17.22.38:798][961]LogTexture: Display: Building textures: Texture2D_269 (BGRA8, 64X64)
+[2020.02.18-17.22.38:800][961]LogTexture: Display: Building textures: Texture2D_269 (BGRA8, 64X64)
+[2020.02.18-17.22.38:801][961]LogTexture: Display: Building textures: Texture2D_270 (BGRA8, 64X64)
+[2020.02.18-17.22.38:803][961]LogTexture: Display: Building textures: Texture2D_270 (BGRA8, 64X64)
+[2020.02.18-17.22.38:804][961]LogTexture: Display: Building textures: Texture2D_271 (BGRA8, 64X64)
+[2020.02.18-17.22.38:806][961]LogTexture: Display: Building textures: Texture2D_271 (BGRA8, 64X64)
+[2020.02.18-17.22.38:807][961]LogTexture: Display: Building textures: Texture2D_272 (BGRA8, 64X64)
+[2020.02.18-17.22.38:809][961]LogTexture: Display: Building textures: Texture2D_272 (BGRA8, 64X64)
+[2020.02.18-17.22.38:810][961]LogTexture: Display: Building textures: Texture2D_273 (BGRA8, 64X64)
+[2020.02.18-17.22.38:812][961]LogTexture: Display: Building textures: Texture2D_273 (BGRA8, 64X64)
+[2020.02.18-17.22.38:853][962]LogTexture: Display: Building textures: Texture2D_274 (BGRA8, 64X64)
+[2020.02.18-17.22.38:855][962]LogTexture: Display: Building textures: Texture2D_274 (BGRA8, 64X64)
+[2020.02.18-17.22.38:945][963]LogTexture: Display: Building textures: Texture2D_275 (BGRA8, 64X64)
+[2020.02.18-17.22.38:946][963]LogTexture: Display: Building textures: Texture2D_275 (BGRA8, 64X64)
+[2020.02.18-17.22.39:897][ 13]Cmd: TRANSACTION UNDO
+[2020.02.18-17.22.39:897][ 13]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2020.02.18-17.22.45:284][ 13]Cmd: TRANSACTION UNDO
+[2020.02.18-17.22.45:284][ 13]LogEditorTransaction: Undo Creating New Landscape
+[2020.02.18-17.22.45:797][ 13]Cmd: TRANSACTION UNDO
+[2020.02.18-17.22.45:797][ 13]LogEditorTransaction: Undo Delete Actors
+[2020.02.18-17.22.45:928][ 13]Cmd: TRANSACTION UNDO
+[2020.02.18-17.22.45:928][ 13]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.18-17.23.02:502][972]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.02.18-17.23.11:408][496]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2020.02.18-17.23.11:410][496]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2020.02.18-17.23.11:410][496]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2020.02.18-17.23.11:412][496]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2020.02.18-17.23.11:413][496]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2020.02.18-17.23.11:415][496]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2020.02.18-17.23.11:416][496]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2020.02.18-17.23.11:417][496]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2020.02.18-17.23.11:418][496]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2020.02.18-17.23.11:420][496]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2020.02.18-17.23.11:422][496]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2020.02.18-17.23.11:424][496]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2020.02.18-17.23.11:424][496]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2020.02.18-17.23.11:426][496]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2020.02.18-17.23.11:427][496]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.18-17.23.11:429][496]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.18-17.23.11:429][496]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2020.02.18-17.23.11:432][496]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2020.02.18-17.23.11:433][496]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2020.02.18-17.23.11:434][496]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2020.02.18-17.23.11:435][496]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2020.02.18-17.23.11:438][496]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2020.02.18-17.23.11:438][496]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2020.02.18-17.23.11:440][496]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2020.02.18-17.23.11:441][496]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2020.02.18-17.23.11:444][496]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2020.02.18-17.23.11:444][496]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2020.02.18-17.23.11:447][496]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2020.02.18-17.23.11:448][496]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2020.02.18-17.23.11:449][496]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2020.02.18-17.23.11:450][496]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2020.02.18-17.23.11:452][496]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2020.02.18-17.23.11:453][496]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2020.02.18-17.23.11:455][496]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2020.02.18-17.23.11:456][496]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2020.02.18-17.23.11:458][496]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2020.02.18-17.23.11:458][496]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2020.02.18-17.23.11:461][496]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2020.02.18-17.23.11:462][496]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2020.02.18-17.23.11:463][496]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2020.02.18-17.23.11:464][496]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2020.02.18-17.23.11:467][496]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2020.02.18-17.23.11:468][496]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2020.02.18-17.23.11:470][496]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2020.02.18-17.23.11:470][496]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2020.02.18-17.23.11:472][496]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2020.02.18-17.23.11:472][496]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2020.02.18-17.23.11:474][496]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2020.02.18-17.23.11:475][496]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2020.02.18-17.23.11:477][496]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2020.02.18-17.23.11:754][512]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2020.02.18-17.23.11:758][512]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2020.02.18-17.23.12:153][535]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2020.02.18-17.23.12:155][535]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2020.02.18-17.23.12:628][563]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2020.02.18-17.23.12:630][563]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 64X64)
+[2020.02.18-17.23.12:971][583]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2020.02.18-17.23.12:973][583]LogTexture: Display: Building textures: Texture2D_29 (BGRA8, 64X64)
+[2020.02.18-17.23.15:051][707]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2020.02.18-17.23.15:055][707]LogTexture: Display: Building textures: Texture2D_30 (BGRA8, 64X64)
+[2020.02.18-17.23.15:361][725]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2020.02.18-17.23.15:363][725]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 64X64)
+[2020.02.18-17.23.15:654][742]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2020.02.18-17.23.15:659][742]LogTexture: Display: Building textures: Texture2D_32 (BGRA8, 64X64)
+[2020.02.18-17.23.15:983][761]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2020.02.18-17.23.15:987][761]LogTexture: Display: Building textures: Texture2D_33 (BGRA8, 64X64)
+[2020.02.18-17.23.16:327][781]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2020.02.18-17.23.16:329][781]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 64X64)
+[2020.02.18-17.23.17:635][859]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2020.02.18-17.23.17:637][859]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 64X64)
+[2020.02.18-17.23.18:825][930]Cmd: TRANSACTION UNDO
+[2020.02.18-17.23.18:825][930]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2020.02.18-17.23.18:911][930]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2020.02.18-17.23.18:919][930]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2020.02.18-17.23.18:923][930]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2020.02.18-17.23.18:927][930]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2020.02.18-17.23.18:933][930]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2020.02.18-17.23.19:933][976]Cmd: TRANSACTION UNDO
+[2020.02.18-17.23.19:933][976]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2020.02.18-17.23.19:976][976]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2020.02.18-17.23.19:980][976]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2020.02.18-17.23.19:988][976]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2020.02.18-17.23.20:374][997]Cmd: TRANSACTION UNDO
+[2020.02.18-17.23.20:374][997]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2020.02.18-17.23.20:443][997]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2020.02.18-17.23.20:447][997]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2020.02.18-17.23.20:450][997]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2020.02.18-17.23.20:454][997]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2020.02.18-17.23.20:462][997]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2020.02.18-17.23.20:665][  7]Cmd: TRANSACTION UNDO
+[2020.02.18-17.23.20:665][  7]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2020.02.18-17.23.20:734][  7]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2020.02.18-17.23.20:738][  7]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2020.02.18-17.23.20:743][  7]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2020.02.18-17.23.20:748][  7]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2020.02.18-17.23.20:756][  7]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.18-17.23.20:836][  9]Cmd: TRANSACTION UNDO
+[2020.02.18-17.23.20:836][  9]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2020.02.18-17.23.20:909][  9]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2020.02.18-17.23.20:915][  9]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2020.02.18-17.23.20:919][  9]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2020.02.18-17.23.20:924][  9]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.18-17.23.20:933][  9]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2020.02.18-17.23.21:080][ 15]Cmd: TRANSACTION UNDO
+[2020.02.18-17.23.21:080][ 15]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2020.02.18-17.23.21:140][ 15]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2020.02.18-17.23.21:144][ 15]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2020.02.18-17.23.21:148][ 15]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2020.02.18-17.23.21:156][ 15]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2020.02.18-17.23.21:485][ 32]Cmd: TRANSACTION UNDO
+[2020.02.18-17.23.21:485][ 32]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2020.02.18-17.23.21:527][ 32]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2020.02.18-17.23.21:533][ 32]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2020.02.18-17.23.21:541][ 32]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2020.02.18-17.23.22:079][ 62]Cmd: TRANSACTION UNDO
+[2020.02.18-17.23.22:079][ 62]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2020.02.18-17.23.22:146][ 62]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2020.02.18-17.23.22:150][ 62]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2020.02.18-17.23.22:156][ 62]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.18-17.23.22:160][ 62]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2020.02.18-17.23.22:168][ 62]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2020.02.18-17.23.22:258][ 65]Cmd: TRANSACTION UNDO
+[2020.02.18-17.23.22:258][ 65]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2020.02.18-17.23.22:334][ 65]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2020.02.18-17.23.22:337][ 65]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.18-17.23.22:341][ 65]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2020.02.18-17.23.22:346][ 65]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2020.02.18-17.23.22:353][ 65]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2020.02.18-17.23.22:472][ 70]Cmd: TRANSACTION UNDO
+[2020.02.18-17.23.22:472][ 70]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2020.02.18-17.23.22:540][ 70]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.18-17.23.22:545][ 70]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2020.02.18-17.23.22:549][ 70]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2020.02.18-17.23.22:553][ 70]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2020.02.18-17.23.22:560][ 70]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2020.02.18-17.23.22:696][ 76]Cmd: TRANSACTION UNDO
+[2020.02.18-17.23.22:696][ 76]LogEditorTransaction: Undo Landscape Editing: Delete Landscape Components
+[2020.02.18-17.23.35:515][801]MapCheck: New page: Map Check
+[2020.02.18-17.23.35:538][801]LightingResults: New page: Lighting Build - Feb 18, 2020, 5:23:35 AM
+[2020.02.18-17.23.35:599][801]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.18-17.23.35:739][801]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.18-17.23.35:752][801]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.18-17.23.36:260][801]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.18-17.23.36:260][801]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16472
+[2020.02.18-17.23.38:759][801]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.18-17.23.38:759][801]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.18-17.23.38:759][801]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.18-17.23.38:759][801]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.18-17.23.38:759][801]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.18-17.23.38:915][801]LogEditorBuildUtils: Build time 0:03
+[2020.02.18-17.23.39:072][802]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2020.02.18-17.23.39:162][802]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer CubeMaterial, compiling. 
+[2020.02.18-17.23.39:167][802]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.18-17.23.39:167][802]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.18-17.23.39:274][803]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.02.18-17.23.39:274][803]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.18-17.23.41:268][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.02.18-17.23.51:605][ 90]Job is a success!
+[2020.02.18-17.23.52:129][ 91]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.022s
+[2020.02.18-17.23.52:129][ 91]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.18-17.23.52:129][ 91]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb
+[2020.02.18-17.23.52:129][ 91]LogVolumetricLightmapImport:      Bricks at depth
+[2020.02.18-17.23.52:129][ 91]LogVolumetricLightmapImport:          0: 2.4% covering 100.0% of volume
+[2020.02.18-17.23.52:129][ 91]LogVolumetricLightmapImport:          1: 9.8% covering 6.3% of volume
+[2020.02.18-17.23.52:129][ 91]LogVolumetricLightmapImport:          2: 87.8% covering 0.9% of volume
+[2020.02.18-17.23.52:129][ 91]LogVolumetricLightmapImport:      Bricks in each level
+[2020.02.18-17.23.52:129][ 91]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 41 bricks 	 100.0% (Persistent Level)
+[2020.02.18-17.23.52:868][ 91]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2020.02.18-17.23.52:868][ 91]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2020.02.18-17.23.52:868][ 91]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2020.02.18-17.23.52:868][ 91]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 256X128)
+[2020.02.18-17.23.52:868][ 91]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2020.02.18-17.23.52:868][ 91]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2020.02.18-17.23.52:868][ 91]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 256X128)
+[2020.02.18-17.23.52:868][ 91]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2020.02.18-17.23.52:868][ 91]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2020.02.18-17.23.52:868][ 91]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 256X128)
+[2020.02.18-17.23.52:868][ 91]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2020.02.18-17.23.52:868][ 91]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2020.02.18-17.23.52:868][ 91]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 256X128)
+[2020.02.18-17.23.52:868][ 91]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2020.02.18-17.23.52:868][ 91]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2020.02.18-17.23.52:868][ 91]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 256X128)
+[2020.02.18-17.23.52:868][ 91]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2020.02.18-17.23.52:868][ 91]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2020.02.18-17.23.52:868][ 91]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 128X64)
+[2020.02.18-17.23.52:868][ 91]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2020.02.18-17.23.52:868][ 91]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2020.02.18-17.23.52:869][ 91]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 128X64)
+[2020.02.18-17.23.52:869][ 91]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 128X128)
+[2020.02.18-17.23.52:869][ 91]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 128X128)
+[2020.02.18-17.23.52:869][ 91]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 64X32)
+[2020.02.18-17.23.52:869][ 91]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 64X64)
+[2020.02.18-17.23.52:869][ 91]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 64X64)
+[2020.02.18-17.23.53:068][ 91]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X64)
+[2020.02.18-17.23.53:068][ 91]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 256X64)
+[2020.02.18-17.23.53:068][ 91]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X64)
+[2020.02.18-17.23.53:068][ 91]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X64)
+[2020.02.18-17.23.53:068][ 91]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 32X32)
+[2020.02.18-17.23.53:068][ 91]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 128X64)
+[2020.02.18-17.23.53:068][ 91]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 256X64)
+[2020.02.18-17.23.53:068][ 91]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 256X64)
+[2020.02.18-17.23.53:068][ 91]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 256X64)
+[2020.02.18-17.23.53:069][ 91]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2020.02.18-17.23.53:104][ 91]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 27 meshes in 15 LightmapResourceClusters (1.8 Meshes per cluster).
+[2020.02.18-17.23.53:108][ 91]Lightmass on DESKTOP-IFJPMID: 10.7 sec total, 205 ms importing, 101 ms setup, 2.56 sec photons, 7.86 sec processing, 0 ms extra exporting [27/27 mappings]. Threads: 55.0 sec total, 15.8 sec processing.
+[2020.02.18-17.23.53:139][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.02.18-17.23.53:154][ 91]LogStaticLightingSystem: Illumination: 17.2 sec (687 ms encoding lightmaps, 214 ms encoding shadowmaps)
+[2020.02.18-17.23.53:154][ 91]LogStaticLightingSystem: Lightmap texture memory:  11.6 MB (11.6 MB streaming, 0.0 MB non-streaming), 18 textures
+[2020.02.18-17.23.53:154][ 91]LogStaticLightingSystem: Shadowmap texture memory: 1.5 MB (1.5 MB streaming, 0.0 MB non-streaming), 10 textures
+[2020.02.18-17.23.53:779][ 91]DumpUnbuiltLightIteractions
+[2020.02.18-17.23.53:779][ 91]Lights with unbuilt interactions: 0
+[2020.02.18-17.23.53:779][ 91]
+[2020.02.18-17.23.53:779][ 91]Primitives with unbuilt interactions: 0
+[2020.02.18-17.23.53:884][ 92]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.18-17.23.53:884][ 92]MapCheck: New page: FirstPersonExampleMap - Feb 18, 2020, 5:23:53 AM
+[2020.02.18-17.23.53:885][ 92]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.474ms to complete.
+[2020.02.18-17.25.03:542][ 84]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.18-17.25.07:774][331]Cmd: DELETE
+[2020.02.18-17.25.07:774][331]Cmd: ACTOR DELETE
+[2020.02.18-17.25.07:776][331]LogEditorActor: Deleted Actor: Brush
+[2020.02.18-17.25.07:799][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.02.18-17.25.07:805][331]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.02.18-17.25.11:445][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall2)
+[2020.02.18-17.25.12:640][619]Cmd: DELETE
+[2020.02.18-17.25.12:640][619]Cmd: ACTOR DELETE
+[2020.02.18-17.25.12:642][619]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.18-17.25.12:662][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.02.18-17.25.12:663][619]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2020.02.18-17.25.15:964][811]MapCheck: New page: Map Check
+[2020.02.18-17.25.15:982][811]LightingResults: New page: Lighting Build - Feb 18, 2020, 5:25:15 AM
+[2020.02.18-17.25.15:995][811]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.18-17.25.15:998][811]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.18-17.25.15:998][811]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.18-17.25.15:999][811]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.18-17.25.15:999][811]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16472
+[2020.02.18-17.25.20:916][811]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.18-17.25.20:916][811]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.18-17.25.20:916][811]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.18-17.25.20:916][811]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.18-17.25.20:916][811]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.18-17.25.21:034][811]LogEditorBuildUtils: Build time 0:05
+[2020.02.18-17.25.21:097][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.02.18-17.25.25:120][ 29]Job is a success!
+[2020.02.18-17.25.25:315][ 30]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.016s
+[2020.02.18-17.25.25:315][ 30]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.18-17.25.25:315][ 30]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb
+[2020.02.18-17.25.25:315][ 30]LogVolumetricLightmapImport:      Bricks at depth
+[2020.02.18-17.25.25:315][ 30]LogVolumetricLightmapImport:          0: 2.4% covering 100.0% of volume
+[2020.02.18-17.25.25:315][ 30]LogVolumetricLightmapImport:          1: 9.8% covering 6.3% of volume
+[2020.02.18-17.25.25:315][ 30]LogVolumetricLightmapImport:          2: 87.8% covering 0.9% of volume
+[2020.02.18-17.25.25:315][ 30]LogVolumetricLightmapImport:      Bricks in each level
+[2020.02.18-17.25.25:315][ 30]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 41 bricks 	 100.0% (Persistent Level)
+[2020.02.18-17.25.25:463][ 30]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2020.02.18-17.25.25:463][ 30]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 256X128)
+[2020.02.18-17.25.25:463][ 30]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2020.02.18-17.25.25:463][ 30]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 256X128)
+[2020.02.18-17.25.25:463][ 30]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2020.02.18-17.25.25:463][ 30]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2020.02.18-17.25.25:463][ 30]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 256X128)
+[2020.02.18-17.25.25:463][ 30]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2020.02.18-17.25.25:464][ 30]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2020.02.18-17.25.25:464][ 30]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 256X128)
+[2020.02.18-17.25.25:464][ 30]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 256X256)
+[2020.02.18-17.25.25:464][ 30]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 256X256)
+[2020.02.18-17.25.25:464][ 30]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 256X128)
+[2020.02.18-17.25.25:464][ 30]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 256X256)
+[2020.02.18-17.25.25:464][ 30]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 256X256)
+[2020.02.18-17.25.25:464][ 30]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 256X128)
+[2020.02.18-17.25.25:464][ 30]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 256X256)
+[2020.02.18-17.25.25:464][ 30]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 256X256)
+[2020.02.18-17.25.25:464][ 30]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 256X128)
+[2020.02.18-17.25.25:464][ 30]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 256X256)
+[2020.02.18-17.25.25:464][ 30]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 256X256)
+[2020.02.18-17.25.25:464][ 30]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 256X128)
+[2020.02.18-17.25.25:464][ 30]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 256X256)
+[2020.02.18-17.25.25:464][ 30]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 256X256)
+[2020.02.18-17.25.25:464][ 30]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 128X64)
+[2020.02.18-17.25.25:464][ 30]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 128X128)
+[2020.02.18-17.25.25:464][ 30]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 128X128)
+[2020.02.18-17.25.25:464][ 30]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 64X32)
+[2020.02.18-17.25.25:464][ 30]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 64X64)
+[2020.02.18-17.25.25:464][ 30]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 64X64)
+[2020.02.18-17.25.25:503][ 30]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 256X64)
+[2020.02.18-17.25.25:503][ 30]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 256X64)
+[2020.02.18-17.25.25:503][ 30]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 256X64)
+[2020.02.18-17.25.25:503][ 30]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 256X64)
+[2020.02.18-17.25.25:503][ 30]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 32X32)
+[2020.02.18-17.25.25:503][ 30]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 256X64)
+[2020.02.18-17.25.25:503][ 30]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 64X64)
+[2020.02.18-17.25.25:503][ 30]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 256X64)
+[2020.02.18-17.25.25:503][ 30]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 256X64)
+[2020.02.18-17.25.25:503][ 30]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 256X64)
+[2020.02.18-17.25.25:503][ 30]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 26 meshes in 10 LightmapResourceClusters (2.6 Meshes per cluster).
+[2020.02.18-17.25.25:530][ 30]Lightmass on DESKTOP-IFJPMID: 3.67 sec total, 205 ms importing, 107 ms setup, 1.08 sec photons, 2.25 sec processing, 0 ms extra exporting [26/26 mappings]. Threads: 15.7 sec total, 8.65 sec processing.
+[2020.02.18-17.25.25:538][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.02.18-17.25.25:608][ 30]LogStaticLightingSystem: Illumination: 9.53 sec (156 ms encoding lightmaps, 10 ms encoding shadowmaps)
+[2020.02.18-17.25.25:608][ 30]LogStaticLightingSystem: Lightmap texture memory:  1.4 MB (1.4 MB streaming, 0.0 MB non-streaming), 20 textures
+[2020.02.18-17.25.25:608][ 30]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 10 textures
+[2020.02.18-17.25.25:927][ 30]DumpUnbuiltLightIteractions
+[2020.02.18-17.25.25:928][ 30]Lights with unbuilt interactions: 0
+[2020.02.18-17.25.25:928][ 30]
+[2020.02.18-17.25.25:928][ 30]Primitives with unbuilt interactions: 0
+[2020.02.18-17.25.26:014][ 31]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.18-17.25.26:015][ 31]MapCheck: New page: FirstPersonExampleMap - Feb 18, 2020, 5:25:26 AM
+[2020.02.18-17.25.26:015][ 31]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.307ms to complete.
+[2020.02.18-17.26.01:462][156]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.18-17.26.02:655][227]Cmd: DELETE
+[2020.02.18-17.26.02:655][227]Cmd: ACTOR DELETE
+[2020.02.18-17.26.02:656][227]LogEditorActor: Deleted Actor: Brush
+[2020.02.18-17.26.02:680][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.02.18-17.26.02:682][227]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.02.18-17.26.05:495][395]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.18-17.27.01:830][758]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.18-17.27.05:387][949]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.02.18-17.27.14:894][514]Cmd: TRANSACTION UNDO
+[2020.02.18-17.27.14:894][514]LogEditorTransaction: Undo Modifier [Edit]
+[2020.02.18-17.27.15:222][523]Cmd: TRANSACTION UNDO
+[2020.02.18-17.27.15:222][523]LogEditorTransaction: Undo Move Actors
+[2020.02.18-17.27.15:227][523]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.02.18-17.27.15:227][523]LogGeometryMode: Warning: Unable to resolve BoxBrush_4 Brush in new BSP, see above
+[2020.02.18-17.27.15:227][523]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.02.18-17.27.22:946][976]Cmd: TRANSACTION UNDO
+[2020.02.18-17.27.22:946][976]LogEditorTransaction: Undo Scale Actors
+[2020.02.18-17.27.23:368][987]Cmd: TRANSACTION UNDO
+[2020.02.18-17.27.23:368][987]LogEditorTransaction: Undo Scale Actors
+[2020.02.18-17.27.25:218][ 93]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.18-17.27.51:409][656]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.18-17.27.51:412][656]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.18-17.27.51:412][656]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.18-17.27.51:412][656]PIE: New page: PIE session: FirstPersonExampleMap (Feb 18, 2020, 5:27:51 AM)
+[2020.02.18-17.27.51:413][656]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.02.18-17.27.51:414][656]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.02.18-17.27.51:414][656]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.02.18-17.27.51:457][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042715s)
+[2020.02.18-17.27.51:458][656]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.02.18-17.27.51:458][656]LogPlayLevel: PIE: World Init took: (0.000970s)
+[2020.02.18-17.27.51:458][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.043971s)
+[2020.02.18-17.27.51:483][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.02.18-17.27.51:486][656]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.18-17.27.51:486][656]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.18-17.27.51:486][656]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.18-17.27.51:486][656]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.18-17.27.51:486][656]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.18-17.27.51:486][656]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.18-17.27.51:486][656]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.18-17.27.51:486][656]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.18-17.27.51:487][656]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.18-17.27.51:487][656]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.18-17.27.51:489][656]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.18-17.27.51:489][656]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.02.18-17.27.51:489][656]LogAudioMixer: Display: Is Default: Yes
+[2020.02.18-17.27.51:489][656]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.18-17.27.51:489][656]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.18-17.27.51:489][656]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.18-17.27.51:489][656]LogAudioMixer: Display: Channel Order:
+[2020.02.18-17.27.51:489][656]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.18-17.27.51:489][656]LogAudioMixer: Display: 1: FrontRight
+[2020.02.18-17.27.51:562][656]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.02.18-17.27.51:564][656]LogInit: FAudioDevice initialized.
+[2020.02.18-17.27.51:571][656]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.18-17.27.51:574][656]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.02.18-11.27.51
+[2020.02.18-17.27.51:574][656]LogWorld: Bringing up level for play took: 0.001435
+[2020.02.18-17.27.51:574][656]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.02.18-17.27.51:577][656]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.02.18-17.27.51:578][656]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.311
+[2020.02.18-17.27.51:578][656]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.18-17.27.55:310][879]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-17.27.55:319][879]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.18-17.27.55:339][879]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.18-17.27.55:339][879]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.18-17.27.55:339][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-17.27.55:339][879]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.02.18-17.27.55:339][879]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-17.27.55:339][879]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-17.27.55:340][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-17.27.55:345][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.18-17.27.55:346][879]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.18-17.27.55:348][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-17.27.55:369][879]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-17.27.55:372][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-17.27.55:376][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.02.18-17.27.55:410][881]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.02.18-17.28.14:966][ 51]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.18-17.28.26:396][734]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.18-17.28.26:399][734]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.18-17.28.26:399][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.18-17.28.26:399][734]PIE: New page: PIE session: FirstPersonExampleMap (Feb 18, 2020, 5:28:26 AM)
+[2020.02.18-17.28.26:399][734]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.02.18-17.28.26:444][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044169s)
+[2020.02.18-17.28.26:445][734]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.02.18-17.28.26:445][734]LogPlayLevel: PIE: World Init took: (0.001312s)
+[2020.02.18-17.28.26:445][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.045642s)
+[2020.02.18-17.28.26:469][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.02.18-17.28.26:471][734]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.18-17.28.26:471][734]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.18-17.28.26:471][734]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.18-17.28.26:471][734]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.18-17.28.26:471][734]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.18-17.28.26:471][734]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.18-17.28.26:471][734]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.18-17.28.26:471][734]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.18-17.28.26:471][734]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.18-17.28.26:472][734]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.18-17.28.26:473][734]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.18-17.28.26:473][734]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.02.18-17.28.26:474][734]LogAudioMixer: Display: Is Default: Yes
+[2020.02.18-17.28.26:474][734]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.18-17.28.26:474][734]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.18-17.28.26:474][734]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.18-17.28.26:474][734]LogAudioMixer: Display: Channel Order:
+[2020.02.18-17.28.26:474][734]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.18-17.28.26:474][734]LogAudioMixer: Display: 1: FrontRight
+[2020.02.18-17.28.26:547][734]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.02.18-17.28.26:549][734]LogInit: FAudioDevice initialized.
+[2020.02.18-17.28.26:558][734]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.18-17.28.26:561][734]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.02.18-11.28.26
+[2020.02.18-17.28.26:561][734]LogWorld: Bringing up level for play took: 0.001391
+[2020.02.18-17.28.26:561][734]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.02.18-17.28.26:563][734]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.674
+[2020.02.18-17.28.26:563][734]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.18-17.28.31:478][ 28]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-17.28.31:498][ 28]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.18-17.28.31:528][ 28]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.18-17.28.31:529][ 28]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.18-17.28.31:529][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-17.28.31:529][ 28]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.02.18-17.28.31:529][ 28]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-17.28.31:529][ 28]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-17.28.31:529][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-17.28.31:535][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.18-17.28.31:535][ 28]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.18-17.28.31:538][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-17.28.31:560][ 28]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-17.28.31:563][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-17.28.31:567][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.02.18-17.28.31:582][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.02.18-17.30.12:557][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.02.18-17.30.12:752][591]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/FirstPersonExampleMap_Auto1E19B8A044612895747030A994CF04084.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2020.02.18-17.30.12:756][591]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.223
+[2020.02.18-17.30.12:756][591]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.223
+[2020.02.18-17.32.17:914][102]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.18-17.32.22:910][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.02.18-17.32.22:962][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.02.18-17.32.23:120][397]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/FirstPersonExampleMap8E977CEC430379E582B6AAB63ABF4169.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.02.18-17.32.23:129][397]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.192
+[2020.02.18-17.32.23:192][397]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/FirstPersonExampleMap_BuiltData1E008A2F48034BE624BBBC861CF7BEC9.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.02.18-17.32.23:208][397]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.18-17.32.23:208][397]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.02.18-17.32.23:208][397]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
