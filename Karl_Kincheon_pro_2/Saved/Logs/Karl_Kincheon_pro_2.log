@@ -2273,3 +2273,72 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.18-18.08.59:840][453]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/map_1_BuiltData.map_1_BuiltData
 [2020.02.18-18.09.34:598][940]LogSlate: Window 'FirstPersonExampleMap_BuiltData' being destroyed
 [2020.02.18-18.09.34:602][940]LogSlate: Window 'FirstPersonExampleMap_BuiltData' being destroyed
+[2020.02.18-18.10.10:217][418]LogSlate: Window 'New Level' being destroyed
+[2020.02.18-18.10.10:222][418]LightingResults: New page: Lighting Build
+[2020.02.18-18.10.10:223][418]LogWorld: UWorld::CleanupWorld for map_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.10.10:223][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.10.10:223][418]MapCheck: New page: Map Check
+[2020.02.18-18.10.10:223][418]LightingResults: New page: Lighting Build
+[2020.02.18-18.10.10:307][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.02.18-18.10.10:332][418]LogAIModule: Creating AISystem for world Untitled
+[2020.02.18-18.10.10:422][418]LoadErrors: New page: New Map
+[2020.02.18-18.10.14:078][627]LogAIModule: Creating AISystem for world map_1
+[2020.02.18-18.10.14:083][627]LogAssetEditorSubsystem: Opening Asset editor for World /Game/map_1.map_1
+[2020.02.18-18.10.14:169][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.02.18-18.10.14:170][627]Cmd: MAP LOAD FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/map_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.18-18.10.14:172][627]LightingResults: New page: Lighting Build
+[2020.02.18-18.10.14:173][627]LoadErrors: New page: Loading map: map_1.umap
+[2020.02.18-18.10.14:173][627]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.10.14:173][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.10.14:173][627]MapCheck: New page: Map Check
+[2020.02.18-18.10.14:173][627]LightingResults: New page: Lighting Build
+[2020.02.18-18.10.14:196][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.02.18-18.10.14:930][627]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.18-18.10.14:956][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.02.18-18.10.14:961][627]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.18-18.10.14:961][627]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.124ms to complete.
+[2020.02.18-18.10.14:962][627]LogFileHelpers: Loading map 'map_1' took 0.792
+[2020.02.18-18.10.21:433][992]Cmd: DELETE
+[2020.02.18-18.10.21:433][992]Cmd: ACTOR DELETE
+[2020.02.18-18.10.21:438][992]LogEditorActor: Deleted Actor: SkyLight
+[2020.02.18-18.10.21:471][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.18-18.10.21:472][992]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.02.18-18.10.24:390][ 96]Cmd: DELETE
+[2020.02.18-18.10.24:390][ 96]Cmd: ACTOR DELETE
+[2020.02.18-18.10.24:397][ 96]LogEditorActor: Deleted Actor: PostProcessVolume
+[2020.02.18-18.10.24:422][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.02.18-18.10.24:423][ 96]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.02.18-18.10.25:518][157]Cmd: DELETE
+[2020.02.18-18.10.25:518][157]Cmd: ACTOR DELETE
+[2020.02.18-18.10.25:524][157]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2020.02.18-18.10.25:551][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.02.18-18.10.25:552][157]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.02.18-18.10.26:346][198]Cmd: DELETE
+[2020.02.18-18.10.26:346][198]Cmd: ACTOR DELETE
+[2020.02.18-18.10.26:350][198]LogEditorActor: Actor Light Source is referenced by SkySphereBlueprint.
+[2020.02.18-18.10.30:171][198]LogSlate: Window 'Message' being destroyed
+[2020.02.18-18.10.30:191][198]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.02.18-18.10.30:226][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.02.18-18.10.30:227][198]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2020.02.18-18.10.36:194][541]Cmd: DELETE
+[2020.02.18-18.10.36:194][541]Cmd: ACTOR DELETE
+[2020.02.18-18.10.36:197][541]LogEditorActor: Deleted Actor: AtmosphericFog
+[2020.02.18-18.10.36:228][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.18-18.10.36:229][541]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.02.18-18.10.36:992][582]Cmd: DELETE
+[2020.02.18-18.10.36:993][582]Cmd: ACTOR DELETE
+[2020.02.18-18.10.36:998][582]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2020.02.18-18.10.37:027][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.02.18-18.10.37:027][582]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.02.18-18.10.39:545][733]Cmd: DELETE
+[2020.02.18-18.10.39:545][733]Cmd: ACTOR DELETE
+[2020.02.18-18.10.39:548][733]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2020.02.18-18.10.39:573][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.02.18-18.10.39:574][733]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.02.18-18.10.51:511][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.02.18-18.10.51:539][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/map_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.18-18.10.51:568][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.02.18-18.10.51:813][417]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/map_15EF669474B24FFC9BB168984B23E7190.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/map_1.umap'
+[2020.02.18-18.10.51:826][417]LogFileHelpers: Saving map 'map_1' took 0.288
+[2020.02.18-18.10.51:837][417]AssetCheck: New page: Asset Save: map_1
+[2020.02.18-18.10.51:837][417]LogContentValidation: Display: Validating World /Game/map_1.map_1
