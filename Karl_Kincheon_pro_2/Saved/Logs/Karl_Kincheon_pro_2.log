@@ -2342,3 +2342,119 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.18-18.10.51:826][417]LogFileHelpers: Saving map 'map_1' took 0.288
 [2020.02.18-18.10.51:837][417]AssetCheck: New page: Asset Save: map_1
 [2020.02.18-18.10.51:837][417]LogContentValidation: Display: Validating World /Game/map_1.map_1
+[2020.02.18-18.13.10:572][247]LogSlate: Window 'New Level' being destroyed
+[2020.02.18-18.13.10:577][247]LightingResults: New page: Lighting Build
+[2020.02.18-18.13.10:578][247]LogWorld: UWorld::CleanupWorld for map_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.13.10:578][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.13.10:578][247]MapCheck: New page: Map Check
+[2020.02.18-18.13.10:578][247]LightingResults: New page: Lighting Build
+[2020.02.18-18.13.10:613][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.02.18-18.13.10:615][247]LogAIModule: Creating AISystem for world Untitled
+[2020.02.18-18.13.10:835][247]LoadErrors: New page: New Map
+[2020.02.18-18.13.17:376][550]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2020.02.18-18.13.27:173][ 46]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.02.18-18.14.22:868][951]Cmd: TRANSACTION UNDO
+[2020.02.18-18.14.22:868][951]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.18-18.14.22:923][951]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.02.18-18.14.23:328][962]Cmd: TRANSACTION UNDO
+[2020.02.18-18.14.23:328][962]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.18-18.16.21:834][171]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.02.18-18.16.59:743][536]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.18-18.17.58:394][743]Cmd: TRANSACTION UNDO
+[2020.02.18-18.17.58:394][743]LogEditorTransaction: Undo Edit Radius
+[2020.02.18-18.17.59:383][744]Cmd: TRANSACTION UNDO
+[2020.02.18-18.17.59:383][744]LogEditorTransaction: Undo Creating New Landscape
+[2020.02.18-18.17.59:418][744]Cmd: TRANSACTION UNDO
+[2020.02.18-18.17.59:418][744]LogEditorTransaction: Undo Edit Y
+[2020.02.18-18.17.59:514][746]Cmd: TRANSACTION UNDO
+[2020.02.18-18.17.59:514][746]LogEditorTransaction: Undo Edit X
+[2020.02.18-18.18.00:712][817]Cmd: TRANSACTION REDO
+[2020.02.18-18.18.00:712][817]LogEditorTransaction: Redo Edit X
+[2020.02.18-18.18.01:093][837]Cmd: TRANSACTION REDO
+[2020.02.18-18.18.01:093][837]LogEditorTransaction: Redo Edit Y
+[2020.02.18-18.18.01:472][859]Cmd: TRANSACTION REDO
+[2020.02.18-18.18.01:472][859]LogEditorTransaction: Redo Creating New Landscape
+[2020.02.18-18.19.30:350][364]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.18-18.19.59:747][ 28]Cmd: DELETE
+[2020.02.18-18.19.59:747][ 28]Cmd: ACTOR DELETE
+[2020.02.18-18.19.59:859][ 28]LogEditorActor: Deleted Actor: FirstPersonCharacter_C
+[2020.02.18-18.20.00:227][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.02.18-18.20.00:232][ 28]LogEditorActor: Deleted 1 Actors (0.485 secs)
+[2020.02.18-18.20.01:554][108]Cmd: TRANSACTION UNDO
+[2020.02.18-18.20.01:554][108]LogEditorTransaction: Undo Delete Actors
+[2020.02.18-18.22.26:417][699]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.02.18-18.23.15:932][533]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.18-18.23.16:034][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.18-18.23.16:189][533]PIE: New page: PIE session: Untitled_2 (Feb 18, 2020, 6:23:16 AM)
+[2020.02.18-18.23.16:342][533]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_2
+[2020.02.18-18.23.16:372][533]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2020.02.18-18.23.16:514][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.171297s)
+[2020.02.18-18.23.16:514][533]LogAIModule: Creating AISystem for world Untitled
+[2020.02.18-18.23.16:728][533]LogPlayLevel: PIE: World Init took: (0.214950s)
+[2020.02.18-18.23.16:728][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_2.Untitled to /Temp/UEDPIE_0_Untitled_2.Untitled (0.386607s)
+[2020.02.18-18.23.16:751][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.02.18-18.23.16:894][533]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.18-18.23.16:894][533]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.18-18.23.16:894][533]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.18-18.23.16:894][533]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.18-18.23.16:894][533]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.18-18.23.16:894][533]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.18-18.23.16:894][533]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.18-18.23.16:894][533]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.18-18.23.16:894][533]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.18-18.23.16:894][533]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.18-18.23.16:898][533]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.18-18.23.16:899][533]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.02.18-18.23.16:899][533]LogAudioMixer: Display: Is Default: Yes
+[2020.02.18-18.23.16:899][533]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.18-18.23.16:899][533]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.18-18.23.16:899][533]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.18-18.23.16:899][533]LogAudioMixer: Display: Channel Order:
+[2020.02.18-18.23.16:899][533]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.18-18.23.16:899][533]LogAudioMixer: Display: 1: FrontRight
+[2020.02.18-18.23.17:012][533]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.02.18-18.23.17:141][533]LogInit: FAudioDevice initialized.
+[2020.02.18-18.23.17:189][533]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.18-18.23.17:301][533]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_2.Untitled up for play (max tick rate 60) at 2020.02.18-12.23.17
+[2020.02.18-18.23.20:300][533]LogWorld: Bringing up level for play took: 2.999129
+[2020.02.18-18.23.20:306][533]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.02.18-18.23.26:376][533]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_2 10.487
+[2020.02.18-18.23.27:409][554]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-18.23.27:426][554]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.18-18.23.27:446][554]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.18-18.23.27:446][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-18.23.27:446][554]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_2
+[2020.02.18-18.23.27:446][554]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-18.23.27:448][554]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.23.27:448][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.23.27:454][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.18-18.23.27:457][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.23.27:476][554]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.18-18.23.27:479][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.18-18.23.27:671][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.02.18-18.23.27:685][555]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.02.18-18.23.44:315][ 31]LogSlate: Window 'Save Level As' being destroyed
+[2020.02.18-18.23.44:351][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map_2" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/map_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.18-18.23.44:377][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.02.18-18.23.44:648][ 31]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/map_2BC72DBB84BF25909194DACAFD8DD5E71.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/map_2.umap'
+[2020.02.18-18.23.44:963][ 31]LogFileHelpers: Saving map 'map_2' took 0.641
+[2020.02.18-18.23.44:964][ 31]Cmd: MAP LOAD FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/map_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.18-18.23.44:990][ 31]LightingResults: New page: Lighting Build
+[2020.02.18-18.23.44:991][ 31]LoadErrors: New page: Loading map: map_2.umap
+[2020.02.18-18.23.44:991][ 31]LogWorld: UWorld::CleanupWorld for map_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.18-18.23.44:991][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.18-18.23.44:991][ 31]MapCheck: New page: Map Check
+[2020.02.18-18.23.44:991][ 31]LightingResults: New page: Lighting Build
+[2020.02.18-18.23.45:017][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.02.18-18.23.45:048][ 31]LogAIModule: Creating AISystem for world map_2
+[2020.02.18-18.23.45:468][ 31]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.18-18.23.45:495][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.02.18-18.23.45:507][ 31]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.18-18.23.45:508][ 31]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.128ms to complete.
+[2020.02.18-18.23.45:508][ 31]LogFileHelpers: Loading map 'map_2' took 0.545
+[2020.02.18-18.23.45:512][ 31]AssetCheck: New page: Asset Save: map_2
+[2020.02.18-18.23.45:513][ 31]LogContentValidation: Display: Validating World /Game/map_2.map_2
+[2020.02.18-18.23.52:193][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.02.18-18.23.56:548][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.02.18-18.24.01:778][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.02.18-18.24.09:008][332]LogEditorViewport: Clicking Background
