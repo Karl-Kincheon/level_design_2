@@ -2808,3 +2808,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.18-19.10.33:511][590]AssetCheck: New page: Asset Save: map_4
 [2020.02.18-19.10.33:511][590]LogContentValidation: Display: Validating World /Game/map_4.map_4
 [2020.02.18-19.11.12:608][991]LogEditorViewport: Clicking Background
+[2020.02.18-19.11.43:192][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2020.02.18-19.12.19:590][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2020.02.18-19.12.29:987][519]LogEditorViewport: Clicking Background
+[2020.02.18-19.12.34:658][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.02.18-19.12.34:699][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map_4" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/map_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.18-19.12.34:723][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.18-19.12.34:930][795]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/map_463FFC2BF44E66B1AABA598ADD801C465.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/map_4.umap'
+[2020.02.18-19.12.34:942][795]LogFileHelpers: Saving map 'map_4' took 0.243
+[2020.02.18-19.12.34:951][795]AssetCheck: New page: Asset Save: map_4
+[2020.02.18-19.12.34:951][795]LogContentValidation: Display: Validating World /Game/map_4.map_4
