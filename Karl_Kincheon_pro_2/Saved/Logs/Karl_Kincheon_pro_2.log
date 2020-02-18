@@ -2725,3 +2725,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.18-19.00.22:674][220]AssetCheck: New page: Asset Save: map_4
 [2020.02.18-19.00.22:674][220]LogContentValidation: Display: Validating World /Game/map_4.map_4
 [2020.02.18-19.00.27:383][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.02.18-19.01.48:114][ 23]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.18-19.01.56:984][466]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush4)
+[2020.02.18-19.01.58:385][548]Cmd: EDCALLBACK SURFPROPS
+[2020.02.18-19.02.07:916][111]LogGeometryMode: Warning: Unable to find BoxBrush5 Brush(s) in new BSP
+[2020.02.18-19.02.07:917][111]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.02.18-19.02.47:340][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.02.18-19.02.47:364][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map_4" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/map_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.18-19.02.47:391][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.18-19.02.47:543][432]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/map_4A150AFE54884CE1CCDCAFEB873DCF58E.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/map_4.umap'
+[2020.02.18-19.02.47:553][432]LogFileHelpers: Saving map 'map_4' took 0.190
+[2020.02.18-19.02.47:564][432]AssetCheck: New page: Asset Save: map_4
+[2020.02.18-19.02.47:564][432]LogContentValidation: Display: Validating World /Game/map_4.map_4
