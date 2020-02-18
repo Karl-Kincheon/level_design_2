@@ -2737,3 +2737,73 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.18-19.02.47:553][432]LogFileHelpers: Saving map 'map_4' took 0.190
 [2020.02.18-19.02.47:564][432]AssetCheck: New page: Asset Save: map_4
 [2020.02.18-19.02.47:564][432]LogContentValidation: Display: Validating World /Game/map_4.map_4
+[2020.02.18-19.04.05:904][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2020.02.18-19.04.25:367][408]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.18-19.04.33:999][922]LogEditorViewport: Clicking Background
+[2020.02.18-19.05.11:915][192]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.18-19.05.57:999][810]Cmd: TRANSACTION UNDO
+[2020.02.18-19.05.57:999][810]LogEditorTransaction: Undo Marquee Select
+[2020.02.18-19.06.16:689][897]LogEditorViewport: Clicking Background
+[2020.02.18-19.06.24:503][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2020.02.18-19.06.28:051][562]LogEditorViewport: Clicking Background
+[2020.02.18-19.06.54:002][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2020.02.18-19.07.00:058][389]Cmd: TRANSACTION UNDO
+[2020.02.18-19.07.00:058][389]LogEditorTransaction: Undo Scale Actors
+[2020.02.18-19.07.01:883][389]Cmd: TRANSACTION UNDO
+[2020.02.18-19.07.01:883][389]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.18-19.07.01:912][389]Cmd: TRANSACTION UNDO
+[2020.02.18-19.07.01:912][389]LogEditorTransaction: Undo Move Actors
+[2020.02.18-19.07.03:346][471]LogEditorViewport: Clicking Background
+[2020.02.18-19.07.13:983][106]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.18-19.07.14:052][106]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/13462/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/4/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_840505AA44A30C591ACC4696639B7108__1_0_0_0_3_13315_0.udd.
+[2020.02.18-19.07.16:713][264]Cmd: DELETE
+[2020.02.18-19.07.16:713][264]Cmd: ACTOR DELETE
+[2020.02.18-19.07.16:736][264]LogEditorActor: Deleted Actor: Brush
+[2020.02.18-19.07.16:767][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.02.18-19.07.16:814][264]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2020.02.18-19.07.21:024][514]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.18-19.07.49:638][158]Cmd: TRANSACTION UNDO
+[2020.02.18-19.07.49:638][158]LogEditorTransaction: Undo Move Actors
+[2020.02.18-19.07.50:109][168]Cmd: TRANSACTION UNDO
+[2020.02.18-19.07.50:109][168]LogEditorTransaction: Undo Move Actors
+[2020.02.18-19.07.50:451][181]Cmd: TRANSACTION UNDO
+[2020.02.18-19.07.50:451][181]LogEditorTransaction: Undo Move Actors
+[2020.02.18-19.07.50:792][197]Cmd: TRANSACTION UNDO
+[2020.02.18-19.07.50:792][197]LogEditorTransaction: Undo Move Actors
+[2020.02.18-19.07.51:239][219]Cmd: TRANSACTION UNDO
+[2020.02.18-19.07.51:239][219]LogEditorTransaction: Undo Move Actors
+[2020.02.18-19.07.51:793][248]Cmd: TRANSACTION UNDO
+[2020.02.18-19.07.51:793][248]LogEditorTransaction: Undo Move Actors
+[2020.02.18-19.07.52:266][271]Cmd: TRANSACTION UNDO
+[2020.02.18-19.07.52:266][271]LogEditorTransaction: Undo Move Actors
+[2020.02.18-19.07.57:024][544]Cmd: TRANSACTION UNDO
+[2020.02.18-19.07.57:025][544]LogEditorTransaction: Undo Move Actors
+[2020.02.18-19.08.07:490][145]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.18-19.08.42:349][128]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/13462/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_8CA7474A447683DF7F6D1EB0D973DD33__1_0_0_0_3_13315_0.udd.
+[2020.02.18-19.08.47:993][461]Cmd: TRANSACTION UNDO
+[2020.02.18-19.08.47:993][461]LogEditorTransaction: Undo Move Actors
+[2020.02.18-19.08.48:489][472]Cmd: TRANSACTION UNDO
+[2020.02.18-19.08.48:489][472]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.18-19.08.48:814][489]Cmd: TRANSACTION UNDO
+[2020.02.18-19.08.48:814][489]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.18-19.08.49:019][501]Cmd: TRANSACTION UNDO
+[2020.02.18-19.08.49:019][501]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.18-19.08.49:205][512]Cmd: TRANSACTION UNDO
+[2020.02.18-19.08.49:205][512]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.18-19.08.49:529][531]Cmd: TRANSACTION UNDO
+[2020.02.18-19.08.49:529][531]LogEditorTransaction: Undo Move Actors
+[2020.02.18-19.08.49:727][537]Cmd: TRANSACTION UNDO
+[2020.02.18-19.08.49:727][537]LogEditorTransaction: Undo Move Actors
+[2020.02.18-19.08.50:018][550]Cmd: TRANSACTION UNDO
+[2020.02.18-19.08.50:018][550]LogEditorTransaction: Undo Move Actors
+[2020.02.18-19.08.50:337][565]Cmd: TRANSACTION UNDO
+[2020.02.18-19.08.50:337][565]LogEditorTransaction: Undo Move Actors
+[2020.02.18-19.09.24:574][588]Cmd: MODE SCALEGRID=0
+[2020.02.18-19.09.45:509][798]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/13462/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/4/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_A5A1D3234BA5B9C62DEEE59F4EBF8C87__1_0_0_0_3_13315_0.udd.
+[2020.02.18-19.10.33:176][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.02.18-19.10.33:207][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map_4" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/map_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.18-19.10.33:238][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.02.18-19.10.33:486][590]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/map_4D7D6381A453815F7CE9C8FA1DEE27E02.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/map_4.umap'
+[2020.02.18-19.10.33:501][590]LogFileHelpers: Saving map 'map_4' took 0.295
+[2020.02.18-19.10.33:511][590]AssetCheck: New page: Asset Save: map_4
+[2020.02.18-19.10.33:511][590]LogContentValidation: Display: Validating World /Game/map_4.map_4
