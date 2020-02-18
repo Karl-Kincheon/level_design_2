@@ -2901,3 +2901,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.18-19.36.02:869][474]LogFileHelpers: Saving map 'map_4' took 0.249
 [2020.02.18-19.36.02:879][474]AssetCheck: New page: Asset Save: map_4
 [2020.02.18-19.36.02:879][474]LogContentValidation: Display: Validating World /Game/map_4.map_4
+[2020.02.18-19.36.56:264][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
