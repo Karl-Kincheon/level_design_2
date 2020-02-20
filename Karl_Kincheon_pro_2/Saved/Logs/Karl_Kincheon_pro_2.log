@@ -3061,3 +3061,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.20-19.28.11:051][231]LogFileHelpers: Saving map 'Town_1' took 0.277
 [2020.02.20-19.28.11:061][231]AssetCheck: New page: Asset Save: Town_1
 [2020.02.20-19.28.11:061][231]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.02.20-19.32.22:847][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
