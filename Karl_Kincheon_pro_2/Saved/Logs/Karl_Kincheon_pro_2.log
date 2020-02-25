@@ -1291,3 +1291,34 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-18.59.16:922][972]LogContentValidation: Display: Validating World /Game/Farm.Farm
 [2020.02.25-19.00.27:061][852]LogEditorViewport: Clicking Background
 [2020.02.25-19.01.16:710][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.02.25-19.03.34:121][597]LogActorFactory: Actor Factory created SM_Prop_Basket_02
+[2020.02.25-19.03.36:341][730]LogActorFactory: Actor Factory created SM_Prop_Basket_02
+[2020.02.25-19.03.47:513][388]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-19.03.57:263][961]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-19.04.03:958][347]Cmd: DELETE
+[2020.02.25-19.04.03:958][347]Cmd: ACTOR DELETE
+[2020.02.25-19.04.03:959][347]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-19.04.03:983][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.02.25-19.04.03:984][347]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.02.25-19.04.30:684][919]LogActorFactory: Actor Factory created SM_Prop_Wood_Pile_02
+[2020.02.25-19.04.31:937][994]LogActorFactory: Actor Factory created SM_Prop_Wood_Pile_02
+[2020.02.25-19.04.34:750][160]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-19.04.48:691][995]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-19.04.50:858][125]LogEditorViewport: Clicking Background
+[2020.02.25-19.04.51:491][163]Cmd: TRANSACTION UNDO
+[2020.02.25-19.04.51:491][163]LogEditorTransaction: Undo Clicking Background
+[2020.02.25-19.04.51:942][176]Cmd: TRANSACTION UNDO
+[2020.02.25-19.04.51:942][176]LogEditorTransaction: Undo Marquee Select
+[2020.02.25-19.04.53:423][263]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-19.05.16:799][665]LogEditorViewport: Clicking Background
+[2020.02.25-19.05.41:242][119]LogEditorViewport: Clicking Background
+[2020.02.25-19.05.47:043][467]LogEditorViewport: Clicking Background
+[2020.02.25-19.05.53:630][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.02.25-19.05.53:656][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Farm" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Farm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.25-19.05.53:679][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.02.25-19.05.54:241][857]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Farm501F9980452F846F1C5B46928873E945.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Farm.umap'
+[2020.02.25-19.05.54:241][857]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Farm501F9980452F846F1C5B46928873E945.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Farm.umap', retrying in .5s...
+[2020.02.25-19.05.54:743][857]LogFileManager: Warning: MoveFile recovered during retry!
+[2020.02.25-19.05.54:813][857]LogFileHelpers: Saving map 'Farm' took 1.158
+[2020.02.25-19.05.54:855][857]AssetCheck: New page: Asset Save: Farm
+[2020.02.25-19.05.54:855][857]LogContentValidation: Display: Validating World /Game/Farm.Farm
