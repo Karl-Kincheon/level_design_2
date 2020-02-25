@@ -1260,3 +1260,34 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-18.54.46:166][841]LogFileHelpers: Saving map 'Farm' took 0.533
 [2020.02.25-18.54.46:175][841]AssetCheck: New page: Asset Save: Farm
 [2020.02.25-18.54.46:175][841]LogContentValidation: Display: Validating World /Game/Farm.Farm
+[2020.02.25-18.57.43:104][618]LogSkeletalMesh: Building Skeletal Mesh SK_Veh_Stagecoach_01...
+[2020.02.25-18.57.43:469][618]LogSkeletalMesh: Built Skeletal Mesh [0.36s] /Game/PolygonWestern/Meshes/Vehicles_Rigged/SK_Veh_Stagecoach_01.SK_Veh_Stagecoach_01
+[2020.02.25-18.57.55:450][331]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-18.57.58:484][513]Cmd: DELETE
+[2020.02.25-18.57.58:484][513]Cmd: ACTOR DELETE
+[2020.02.25-18.57.58:485][513]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.02.25-18.57.58:508][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.02.25-18.57.58:509][513]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.02.25-18.57.59:867][592]LogSkeletalMesh: Building Skeletal Mesh SK_Veh_Cart_01...
+[2020.02.25-18.57.59:869][592]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonWestern/Meshes/Vehicles_Rigged/SK_Veh_Cart_01.SK_Veh_Cart_01
+[2020.02.25-18.57.59:913][592]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/13462/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/7/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_E562B00E45BA1B72AD34F3ADB7A833B9__1_1_0_0_2_13315_0.udd.
+[2020.02.25-18.58.26:895][209]LogRenderer: Reallocating scene render targets to support 1104x572 Format 9 NumSamples 1 (Frame:23667).
+[2020.02.25-18.58.26:919][210]LogRenderer: Reallocating scene render targets to support 1104x588 Format 9 NumSamples 1 (Frame:23669).
+[2020.02.25-18.58.26:940][211]LogRenderer: Reallocating scene render targets to support 1104x608 Format 9 NumSamples 1 (Frame:23671).
+[2020.02.25-18.58.26:961][212]LogRenderer: Reallocating scene render targets to support 1104x620 Format 9 NumSamples 1 (Frame:23673).
+[2020.02.25-18.58.26:980][213]LogRenderer: Reallocating scene render targets to support 1104x636 Format 9 NumSamples 1 (Frame:23675).
+[2020.02.25-18.58.27:002][214]LogRenderer: Reallocating scene render targets to support 1104x648 Format 9 NumSamples 1 (Frame:23677).
+[2020.02.25-18.58.27:024][215]LogRenderer: Reallocating scene render targets to support 1104x664 Format 9 NumSamples 1 (Frame:23679).
+[2020.02.25-18.58.27:045][216]LogRenderer: Reallocating scene render targets to support 1104x676 Format 9 NumSamples 1 (Frame:23681).
+[2020.02.25-18.58.27:066][217]LogRenderer: Reallocating scene render targets to support 1104x680 Format 9 NumSamples 1 (Frame:23683).
+[2020.02.25-18.58.28:650][312]LogEditorViewport: Clicking Background
+[2020.02.25-18.59.03:415][396]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.25-18.59.16:319][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.02.25-18.59.16:357][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Farm" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Farm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.25-18.59.16:381][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.25-18.59.16:855][972]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Farm0384814A45F98F47DDAAA282B420DA6B.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Farm.umap'
+[2020.02.25-18.59.16:914][972]LogFileHelpers: Saving map 'Farm' took 0.557
+[2020.02.25-18.59.16:922][972]AssetCheck: New page: Asset Save: Farm
+[2020.02.25-18.59.16:922][972]LogContentValidation: Display: Validating World /Game/Farm.Farm
+[2020.02.25-19.00.27:061][852]LogEditorViewport: Clicking Background
+[2020.02.25-19.01.16:710][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
