@@ -1512,3 +1512,111 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-17.40.21:304][647]Cmd: MAP CHECKDEP NOCLEARLOG
 [2020.02.25-17.40.21:305][647]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.161ms to complete.
 [2020.02.25-17.40.21:305][647]LogFileHelpers: Loading map 'Town_1' took 0.499
+[2020.02.25-17.40.40:414][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Church_01)
+[2020.02.25-17.40.46:269][504]LogMaterial: Display: Missing cached shader map for material Material_5, compiling. 
+[2020.02.25-17.40.46:288][505]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.02.25-17.40.46:288][505]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.02.25-17.40.46:288][505]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.02.25-17.40.46:288][505]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.02.25-17.40.46:299][505]LogMaterial: Display: Missing cached shader map for material Material_6, compiling. 
+[2020.02.25-17.40.46:329][506]LogMaterial: Display: Missing cached shader map for material Material_7, compiling. 
+[2020.02.25-17.40.48:410][613]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 68
+[2020.02.25-17.40.48:708][631]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 58
+[2020.02.25-17.40.49:130][656]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 48
+[2020.02.25-17.40.50:813][752]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2020.02.25-17.40.50:915][759]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2020.02.25-17.40.51:015][764]LogActorFactory: Actor Factory created SM_Bld_Church_Tower_01
+[2020.02.25-17.40.51:506][793]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.02.25-17.40.51:948][819]LogActorFactory: Actor Factory created SM_Bld_Church_Tower_01
+[2020.02.25-17.40.52:777][868]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.02.25-17.40.53:271][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.02.25-17.40.53:371][902]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.25-17.40.53:592][915]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.02.25-17.40.54:101][945]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-17.40.54:379][961]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.02.25-17.40.54:513][969]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.25-17.40.54:587][973]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.25-17.40.55:195][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Church_01)
+[2020.02.25-17.40.55:981][ 55]Cmd: DELETE
+[2020.02.25-17.40.55:981][ 55]Cmd: ACTOR DELETE
+[2020.02.25-17.40.55:984][ 55]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-17.40.56:009][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.02.25-17.40.56:010][ 55]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.02.25-17.40.56:437][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Church_Tower_01)
+[2020.02.25-17.40.56:574][ 88]Cmd: DELETE
+[2020.02.25-17.40.56:574][ 88]Cmd: ACTOR DELETE
+[2020.02.25-17.40.56:576][ 88]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-17.40.56:598][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.25-17.40.56:599][ 88]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.02.25-17.41.01:863][400]LogActorFactory: Actor Factory created SM_Bld_Church_01
+[2020.02.25-17.41.02:833][458]LogActorFactory: Actor Factory created SM_Bld_Church_01
+[2020.02.25-17.41.12:278][ 19]LogActorFactory: Actor Factory created SM_Bld_Church_Tower_01
+[2020.02.25-17.41.12:883][ 55]LogActorFactory: Actor Factory created SM_Bld_Church_Tower_01
+[2020.02.25-17.41.15:823][229]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-17.41.26:890][893]Cmd: DELETE
+[2020.02.25-17.41.26:890][893]Cmd: ACTOR DELETE
+[2020.02.25-17.41.26:893][893]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-17.41.26:918][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.02.25-17.41.26:919][893]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.02.25-17.41.30:282][ 94]Cmd: TRANSACTION UNDO
+[2020.02.25-17.41.30:282][ 94]LogEditorTransaction: Undo Delete Actors
+[2020.02.25-17.41.32:000][180]Cmd: DELETE
+[2020.02.25-17.41.32:000][180]Cmd: ACTOR DELETE
+[2020.02.25-17.41.32:003][180]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-17.41.32:025][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.25-17.41.32:026][180]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.02.25-17.41.32:470][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Church_01)
+[2020.02.25-17.41.32:586][213]Cmd: DELETE
+[2020.02.25-17.41.32:586][213]Cmd: ACTOR DELETE
+[2020.02.25-17.41.32:589][213]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-17.41.32:611][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.02.25-17.41.32:612][213]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.02.25-17.41.33:952][290]LogActorFactory: Actor Factory created SM_Bld_Church_01
+[2020.02.25-17.41.34:638][331]LogActorFactory: Actor Factory created SM_Bld_Church_01
+[2020.02.25-17.41.35:556][382]LogActorFactory: Actor Factory created SM_Bld_Church_Tower_01
+[2020.02.25-17.41.36:578][443]LogActorFactory: Actor Factory created SM_Bld_Church_Tower_01
+[2020.02.25-17.41.38:365][548]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-17.42.00:191][739]LogEditorViewport: Clicking Background
+[2020.02.25-17.42.03:375][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Church_Tower_01)
+[2020.02.25-17.42.04:026][968]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Church_01)
+[2020.02.25-17.42.33:667][743]LogEditorViewport: Clicking Background
+[2020.02.25-17.42.38:697][ 42]LogActorFactory: Actor Factory created SM_Prop_Church_Podium_01
+[2020.02.25-17.42.39:767][106]LogActorFactory: Actor Factory created SM_Prop_Church_Podium_01
+[2020.02.25-17.42.52:596][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Church_01)
+[2020.02.25-17.42.58:158][204]LogActorFactory: Actor Factory created SM_Prop_Church_Pew_01
+[2020.02.25-17.42.58:713][237]LogActorFactory: Actor Factory created SM_Prop_Church_Pew_01
+[2020.02.25-17.43.17:714][375]Cmd: TRANSACTION UNDO
+[2020.02.25-17.43.17:714][375]LogEditorTransaction: Undo Move Actors
+[2020.02.25-17.43.23:114][682]Cmd: TRANSACTION UNDO
+[2020.02.25-17.43.23:114][682]LogEditorTransaction: Undo Move Actors
+[2020.02.25-17.43.23:445][691]Cmd: TRANSACTION UNDO
+[2020.02.25-17.43.23:445][691]LogEditorTransaction: Undo Rotate Actors
+[2020.02.25-17.43.32:642][236]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Church_Pew_01)
+[2020.02.25-17.43.43:809][905]Cmd: TRANSACTION UNDO
+[2020.02.25-17.43.43:809][905]LogEditorTransaction: Undo Move Actors
+[2020.02.25-17.43.44:154][915]Cmd: TRANSACTION UNDO
+[2020.02.25-17.43.44:154][915]LogEditorTransaction: Undo Rotate Actors
+[2020.02.25-17.43.45:222][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Church_Pew_2)
+[2020.02.25-17.43.50:794][307]Cmd: TRANSACTION UNDO
+[2020.02.25-17.43.50:794][307]LogEditorTransaction: Undo Move Actors
+[2020.02.25-17.43.51:253][320]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Church_Pew_01)
+[2020.02.25-17.44.11:569][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Church_Pew_2)
+[2020.02.25-17.44.17:272][876]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Church_Pew_01)
+[2020.02.25-17.44.22:405][183]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Prop_Church_Pew_01)
+[2020.02.25-17.44.24:978][308]Cmd: PIVOT SNAPPED
+[2020.02.25-17.44.44:340][461]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Church_Pew_3)
+[2020.02.25-17.44.44:924][495]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Church_Pew_4)
+[2020.02.25-17.44.45:857][550]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Church_Pew_01)
+[2020.02.25-17.44.47:905][672]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Church_Pew_2)
+[2020.02.25-17.45.04:672][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Church_Pew_2)
+[2020.02.25-17.45.07:523][847]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Church_Pew_01)
+[2020.02.25-17.45.11:886][107]Cmd: TRANSACTION UNDO
+[2020.02.25-17.45.11:886][107]LogEditorTransaction: Undo Move Actors
+[2020.02.25-17.45.22:305][714]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.25-17.45.51:487][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.02.25-17.45.51:515][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.25-17.45.51:541][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.02.25-17.45.54:719][452]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1501A57C7414C58D299D1D2873E340B08.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.02.25-17.45.54:778][452]LogFileHelpers: Saving map 'Town_1' took 3.264
+[2020.02.25-17.45.54:800][452]AssetCheck: New page: Asset Save: Town_1
+[2020.02.25-17.45.54:800][452]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
