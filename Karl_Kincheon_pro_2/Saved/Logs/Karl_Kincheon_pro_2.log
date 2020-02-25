@@ -985,3 +985,58 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-18.33.07:422][544]LogFileHelpers: Saving map 'Town_1' took 3.298
 [2020.02.25-18.33.07:459][544]AssetCheck: New page: Asset Save: Town_1
 [2020.02.25-18.33.07:459][544]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.02.25-18.34.04:306][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Curve_02)
+[2020.02.25-18.34.12:661][963]LogEditorViewport: Clicking Background
+[2020.02.25-18.34.15:190][114]LogRenderer: Reallocating scene render targets to support 1104x508 Format 9 NumSamples 1 (Frame:29261).
+[2020.02.25-18.34.15:344][123]LogRenderer: Reallocating scene render targets to support 1104x512 Format 9 NumSamples 1 (Frame:29265).
+[2020.02.25-18.34.15:385][125]LogRenderer: Reallocating scene render targets to support 1104x516 Format 9 NumSamples 1 (Frame:29269).
+[2020.02.25-18.34.15:407][126]LogRenderer: Reallocating scene render targets to support 1104x520 Format 9 NumSamples 1 (Frame:29271).
+[2020.02.25-18.34.15:429][127]LogRenderer: Reallocating scene render targets to support 1104x524 Format 9 NumSamples 1 (Frame:29273).
+[2020.02.25-18.34.15:450][128]LogRenderer: Reallocating scene render targets to support 1104x532 Format 9 NumSamples 1 (Frame:29275).
+[2020.02.25-18.34.15:471][129]LogRenderer: Reallocating scene render targets to support 1104x540 Format 9 NumSamples 1 (Frame:29277).
+[2020.02.25-18.34.15:509][131]LogRenderer: Reallocating scene render targets to support 1104x548 Format 9 NumSamples 1 (Frame:29281).
+[2020.02.25-18.34.15:546][133]LogRenderer: Reallocating scene render targets to support 1104x552 Format 9 NumSamples 1 (Frame:29285).
+[2020.02.25-18.34.15:582][135]LogRenderer: Reallocating scene render targets to support 1104x556 Format 9 NumSamples 1 (Frame:29289).
+[2020.02.25-18.34.15:636][138]LogRenderer: Reallocating scene render targets to support 1104x560 Format 9 NumSamples 1 (Frame:29293).
+[2020.02.25-18.34.46:324][975]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2020.02.25-18.35.01:782][896]Cmd: TRANSACTION UNDO
+[2020.02.25-18.35.01:782][896]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.25-18.35.05:531][100]Cmd: TRANSACTION UNDO
+[2020.02.25-18.35.05:532][100]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.25-18.35.53:301][938]LogEditorViewport: Clicking Background
+[2020.02.25-18.35.54:033][982]LogEditorViewport: Clicking Background
+[2020.02.25-18.35.54:600][ 16]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.25-18.36.04:127][584]Cmd: TRANSACTION UNDO
+[2020.02.25-18.36.04:127][584]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.25-18.36.04:577][597]Cmd: TRANSACTION UNDO
+[2020.02.25-18.36.04:577][597]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.25-18.36.04:701][597]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.02.25-18.36.04:915][607]Cmd: TRANSACTION UNDO
+[2020.02.25-18.36.04:915][607]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.25-18.36.05:036][607]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.02.25-18.36.05:233][619]Cmd: TRANSACTION UNDO
+[2020.02.25-18.36.05:233][619]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.25-18.36.05:391][619]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.02.25-18.36.05:542][627]Cmd: TRANSACTION UNDO
+[2020.02.25-18.36.05:542][627]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.25-18.36.05:651][627]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.02.25-18.36.05:833][638]Cmd: TRANSACTION UNDO
+[2020.02.25-18.36.05:833][638]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.25-18.36.06:035][638]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.02.25-18.36.06:117][642]Cmd: TRANSACTION UNDO
+[2020.02.25-18.36.06:117][642]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.25-18.36.06:201][642]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.02.25-18.36.06:746][674]Cmd: TRANSACTION UNDO
+[2020.02.25-18.36.06:746][674]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.25-18.36.06:889][674]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.02.25-18.36.07:207][692]Cmd: TRANSACTION UNDO
+[2020.02.25-18.36.07:207][692]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.25-18.36.07:625][697]Cmd: TRANSACTION UNDO
+[2020.02.25-18.36.07:625][697]LogEditorTransaction: Undo Clicking Background
+[2020.02.25-18.36.45:558][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.02.25-18.36.45:581][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.25-18.36.45:605][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.25-18.36.49:066][959]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_10CED483F48EFBFED205DF1BA13A04993.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.02.25-18.36.49:130][959]LogFileHelpers: Saving map 'Town_1' took 3.549
+[2020.02.25-18.36.49:170][959]AssetCheck: New page: Asset Save: Town_1
+[2020.02.25-18.36.49:171][959]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
