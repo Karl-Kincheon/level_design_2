@@ -1417,3 +1417,48 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-19.26.42:363][666]LogFileHelpers: Saving map 'Farm' took 2.148
 [2020.02.25-19.26.42:399][666]AssetCheck: New page: Asset Save: Farm
 [2020.02.25-19.26.42:399][666]LogContentValidation: Display: Validating World /Game/Farm.Farm
+[2020.02.25-19.27.08:070][577]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.25-19.27.11:952][808]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.25-19.27.17:800][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_WaterTrough_Water_01)
+[2020.02.25-19.27.19:605][265]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.25-19.27.31:282][959]LogActorFactory: Actor Factory created SM_Env_Cliff_Cap_02
+[2020.02.25-19.27.33:186][ 73]LogActorFactory: Actor Factory created SM_Env_Cliff_Cap_02
+[2020.02.25-19.27.47:129][904]LogActorFactory: Actor Factory created SM_Env_Cliff_Pillar_01
+[2020.02.25-19.27.48:001][956]LogActorFactory: Actor Factory created SM_Env_Cliff_Pillar_01
+[2020.02.25-19.27.55:208][380]LogActorFactory: Actor Factory created SM_Env_Cliff_Straight_02
+[2020.02.25-19.27.56:014][428]LogActorFactory: Actor Factory created SM_Env_Cliff_Straight_02
+[2020.02.25-19.28.07:880][139]Cmd: TRANSACTION UNDO
+[2020.02.25-19.28.07:880][139]LogEditorTransaction: Undo Move Actors
+[2020.02.25-19.28.08:599][166]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Cliff_Pillar_01)
+[2020.02.25-19.28.10:282][266]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Cliff_Cap_02)
+[2020.02.25-19.28.15:181][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Pillar_01)
+[2020.02.25-19.28.17:747][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Straight_02)
+[2020.02.25-19.28.18:881][779]Cmd: DELETE
+[2020.02.25-19.28.18:881][779]Cmd: ACTOR DELETE
+[2020.02.25-19.28.18:883][779]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-19.28.18:907][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.02.25-19.28.18:910][779]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.02.25-19.28.20:849][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Pillar_01)
+[2020.02.25-19.28.21:516][935]Cmd: DELETE
+[2020.02.25-19.28.21:516][935]Cmd: ACTOR DELETE
+[2020.02.25-19.28.21:518][935]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-19.28.21:541][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.25-19.28.21:542][935]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.02.25-19.28.22:453][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Cap_02)
+[2020.02.25-19.28.23:053][ 25]Cmd: DELETE
+[2020.02.25-19.28.23:053][ 25]Cmd: ACTOR DELETE
+[2020.02.25-19.28.23:055][ 25]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-19.28.23:078][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.02.25-19.28.23:079][ 25]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.02.25-19.28.43:339][856]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.25-19.28.44:221][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_TreeDead_01)
+[2020.02.25-19.28.56:899][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_TreeDead_03)
+[2020.02.25-19.29.54:205][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_WaterTrough_Water_01)
+[2020.02.25-19.30.13:564][261]LogEditorViewport: Clicking Background
+[2020.02.25-19.30.15:337][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.02.25-19.30.15:358][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Farm" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Farm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.25-19.30.15:382][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.02.25-19.30.17:078][364]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Farm9195F2DE407F5ECA43263C9CA335A0C4.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Farm.umap'
+[2020.02.25-19.30.17:121][364]LogFileHelpers: Saving map 'Farm' took 1.763
+[2020.02.25-19.30.17:142][364]AssetCheck: New page: Asset Save: Farm
+[2020.02.25-19.30.17:142][364]LogContentValidation: Display: Validating World /Game/Farm.Farm
