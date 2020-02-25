@@ -1621,3 +1621,47 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-17.45.54:800][452]AssetCheck: New page: Asset Save: Town_1
 [2020.02.25-17.45.54:800][452]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
 [2020.02.25-17.47.05:812][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.02.25-17.48.01:690][719]LogActorFactory: Actor Factory created SM_Env_Cliff_Straight_01
+[2020.02.25-17.48.02:613][774]LogActorFactory: Actor Factory created SM_Env_Cliff_Straight_01
+[2020.02.25-17.48.05:467][943]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-17.48.31:942][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Straight_01)
+[2020.02.25-17.48.32:627][567]Cmd: DELETE
+[2020.02.25-17.48.32:627][567]Cmd: ACTOR DELETE
+[2020.02.25-17.48.32:630][567]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-17.48.32:654][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.02.25-17.48.32:655][567]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.02.25-17.48.33:950][645]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Cliff_Straight_2)
+[2020.02.25-17.48.34:419][672]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Cliff_Straight_3)
+[2020.02.25-17.48.42:159][133]LogActorFactory: Actor Factory created SM_Env_Cliff_Pillar_01
+[2020.02.25-17.48.43:499][213]LogActorFactory: Actor Factory created SM_Env_Cliff_Pillar_01
+[2020.02.25-17.48.44:324][262]Cmd: DELETE
+[2020.02.25-17.48.44:324][262]Cmd: ACTOR DELETE
+[2020.02.25-17.48.44:327][262]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-17.48.44:351][262]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.02.25-17.48.44:352][262]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.02.25-17.48.48:555][512]LogActorFactory: Actor Factory created SM_Env_Cliff_Curve_02
+[2020.02.25-17.48.49:526][570]LogActorFactory: Actor Factory created SM_Env_Cliff_Curve_02
+[2020.02.25-17.48.59:002][138]Cmd: DELETE
+[2020.02.25-17.48.59:002][138]Cmd: ACTOR DELETE
+[2020.02.25-17.48.59:005][138]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-17.48.59:027][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.02.25-17.48.59:028][138]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.02.25-17.49.00:289][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Straight_2)
+[2020.02.25-17.49.01:123][263]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Cliff_Straight_3)
+[2020.02.25-17.49.01:888][308]Cmd: DELETE
+[2020.02.25-17.49.01:889][308]Cmd: ACTOR DELETE
+[2020.02.25-17.49.01:892][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-17.49.01:892][308]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-17.49.01:915][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.02.25-17.49.01:915][308]LogEditorActor: Deleted 2 Actors (0.027 secs)
+[2020.02.25-17.49.08:930][718]LogActorFactory: Actor Factory created SM_Env_Cliff_Curve_02
+[2020.02.25-17.49.09:734][766]LogActorFactory: Actor Factory created SM_Env_Cliff_Curve_02
+[2020.02.25-17.49.17:916][256]Cmd: TRANSACTION UNDO
+[2020.02.25-17.49.17:916][256]LogEditorTransaction: Undo Scale Actors
+[2020.02.25-17.50.13:268][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.02.25-17.50.13:292][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.25-17.50.13:318][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.02.25-17.50.16:334][554]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1B3DCA5C64257A2374330A4B865BD17F9.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.02.25-17.50.16:407][554]LogFileHelpers: Saving map 'Town_1' took 3.115
+[2020.02.25-17.50.16:442][554]AssetCheck: New page: Asset Save: Town_1
+[2020.02.25-17.50.16:442][554]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
