@@ -1322,3 +1322,36 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-19.05.54:813][857]LogFileHelpers: Saving map 'Farm' took 1.158
 [2020.02.25-19.05.54:855][857]AssetCheck: New page: Asset Save: Farm
 [2020.02.25-19.05.54:855][857]LogContentValidation: Display: Validating World /Game/Farm.Farm
+[2020.02.25-19.08.43:733][723]LogActorFactory: Actor Factory created SM_Env_TreeDead_02
+[2020.02.25-19.08.45:336][819]LogActorFactory: Actor Factory created SM_Env_TreeDead_02
+[2020.02.25-19.08.49:495][ 66]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-19.09.01:226][764]LogActorFactory: Actor Factory created SM_Env_TreeDead_03
+[2020.02.25-19.09.02:498][840]LogActorFactory: Actor Factory created SM_Env_TreeDead_03
+[2020.02.25-19.09.14:840][410]LogActorFactory: Actor Factory created SM_Env_TreeDead_01
+[2020.02.25-19.09.16:561][513]LogActorFactory: Actor Factory created SM_Env_TreeDead_01
+[2020.02.25-19.10.03:973][289]LogActorFactory: Actor Factory created SM_Prop_HitchingPost_01
+[2020.02.25-19.10.04:378][313]LogActorFactory: Actor Factory created SM_Prop_HitchingPost_01
+[2020.02.25-19.11.04:533][804]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-19.11.14:945][428]LogEditorViewport: Clicking Background
+[2020.02.25-19.11.17:292][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_HitchingPost_01)
+[2020.02.25-19.11.40:784][976]LogEditorViewport: Clicking Background
+[2020.02.25-19.11.59:548][ 87]LogActorFactory: Actor Factory created SM_Prop_Fence_Stick_01
+[2020.02.25-19.12.00:102][120]LogActorFactory: Actor Factory created SM_Prop_Fence_Stick_01
+[2020.02.25-19.12.00:877][166]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-19.12.08:294][611]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.25-19.12.09:037][655]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.02.25-19.12.16:123][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Fence_Stick_01)
+[2020.02.25-19.12.35:787][251]Cmd: TRANSACTION UNDO
+[2020.02.25-19.12.35:787][251]LogEditorTransaction: Undo Rotate Actors
+[2020.02.25-19.12.36:101][260]Cmd: TRANSACTION UNDO
+[2020.02.25-19.12.36:101][260]LogEditorTransaction: Undo Rotate Actors
+[2020.02.25-19.13.49:624][661]LogEditorViewport: Clicking Background
+[2020.02.25-19.14.16:288][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_HitchingPost_01)
+[2020.02.25-19.14.22:805][650]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.25-19.14.35:821][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.02.25-19.14.35:844][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Farm" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Farm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.25-19.14.35:868][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.25-19.14.36:474][425]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Farm0E873FFD403CE19C7316BAB59C067D59.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Farm.umap'
+[2020.02.25-19.14.36:534][425]LogFileHelpers: Saving map 'Farm' took 0.690
+[2020.02.25-19.14.36:579][425]AssetCheck: New page: Asset Save: Farm
+[2020.02.25-19.14.36:579][425]LogContentValidation: Display: Validating World /Game/Farm.Farm
