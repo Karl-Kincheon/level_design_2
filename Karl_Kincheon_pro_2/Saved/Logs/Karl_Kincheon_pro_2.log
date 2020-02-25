@@ -1355,3 +1355,65 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-19.14.36:534][425]LogFileHelpers: Saving map 'Farm' took 0.690
 [2020.02.25-19.14.36:579][425]AssetCheck: New page: Asset Save: Farm
 [2020.02.25-19.14.36:579][425]LogContentValidation: Display: Validating World /Game/Farm.Farm
+[2020.02.25-19.17.43:847][297]LogEditorViewport: Clicking Background
+[2020.02.25-19.26.08:025][787]LogTexture: Display: Building textures: Texture2D_4 (G8, 128X128)
+[2020.02.25-19.26.13:718][104]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 64X64)
+[2020.02.25-19.26.14:375][142]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2020.02.25-19.26.14:988][176]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2020.02.25-19.26.15:545][209]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2020.02.25-19.26.16:086][241]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2020.02.25-19.26.16:661][275]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2020.02.25-19.26.18:484][384]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2020.02.25-19.26.19:025][416]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2020.02.25-19.26.19:567][448]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2020.02.25-19.26.31:219][140]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2020.02.25-19.26.31:667][166]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2020.02.25-19.26.32:092][191]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2020.02.25-19.26.33:084][250]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2020.02.25-19.26.33:105][251]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/13462/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/8/TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_D7684AE84526BA25BAC1FD9569C1920__2054B005FC4F3F0E406608E2EBFA6603A3FA131E.udd.
+[2020.02.25-19.26.33:427][270]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2020.02.25-19.26.33:802][292]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2020.02.25-19.26.33:823][293]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/13462/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/2/TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_D41255C04B9C9A9EA1B350AFE18553B__D504B05C6A72973EB90C43783B364D3CA6324E13.udd.
+[2020.02.25-19.26.34:477][332]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2020.02.25-19.26.34:498][333]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/13462/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/1/TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_F9BE564C4B487745A93D2AB0E899E9F__59B88BCFA7964281D522A80F4D195DDA701D3CA4.udd.
+[2020.02.25-19.26.34:836][353]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2020.02.25-19.26.35:179][373]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2020.02.25-19.26.35:572][396]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2020.02.25-19.26.35:964][419]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2020.02.25-19.26.36:357][442]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2020.02.25-19.26.36:735][464]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2020.02.25-19.26.40:188][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.02.25-19.26.40:216][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Farm" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Farm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.25-19.26.40:240][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.25-19.26.40:267][666]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2020.02.25-19.26.40:267][666]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.25-19.26.40:268][666]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2020.02.25-19.26.40:268][666]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 64X64)
+[2020.02.25-19.26.40:269][666]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2020.02.25-19.26.40:269][666]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2020.02.25-19.26.40:270][666]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 64X64)
+[2020.02.25-19.26.40:271][666]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2020.02.25-19.26.40:271][666]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2020.02.25-19.26.40:271][666]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2020.02.25-19.26.40:272][666]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2020.02.25-19.26.40:272][666]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2020.02.25-19.26.40:273][666]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2020.02.25-19.26.40:273][666]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 64X64)
+[2020.02.25-19.26.40:274][666]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 64X64)
+[2020.02.25-19.26.40:274][666]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 64X64)
+[2020.02.25-19.26.40:274][666]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 64X64)
+[2020.02.25-19.26.40:275][666]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 64X64)
+[2020.02.25-19.26.40:275][666]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 64X64)
+[2020.02.25-19.26.40:276][666]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 64X64)
+[2020.02.25-19.26.40:276][666]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 64X64)
+[2020.02.25-19.26.40:277][666]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 64X64)
+[2020.02.25-19.26.40:277][666]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 64X64)
+[2020.02.25-19.26.40:277][666]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 64X64)
+[2020.02.25-19.26.40:278][666]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 64X64)
+[2020.02.25-19.26.40:278][666]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 64X64)
+[2020.02.25-19.26.40:278][666]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 64X64)
+[2020.02.25-19.26.40:279][666]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 64X64)
+[2020.02.25-19.26.42:255][666]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Farm2336EF1C4D4652B55576F19CA9EDDB16.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Farm.umap'
+[2020.02.25-19.26.42:363][666]LogFileHelpers: Saving map 'Farm' took 2.148
+[2020.02.25-19.26.42:399][666]AssetCheck: New page: Asset Save: Farm
+[2020.02.25-19.26.42:399][666]LogContentValidation: Display: Validating World /Game/Farm.Farm
