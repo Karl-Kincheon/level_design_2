@@ -1040,3 +1040,46 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-18.36.49:130][959]LogFileHelpers: Saving map 'Town_1' took 3.549
 [2020.02.25-18.36.49:170][959]AssetCheck: New page: Asset Save: Town_1
 [2020.02.25-18.36.49:171][959]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.02.25-18.37.56:061][627]LogActorFactory: Actor Factory created SM_Env_Cliff_Arch_02
+[2020.02.25-18.37.57:801][731]LogActorFactory: Actor Factory created SM_Env_Cliff_Arch_02
+[2020.02.25-18.38.18:033][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Straight_12)
+[2020.02.25-18.38.25:307][377]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-18.38.38:941][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Straight_21)
+[2020.02.25-18.39.02:753][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Arch_02)
+[2020.02.25-18.39.08:240][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Straight_28)
+[2020.02.25-18.39.14:535][311]LogActorFactory: Actor Factory created SM_Env_Train_Track_Bridge_Top_Curve_01
+[2020.02.25-18.39.15:421][362]LogActorFactory: Actor Factory created SM_Env_Train_Track_Bridge_Top_Curve_01
+[2020.02.25-18.39.16:878][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Straight_28)
+[2020.02.25-18.39.24:298][888]Cmd: TRANSACTION UNDO
+[2020.02.25-18.39.24:298][888]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.25-18.39.24:694][899]Cmd: TRANSACTION UNDO
+[2020.02.25-18.39.24:694][899]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.25-18.39.25:095][918]Cmd: TRANSACTION UNDO
+[2020.02.25-18.39.25:095][918]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.25-18.39.35:077][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Straight_28)
+[2020.02.25-18.39.41:428][889]LogActorFactory: Actor Factory created SM_Env_Train_Track_Bridge_Top_Curve_01
+[2020.02.25-18.39.42:515][954]LogActorFactory: Actor Factory created SM_Env_Train_Track_Bridge_Top_Curve_01
+[2020.02.25-18.39.49:443][367]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-18.39.52:183][531]Cmd: DELETE
+[2020.02.25-18.39.52:183][531]Cmd: ACTOR DELETE
+[2020.02.25-18.39.52:186][531]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.39.52:213][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.02.25-18.39.52:215][531]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.02.25-18.40.11:010][655]LogEditorViewport: Clicking Background
+[2020.02.25-18.40.13:242][788]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-18.40.19:893][185]Cmd: DELETE
+[2020.02.25-18.40.19:893][185]Cmd: ACTOR DELETE
+[2020.02.25-18.40.19:896][185]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.40.19:918][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.25-18.40.19:919][185]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.02.25-18.40.22:596][342]LogActorFactory: Actor Factory created SM_Env_Train_Track_Curve_01
+[2020.02.25-18.40.24:098][432]LogActorFactory: Actor Factory created SM_Env_Train_Track_Curve_01
+[2020.02.25-18.40.56:677][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Straight_28)
+[2020.02.25-18.41.17:050][602]LogEditorViewport: Clicking Background
+[2020.02.25-18.41.21:138][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.02.25-18.41.21:173][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.25-18.41.21:196][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.25-18.41.24:450][841]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_104AEC58A4D267F73A539DD987E6706D8.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.02.25-18.41.24:533][841]LogFileHelpers: Saving map 'Town_1' took 3.361
+[2020.02.25-18.41.24:572][841]AssetCheck: New page: Asset Save: Town_1
+[2020.02.25-18.41.24:572][841]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
