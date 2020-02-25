@@ -855,3 +855,86 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-18.16.14:212][ 15]LogFileHelpers: Saving map 'Farm' took 0.685
 [2020.02.25-18.16.14:245][ 15]AssetCheck: New page: Asset Save: Farm
 [2020.02.25-18.16.14:245][ 15]LogContentValidation: Display: Validating World /Game/Farm.Farm
+[2020.02.25-18.17.00:870][107]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.25-18.17.12:455][734]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.02.25-18.17.57:690][398]Cmd: TRANSACTION UNDO
+[2020.02.25-18.17.57:690][398]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2020.02.25-18.17.57:703][398]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.25-18.17.58:223][402]Cmd: TRANSACTION UNDO
+[2020.02.25-18.17.58:223][402]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2020.02.25-18.17.58:828][437]Cmd: TRANSACTION UNDO
+[2020.02.25-18.17.58:828][437]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.25-18.18.36:987][718]Cmd: TRANSACTION UNDO
+[2020.02.25-18.18.36:987][718]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2020.02.25-18.18.37:011][718]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2020.02.25-18.18.37:012][718]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.25-18.18.37:410][729]Cmd: TRANSACTION UNDO
+[2020.02.25-18.18.37:410][729]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2020.02.25-18.18.37:437][729]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2020.02.25-18.18.37:438][729]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.25-18.18.37:843][749]Cmd: TRANSACTION UNDO
+[2020.02.25-18.18.37:843][749]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2020.02.25-18.18.37:869][749]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2020.02.25-18.18.37:870][749]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.25-18.18.38:375][779]Cmd: TRANSACTION UNDO
+[2020.02.25-18.18.38:375][779]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2020.02.25-18.18.38:400][779]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2020.02.25-18.18.38:401][779]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.25-18.18.38:428][780]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/13462/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/0/TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_DAC4BBB44346B3C08E689E8E6A8A08C__E3B0009279F58A4B5EAABF3D633AAD5960CBF7BA.udd.
+[2020.02.25-18.18.38:912][809]Cmd: TRANSACTION UNDO
+[2020.02.25-18.18.38:912][809]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2020.02.25-18.18.39:548][845]Cmd: TRANSACTION UNDO
+[2020.02.25-18.18.39:548][845]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.25-18.19.35:778][210]Cmd: TRANSACTION UNDO
+[2020.02.25-18.19.35:778][210]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2020.02.25-18.19.35:803][210]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2020.02.25-18.19.35:804][210]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.25-18.19.36:106][219]Cmd: TRANSACTION UNDO
+[2020.02.25-18.19.36:106][219]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2020.02.25-18.19.36:133][219]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2020.02.25-18.19.36:134][219]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.25-18.19.36:195][219]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/13462/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/6/TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_5CB08F8C4C5E809B5B810886A27DF19__89B86344DC6D6645FDB37905D0041832DCF35934.udd.
+[2020.02.25-18.19.36:406][229]Cmd: TRANSACTION UNDO
+[2020.02.25-18.19.36:406][229]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2020.02.25-18.19.36:431][229]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2020.02.25-18.19.36:432][229]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.25-18.19.36:710][245]Cmd: TRANSACTION UNDO
+[2020.02.25-18.19.36:710][245]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2020.02.25-18.19.36:736][245]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2020.02.25-18.19.36:737][245]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.25-18.19.36:997][260]Cmd: TRANSACTION UNDO
+[2020.02.25-18.19.36:997][260]LogEditorTransaction: Undo Landscape Editing: Hydraulic Erosion
+[2020.02.25-18.19.37:023][260]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2020.02.25-18.19.37:024][260]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.25-18.19.37:322][277]Cmd: TRANSACTION UNDO
+[2020.02.25-18.19.37:323][277]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2020.02.25-18.19.37:745][299]Cmd: TRANSACTION UNDO
+[2020.02.25-18.19.37:745][299]LogEditorTransaction: Undo Rotate Actors
+[2020.02.25-18.19.39:046][376]Cmd: TRANSACTION REDO
+[2020.02.25-18.19.39:046][376]LogEditorTransaction: Redo Rotate Actors
+[2020.02.25-18.20.08:174][112]Cmd: TRANSACTION UNDO
+[2020.02.25-18.20.08:174][112]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2020.02.25-18.20.29:342][352]LogActorFactory: Actor Factory created SM_Prop_WaterTrough_Water_01
+[2020.02.25-18.20.30:146][400]LogActorFactory: Actor Factory created SM_Prop_WaterTrough_Water_01
+[2020.02.25-18.20.36:756][794]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.25-18.20.38:085][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_WaterTrough_Water_01)
+[2020.02.25-18.20.46:062][350]Cmd: DELETE
+[2020.02.25-18.20.46:062][350]Cmd: ACTOR DELETE
+[2020.02.25-18.20.46:063][350]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.20.46:088][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.02.25-18.20.46:090][350]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.02.25-18.20.48:478][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_WaterTrough_Water_01)
+[2020.02.25-18.21.00:310][203]LogEditorViewport: Clicking Background
+[2020.02.25-18.21.19:029][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.02.25-18.21.19:059][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Farm" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Farm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.25-18.21.19:084][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.25-18.21.19:119][878]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 64X64)
+[2020.02.25-18.21.19:120][878]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 64X64)
+[2020.02.25-18.21.19:120][878]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 64X64)
+[2020.02.25-18.21.19:121][878]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 64X64)
+[2020.02.25-18.21.19:588][878]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Farm3E78600C4A149D1B5A2C2A8D703CE031.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Farm.umap'
+[2020.02.25-18.21.19:589][878]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Farm3E78600C4A149D1B5A2C2A8D703CE031.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Farm.umap', retrying in .5s...
+[2020.02.25-18.21.20:091][878]LogFileManager: Warning: MoveFile recovered during retry!
+[2020.02.25-18.21.20:173][878]LogFileHelpers: Saving map 'Farm' took 1.114
+[2020.02.25-18.21.20:207][878]AssetCheck: New page: Asset Save: Farm
+[2020.02.25-18.21.20:207][878]LogContentValidation: Display: Validating World /Game/Farm.Farm
