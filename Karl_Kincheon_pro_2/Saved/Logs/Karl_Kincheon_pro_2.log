@@ -689,3 +689,150 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-17.59.51:578][108]LogFileHelpers: Saving map 'Town_1' took 3.346
 [2020.02.25-17.59.51:600][108]AssetCheck: New page: Asset Save: Town_1
 [2020.02.25-17.59.51:600][108]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.02.25-18.00.18:577][578]LogAIModule: Creating AISystem for world Farm
+[2020.02.25-18.00.18:580][578]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Farm.Farm
+[2020.02.25-18.00.18:604][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.02.25-18.00.18:606][578]Cmd: MAP LOAD FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Farm.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.25-18.00.18:606][578]LightingResults: New page: Lighting Build
+[2020.02.25-18.00.18:607][578]LoadErrors: New page: Loading map: Farm.umap
+[2020.02.25-18.00.18:608][578]LogWorld: UWorld::CleanupWorld for Town_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.25-18.00.18:608][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.25-18.00.18:608][578]MapCheck: New page: Map Check
+[2020.02.25-18.00.18:608][578]LightingResults: New page: Lighting Build
+[2020.02.25-18.00.18:636][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.02.25-18.00.18:763][578]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.25-18.00.18:787][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.02.25-18.00.18:823][578]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.25-18.00.18:823][578]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.148ms to complete.
+[2020.02.25-18.00.18:823][578]LogFileHelpers: Loading map 'Farm' took 0.218
+[2020.02.25-18.00.30:195][254]Cmd: DELETE
+[2020.02.25-18.00.30:195][254]Cmd: ACTOR DELETE
+[2020.02.25-18.00.30:198][254]LogEditorActor: Deleted Actor: LandscapeGizmoActiveActor
+[2020.02.25-18.00.30:200][254]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.00.30:200][254]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.00.30:200][254]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.00.30:200][254]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.00.30:201][254]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.00.30:201][254]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.00.30:201][254]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.00.30:201][254]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.00.30:201][254]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.00.30:201][254]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.00.30:202][254]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.00.30:202][254]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.00.30:225][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.02.25-18.00.30:227][254]LogEditorActor: Deleted 13 Actors (0.032 secs)
+[2020.02.25-18.01.17:018][333]LogActorFactory: Actor Factory created SM_Bld_Double_02
+[2020.02.25-18.01.17:887][385]LogActorFactory: Actor Factory created SM_Bld_Double_02
+[2020.02.25-18.01.18:463][419]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-18.01.24:512][782]LogRenderer: Reallocating scene render targets to support 1104x396 Format 9 NumSamples 1 (Frame:2300).
+[2020.02.25-18.01.24:563][785]LogRenderer: Reallocating scene render targets to support 1104x400 Format 9 NumSamples 1 (Frame:2304).
+[2020.02.25-18.01.24:619][788]LogRenderer: Reallocating scene render targets to support 1104x404 Format 9 NumSamples 1 (Frame:2310).
+[2020.02.25-18.01.24:700][792]LogRenderer: Reallocating scene render targets to support 1104x408 Format 9 NumSamples 1 (Frame:2318).
+[2020.02.25-18.01.24:750][795]LogRenderer: Reallocating scene render targets to support 1104x412 Format 9 NumSamples 1 (Frame:2324).
+[2020.02.25-18.01.24:786][797]LogRenderer: Reallocating scene render targets to support 1104x416 Format 9 NumSamples 1 (Frame:2328).
+[2020.02.25-18.01.24:805][798]LogRenderer: Reallocating scene render targets to support 1104x420 Format 9 NumSamples 1 (Frame:2330).
+[2020.02.25-18.01.24:824][799]LogRenderer: Reallocating scene render targets to support 1104x424 Format 9 NumSamples 1 (Frame:2332).
+[2020.02.25-18.01.24:847][800]LogRenderer: Reallocating scene render targets to support 1104x432 Format 9 NumSamples 1 (Frame:2334).
+[2020.02.25-18.01.24:867][801]LogRenderer: Reallocating scene render targets to support 1104x436 Format 9 NumSamples 1 (Frame:2336).
+[2020.02.25-18.01.24:887][802]LogRenderer: Reallocating scene render targets to support 1104x444 Format 9 NumSamples 1 (Frame:2338).
+[2020.02.25-18.01.24:904][803]LogRenderer: Reallocating scene render targets to support 1104x448 Format 9 NumSamples 1 (Frame:2340).
+[2020.02.25-18.01.24:944][805]LogRenderer: Reallocating scene render targets to support 1104x456 Format 9 NumSamples 1 (Frame:2344).
+[2020.02.25-18.01.24:966][806]LogRenderer: Reallocating scene render targets to support 1104x460 Format 9 NumSamples 1 (Frame:2346).
+[2020.02.25-18.01.24:986][807]LogRenderer: Reallocating scene render targets to support 1104x464 Format 9 NumSamples 1 (Frame:2348).
+[2020.02.25-18.01.25:004][808]LogRenderer: Reallocating scene render targets to support 1104x468 Format 9 NumSamples 1 (Frame:2350).
+[2020.02.25-18.01.25:023][809]LogRenderer: Reallocating scene render targets to support 1104x472 Format 9 NumSamples 1 (Frame:2352).
+[2020.02.25-18.01.25:042][810]LogRenderer: Reallocating scene render targets to support 1104x476 Format 9 NumSamples 1 (Frame:2354).
+[2020.02.25-18.01.25:059][811]LogRenderer: Reallocating scene render targets to support 1104x480 Format 9 NumSamples 1 (Frame:2356).
+[2020.02.25-18.01.25:078][812]LogRenderer: Reallocating scene render targets to support 1104x484 Format 9 NumSamples 1 (Frame:2358).
+[2020.02.25-18.01.25:097][813]LogRenderer: Reallocating scene render targets to support 1104x488 Format 9 NumSamples 1 (Frame:2360).
+[2020.02.25-18.01.25:116][814]LogRenderer: Reallocating scene render targets to support 1104x492 Format 9 NumSamples 1 (Frame:2362).
+[2020.02.25-18.01.25:151][816]LogRenderer: Reallocating scene render targets to support 1104x496 Format 9 NumSamples 1 (Frame:2366).
+[2020.02.25-18.01.25:184][818]LogRenderer: Reallocating scene render targets to support 1104x500 Format 9 NumSamples 1 (Frame:2370).
+[2020.02.25-18.01.25:220][820]LogRenderer: Reallocating scene render targets to support 1104x504 Format 9 NumSamples 1 (Frame:2374).
+[2020.02.25-18.04.52:949][181]LogActorFactory: Actor Factory created SM_Bld_Windmill_01
+[2020.02.25-18.04.53:970][242]LogActorFactory: Actor Factory created SM_Bld_Windmill_01
+[2020.02.25-18.04.55:790][348]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-18.04.59:009][538]LogActorFactory: Actor Factory created SM_Bld_WindmillTop_01
+[2020.02.25-18.05.00:864][649]LogActorFactory: Actor Factory created SM_Bld_WindmillTop_01
+[2020.02.25-18.05.08:188][ 88]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-18.05.54:823][886]LogEditorViewport: Clicking Background
+[2020.02.25-18.05.56:606][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_WindmillTop_01)
+[2020.02.25-18.06.02:355][337]LogEditorViewport: Clicking Background
+[2020.02.25-18.06.06:806][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_WindmillTop_01)
+[2020.02.25-18.06.11:138][863]LogEditorViewport: Clicking Background
+[2020.02.25-18.06.17:372][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_WindmillTop_01)
+[2020.02.25-18.06.18:520][305]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Windmill_01)
+[2020.02.25-18.06.21:186][464]LogEditorViewport: Clicking Background
+[2020.02.25-18.06.25:136][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Windmill_01)
+[2020.02.25-18.06.30:553][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_WindmillTop_01)
+[2020.02.25-18.06.37:500][441]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-18.06.42:633][749]LogEditorViewport: Clicking Background
+[2020.02.25-18.06.44:468][859]Cmd: TRANSACTION UNDO
+[2020.02.25-18.06.44:468][859]LogEditorTransaction: Undo Clicking Background
+[2020.02.25-18.06.44:803][868]Cmd: TRANSACTION UNDO
+[2020.02.25-18.06.44:803][868]LogEditorTransaction: Undo Move Actors
+[2020.02.25-18.06.45:151][884]Cmd: TRANSACTION UNDO
+[2020.02.25-18.06.45:151][884]LogEditorTransaction: Undo Move Actors
+[2020.02.25-18.06.45:651][914]Cmd: TRANSACTION UNDO
+[2020.02.25-18.06.45:651][914]LogEditorTransaction: Undo Rotate Actors
+[2020.02.25-18.06.46:789][981]LogEditorViewport: Clicking Background
+[2020.02.25-18.06.48:039][ 56]Cmd: TRANSACTION UNDO
+[2020.02.25-18.06.48:039][ 56]LogEditorTransaction: Undo Clicking Background
+[2020.02.25-18.06.56:211][544]LogEditorViewport: Clicking Background
+[2020.02.25-18.07.00:895][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_WindmillTop_01)
+[2020.02.25-18.07.01:694][872]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Windmill_01)
+[2020.02.25-18.07.53:349][509]LogEditorViewport: Clicking Background
+[2020.02.25-18.08.05:370][ 20]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.25-18.08.09:448][264]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.25-18.08.10:565][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_WindmillTop_01)
+[2020.02.25-18.08.11:329][376]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-18.08.12:729][460]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Windmill_01)
+[2020.02.25-18.08.27:705][350]LogActorFactory: Actor Factory created SM_Bld_Windmill_Spin_01
+[2020.02.25-18.08.28:475][396]LogActorFactory: Actor Factory created SM_Bld_Windmill_Spin_01
+[2020.02.25-18.08.30:321][503]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-18.08.40:404][108]Cmd: DELETE
+[2020.02.25-18.08.40:404][108]Cmd: ACTOR DELETE
+[2020.02.25-18.08.40:405][108]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.08.40:429][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.02.25-18.08.40:431][108]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.02.25-18.09.42:712][ 90]LogActorFactory: Actor Factory created SM_Bld_Single_01
+[2020.02.25-18.09.43:783][154]LogActorFactory: Actor Factory created SM_Bld_Single_01
+[2020.02.25-18.09.50:941][580]Cmd: DELETE
+[2020.02.25-18.09.50:941][580]Cmd: ACTOR DELETE
+[2020.02.25-18.09.50:942][580]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.09.50:965][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.02.25-18.09.50:967][580]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.02.25-18.09.52:010][640]LogActorFactory: Actor Factory created SM_Bld_Single_BackDoor_01
+[2020.02.25-18.09.52:846][690]LogActorFactory: Actor Factory created SM_Bld_Single_BackDoor_01
+[2020.02.25-18.09.54:926][814]Cmd: DELETE
+[2020.02.25-18.09.54:926][814]Cmd: ACTOR DELETE
+[2020.02.25-18.09.54:927][814]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.09.54:949][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.02.25-18.09.54:950][814]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2020.02.25-18.09.55:907][869]LogActorFactory: Actor Factory created SM_Bld_Single_01
+[2020.02.25-18.09.56:409][899]LogActorFactory: Actor Factory created SM_Bld_Single_01
+[2020.02.25-18.10.10:970][762]LogActorFactory: Actor Factory created SM_Bld_Single_DeckCover_01
+[2020.02.25-18.10.11:957][821]LogActorFactory: Actor Factory created SM_Bld_Single_DeckCover_01
+[2020.02.25-18.10.27:369][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_01)
+[2020.02.25-18.10.32:515][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_DeckCover_01)
+[2020.02.25-18.10.44:604][773]LogEditorViewport: Clicking Background
+[2020.02.25-18.10.47:570][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_DeckCover_01)
+[2020.02.25-18.11.08:629][211]LogEditorViewport: Clicking Background
+[2020.02.25-18.11.26:672][261]LogEditorViewport: Clicking Background
+[2020.02.25-18.11.29:572][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_DeckCover_01)
+[2020.02.25-18.11.55:164][969]LogEditorViewport: Clicking Background
+[2020.02.25-18.11.58:381][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_DeckCover_01)
+[2020.02.25-18.12.10:847][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_DeckCover_01)
+[2020.02.25-18.12.14:731][142]LogEditorViewport: Clicking Background
+[2020.02.25-18.12.18:314][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_DeckCover_01)
+[2020.02.25-18.12.20:895][511]LogEditorViewport: Clicking Background
+[2020.02.25-18.12.31:312][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_2)
+[2020.02.25-18.12.43:978][895]LogEditorViewport: Clicking Background
+[2020.02.25-18.13.00:022][854]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.02.25-18.13.00:060][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Farm" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Farm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.25-18.13.00:082][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.25-18.13.00:698][854]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/FarmF87E644B4FD8F98C021D209117840BCF.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Farm.umap'
+[2020.02.25-18.13.00:758][854]LogFileHelpers: Saving map 'Farm' took 0.699
+[2020.02.25-18.13.00:794][854]AssetCheck: New page: Asset Save: Farm
+[2020.02.25-18.13.00:794][854]LogContentValidation: Display: Validating World /Game/Farm.Farm
