@@ -836,3 +836,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-18.13.00:758][854]LogFileHelpers: Saving map 'Farm' took 0.699
 [2020.02.25-18.13.00:794][854]AssetCheck: New page: Asset Save: Farm
 [2020.02.25-18.13.00:794][854]LogContentValidation: Display: Validating World /Game/Farm.Farm
+[2020.02.25-18.13.54:480][244]Cmd: TRANSACTION UNDO
+[2020.02.25-18.13.54:480][244]LogEditorTransaction: Undo Move Actors
+[2020.02.25-18.14.04:853][847]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Double_02)
+[2020.02.25-18.14.34:065][598]Cmd: TRANSACTION UNDO
+[2020.02.25-18.14.34:065][598]LogEditorTransaction: Undo Rotate Actors
+[2020.02.25-18.14.56:714][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.02.25-18.14.56:735][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Farm" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Farm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.25-18.14.56:759][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.02.25-18.14.57:367][939]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/FarmC9D827DD4F1F361268A165BF477F6882.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Farm.umap'
+[2020.02.25-18.14.57:426][939]LogFileHelpers: Saving map 'Farm' took 0.690
+[2020.02.25-18.14.57:455][939]AssetCheck: New page: Asset Save: Farm
+[2020.02.25-18.14.57:455][939]LogContentValidation: Display: Validating World /Game/Farm.Farm
+[2020.02.25-18.16.13:506][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.02.25-18.16.13:527][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Farm" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Farm.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.25-18.16.13:551][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.02.25-18.16.14:153][ 15]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Farm9E9C094045436E342FDB799CBC165EAD.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Farm.umap'
+[2020.02.25-18.16.14:212][ 15]LogFileHelpers: Saving map 'Farm' took 0.685
+[2020.02.25-18.16.14:245][ 15]AssetCheck: New page: Asset Save: Farm
+[2020.02.25-18.16.14:245][ 15]LogContentValidation: Display: Validating World /Game/Farm.Farm
