@@ -1083,3 +1083,69 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-18.41.24:533][841]LogFileHelpers: Saving map 'Town_1' took 3.361
 [2020.02.25-18.41.24:572][841]AssetCheck: New page: Asset Save: Town_1
 [2020.02.25-18.41.24:572][841]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.02.25-18.41.46:183][478]LogActorFactory: Actor Factory created SM_Env_Cliff_Straight_02
+[2020.02.25-18.41.46:854][518]LogActorFactory: Actor Factory created SM_Env_Cliff_Straight_02
+[2020.02.25-18.41.55:212][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Straight_02)
+[2020.02.25-18.42.04:360][547]LogActorFactory: Actor Factory created SM_Env_Cliff_Curve_02
+[2020.02.25-18.42.05:033][587]LogActorFactory: Actor Factory created SM_Env_Cliff_Curve_02
+[2020.02.25-18.42.20:575][519]Cmd: TRANSACTION UNDO
+[2020.02.25-18.42.20:575][519]LogEditorTransaction: Undo Move Actors
+[2020.02.25-18.42.21:102][535]Cmd: TRANSACTION UNDO
+[2020.02.25-18.42.21:102][535]LogEditorTransaction: Undo Move Actors
+[2020.02.25-18.42.29:235][ 23]Cmd: TRANSACTION UNDO
+[2020.02.25-18.42.29:235][ 23]LogEditorTransaction: Undo Scale Actors
+[2020.02.25-18.42.48:251][148]Cmd: TRANSACTION UNDO
+[2020.02.25-18.42.48:251][148]LogEditorTransaction: Undo Scale Actors
+[2020.02.25-18.42.48:574][157]Cmd: TRANSACTION UNDO
+[2020.02.25-18.42.48:575][157]LogEditorTransaction: Undo Move Actors
+[2020.02.25-18.42.49:040][179]Cmd: TRANSACTION UNDO
+[2020.02.25-18.42.49:040][179]LogEditorTransaction: Undo Scale Actors
+[2020.02.25-18.42.56:277][613]Cmd: DELETE
+[2020.02.25-18.42.56:277][613]Cmd: ACTOR DELETE
+[2020.02.25-18.42.56:280][613]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.42.56:305][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.02.25-18.42.56:306][613]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.02.25-18.43.00:772][871]LogActorFactory: Actor Factory created SM_Env_Cliff_Cap_02
+[2020.02.25-18.43.02:624][982]LogActorFactory: Actor Factory created SM_Env_Cliff_Cap_02
+[2020.02.25-18.43.03:400][ 28]Cmd: DELETE
+[2020.02.25-18.43.03:400][ 28]Cmd: ACTOR DELETE
+[2020.02.25-18.43.03:403][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.43.03:428][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.02.25-18.43.03:428][ 28]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.02.25-18.43.04:917][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Straight_02)
+[2020.02.25-18.43.06:398][206]Cmd: DELETE
+[2020.02.25-18.43.06:398][206]Cmd: ACTOR DELETE
+[2020.02.25-18.43.06:401][206]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.25-18.43.06:425][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.25-18.43.06:425][206]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.02.25-18.43.34:877][906]Cmd: TRANSACTION UNDO
+[2020.02.25-18.43.34:877][906]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.25-18.43.34:969][906]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.02.25-18.43.35:292][915]Cmd: TRANSACTION UNDO
+[2020.02.25-18.43.35:292][915]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2020.02.25-18.43.52:773][942]LogActorFactory: Actor Factory created SM_Env_Cliff_Straight_02
+[2020.02.25-18.43.53:527][987]LogActorFactory: Actor Factory created SM_Env_Cliff_Straight_02
+[2020.02.25-18.44.03:237][565]LogActorFactory: Actor Factory created SM_Env_Cliff_Curve_01
+[2020.02.25-18.44.05:692][712]LogActorFactory: Actor Factory created SM_Env_Cliff_Curve_01
+[2020.02.25-18.44.07:416][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Straight_02)
+[2020.02.25-18.44.24:797][855]LogEditorViewport: Clicking Background
+[2020.02.25-18.44.30:955][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Curve_01)
+[2020.02.25-18.44.41:139][828]LogEditorViewport: Clicking Background
+[2020.02.25-18.44.44:539][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Curve_01)
+[2020.02.25-18.44.50:198][370]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.25-18.45.05:663][ 31]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.25-18.45.07:868][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.02.25-18.45.07:896][157]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.25-18.45.07:922][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.25-18.45.11:746][157]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1D107590B4E13D8BD2E4828806B2A7EEE.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.02.25-18.45.11:819][157]LogFileHelpers: Saving map 'Town_1' took 3.923
+[2020.02.25-18.45.11:867][157]AssetCheck: New page: Asset Save: Town_1
+[2020.02.25-18.45.11:867][157]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.02.25-18.45.21:374][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Curve_01)
+[2020.02.25-18.45.27:297][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.02.25-18.45.27:322][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.25-18.45.27:346][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.25-18.45.30:709][618]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1B5543D5745F530B5B2407DB1518AF96F.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.02.25-18.45.30:772][618]LogFileHelpers: Saving map 'Town_1' took 3.450
+[2020.02.25-18.45.30:791][618]AssetCheck: New page: Asset Save: Town_1
+[2020.02.25-18.45.30:791][618]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
