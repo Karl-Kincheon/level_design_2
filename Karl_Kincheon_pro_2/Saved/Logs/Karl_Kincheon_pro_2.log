@@ -1067,3 +1067,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.27-17.34.05:872][ 73]LogFileHelpers: Saving map 'Town_1' took 0.290
 [2020.02.27-17.34.05:882][ 73]AssetCheck: New page: Asset Save: Town_1
 [2020.02.27-17.34.05:882][ 73]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.02.27-17.34.54:113][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Pillar_3)
+[2020.02.27-17.34.55:830][394]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Cliff_Pillar_02)
+[2020.02.27-17.34.56:762][449]Cmd: DELETE
+[2020.02.27-17.34.56:762][449]Cmd: ACTOR DELETE
+[2020.02.27-17.34.56:766][449]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-17.34.56:766][449]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-17.34.56:786][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.02.27-17.34.56:788][449]LogEditorActor: Deleted 2 Actors (0.026 secs)
+[2020.02.27-17.35.10:471][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.02.27-17.35.10:491][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.27-17.35.10:512][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.27-17.35.10:758][265]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_15DF62B004A3140C185239E842FD9F3E8.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.02.27-17.35.10:771][265]LogFileHelpers: Saving map 'Town_1' took 0.280
+[2020.02.27-17.35.10:781][265]AssetCheck: New page: Asset Save: Town_1
+[2020.02.27-17.35.10:781][265]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
