@@ -736,3 +736,175 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.27-17.01.19:499][532]LogSlate: Window 'Project Settings' being destroyed
 [2020.02.27-17.01.19:503][532]LogSlate: Window 'Project Settings' being destroyed
 [2020.02.27-17.01.21:576][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.02.27-17.02.12:256][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_37)
+[2020.02.27-17.02.13:592][ 85]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_38)
+[2020.02.27-17.02.37:507][513]Cmd: DELETE
+[2020.02.27-17.02.37:507][513]Cmd: ACTOR DELETE
+[2020.02.27-17.02.37:511][513]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-17.02.37:511][513]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-17.02.37:533][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.02.27-17.02.37:535][513]LogEditorActor: Deleted 2 Actors (0.028 secs)
+[2020.02.27-17.10.56:241][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.02.27-17.10.56:244][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.27-17.10.56:490][828]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_Auto14D74E2AA4E183552F966AD940A0C6C12.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto1.umap'
+[2020.02.27-17.10.56:493][828]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Town_1' took 0.272
+[2020.02.27-17.10.56:493][828]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.272
+[2020.02.27-17.11.41:057][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Curve_02)
+[2020.02.27-17.11.52:696][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Curve_01)
+[2020.02.27-17.11.53:098][923]Cmd: DELETE
+[2020.02.27-17.11.53:098][923]Cmd: ACTOR DELETE
+[2020.02.27-17.11.53:101][923]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-17.11.53:123][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.02.27-17.11.53:124][923]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.02.27-17.11.53:896][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Curve_02)
+[2020.02.27-17.11.54:046][978]Cmd: DELETE
+[2020.02.27-17.11.54:046][978]Cmd: ACTOR DELETE
+[2020.02.27-17.11.54:049][978]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-17.11.54:070][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.27-17.11.54:070][978]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2020.02.27-17.11.54:781][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Straight_02)
+[2020.02.27-17.11.54:916][ 28]Cmd: DELETE
+[2020.02.27-17.11.54:916][ 28]Cmd: ACTOR DELETE
+[2020.02.27-17.11.54:919][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-17.11.54:939][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.27-17.11.54:940][ 28]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2020.02.27-17.11.55:419][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Straight_3)
+[2020.02.27-17.11.55:504][ 61]Cmd: DELETE
+[2020.02.27-17.11.55:504][ 61]Cmd: ACTOR DELETE
+[2020.02.27-17.11.55:507][ 61]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-17.11.55:527][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.27-17.11.55:528][ 61]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2020.02.27-17.13.22:350][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_61)
+[2020.02.27-17.13.25:137][759]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_63)
+[2020.02.27-17.13.25:684][791]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_15)
+[2020.02.27-17.13.26:136][817]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_16)
+[2020.02.27-17.13.26:742][852]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_17)
+[2020.02.27-17.13.27:155][876]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_60)
+[2020.02.27-17.13.28:890][979]Cmd: DELETE
+[2020.02.27-17.13.28:890][979]Cmd: ACTOR DELETE
+[2020.02.27-17.13.28:894][979]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-17.13.28:894][979]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-17.13.28:894][979]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-17.13.28:894][979]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-17.13.28:895][979]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-17.13.28:895][979]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-17.13.28:915][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.27-17.13.28:917][979]LogEditorActor: Deleted 6 Actors (0.026 secs)
+[2020.02.27-17.13.30:458][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_32)
+[2020.02.27-17.13.31:564][137]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_64)
+[2020.02.27-17.13.36:717][444]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.27-17.13.41:949][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_64)
+[2020.02.27-17.13.42:804][807]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_32)
+[2020.02.27-17.13.46:342][ 17]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.27-17.14.11:184][506]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.27-17.14.12:068][559]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.27-17.14.12:735][599]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.27-17.14.13:285][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Curve_01)
+[2020.02.27-17.14.26:438][419]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.27-17.14.27:236][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Straight_8)
+[2020.02.27-17.14.28:972][569]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Train_Track_Straight_9)
+[2020.02.27-17.14.32:952][807]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.27-17.14.34:016][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Straight_12)
+[2020.02.27-17.14.35:023][928]Cmd: DELETE
+[2020.02.27-17.14.35:023][928]Cmd: ACTOR DELETE
+[2020.02.27-17.14.35:026][928]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-17.14.35:048][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.02.27-17.14.35:050][928]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.02.27-17.14.35:610][962]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.27-17.14.36:278][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Curve_2)
+[2020.02.27-17.14.38:781][150]Cmd: DELETE
+[2020.02.27-17.14.38:781][150]Cmd: ACTOR DELETE
+[2020.02.27-17.14.38:783][150]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-17.14.38:806][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.27-17.14.38:806][150]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.02.27-17.14.42:312][228]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.27-17.14.42:909][263]Cmd: TRANSACTION UNDO
+[2020.02.27-17.14.42:909][263]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.27-17.14.44:358][324]Cmd: TRANSACTION UNDO
+[2020.02.27-17.14.44:358][324]LogEditorTransaction: Undo Move Actors
+[2020.02.27-17.14.51:846][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Straight_13)
+[2020.02.27-17.14.52:731][823]Cmd: DELETE
+[2020.02.27-17.14.52:731][823]Cmd: ACTOR DELETE
+[2020.02.27-17.14.52:735][823]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-17.14.52:755][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.27-17.14.52:756][823]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.02.27-17.14.53:248][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Straight_14)
+[2020.02.27-17.14.53:607][873]Cmd: DELETE
+[2020.02.27-17.14.53:607][873]Cmd: ACTOR DELETE
+[2020.02.27-17.14.53:610][873]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-17.14.53:631][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.27-17.14.53:632][873]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.02.27-17.14.55:354][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Curve_2)
+[2020.02.27-17.15.01:973][373]LogEditorViewport: Clicking Background
+[2020.02.27-17.15.29:104][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_TrainStation_Platform_01)
+[2020.02.27-17.15.48:595][121]LogSkeletalMesh: Building Skeletal Mesh SK_Veh_Train_Coal_01...
+[2020.02.27-17.15.48:679][121]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/PolygonWestern/Meshes/Vehicles_Rigged/SK_Veh_Train_Coal_01.SK_Veh_Train_Coal_01
+[2020.02.27-17.16.03:518][964]LogSkeletalMesh: Building Skeletal Mesh SK_Veh_Train_Freight_01...
+[2020.02.27-17.16.03:523][964]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/PolygonWestern/Meshes/Vehicles_Rigged/SK_Veh_Train_Freight_01.SK_Veh_Train_Freight_01
+[2020.02.27-17.16.07:801][193]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Veh_Train_Coal_01)
+[2020.02.27-17.16.11:782][430]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Veh_Train_Freight_01)
+[2020.02.27-17.16.33:681][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_TrainStation_Platform_2)
+[2020.02.27-17.16.37:066][911]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_TrainStation_Platform_2)
+[2020.02.27-17.16.37:816][955]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_TrainStation_Platform_01)
+[2020.02.27-17.16.47:473][491]Cmd: TRANSACTION UNDO
+[2020.02.27-17.16.47:473][491]LogEditorTransaction: Undo Move Actors
+[2020.02.27-17.17.00:749][ 60]LogSlate: Window 'Message' being destroyed
+[2020.02.27-17.17.01:843][122]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape)
+[2020.02.27-17.17.14:289][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_47)
+[2020.02.27-17.17.17:293][ 44]Cmd: DELETE
+[2020.02.27-17.17.17:293][ 44]Cmd: ACTOR DELETE
+[2020.02.27-17.17.17:296][ 44]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-17.17.17:320][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.02.27-17.17.17:322][ 44]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.02.27-17.17.17:811][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_48)
+[2020.02.27-17.17.18:677][125]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_37)
+[2020.02.27-17.17.19:195][155]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_38)
+[2020.02.27-17.17.32:846][971]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Veh_Train_01)
+[2020.02.27-17.17.33:436][  5]LogEditorViewport: Clicking on Actor (CTRL LMB): SkeletalMeshActor (SK_Veh_Train_Carriage_01)
+[2020.02.27-17.17.34:121][ 45]LogEditorViewport: Clicking on Actor (CTRL LMB): SkeletalMeshActor (SK_Veh_Train_Carriage_2)
+[2020.02.27-17.17.34:674][ 77]LogEditorViewport: Clicking on Actor (CTRL LMB): SkeletalMeshActor (SK_Veh_Train_Carriage_3)
+[2020.02.27-17.17.35:391][119]LogEditorViewport: Clicking on Actor (CTRL LMB): SkeletalMeshActor (SK_Veh_Train_Coal_01)
+[2020.02.27-17.17.35:943][151]LogEditorViewport: Clicking on Actor (CTRL LMB): SkeletalMeshActor (SK_Veh_Train_Coal_2)
+[2020.02.27-17.17.36:376][176]LogEditorViewport: Clicking on Actor (CTRL LMB): SkeletalMeshActor (SK_Veh_Train_Freight_01)
+[2020.02.27-17.17.36:827][202]LogEditorViewport: Clicking on Actor (CTRL LMB): SkeletalMeshActor (SK_Veh_Train_Freight_2)
+[2020.02.27-17.17.45:488][720]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Veh_Train_Coal_2)
+[2020.02.27-17.17.46:823][799]LogEditorViewport: Clicking on Actor (CTRL LMB): SkeletalMeshActor (SK_Veh_Train_Freight_01)
+[2020.02.27-17.17.47:322][828]LogEditorViewport: Clicking on Actor (CTRL LMB): SkeletalMeshActor (SK_Veh_Train_Freight_2)
+[2020.02.27-17.17.48:839][918]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Veh_Train_Freight_01)
+[2020.02.27-17.17.49:422][952]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Veh_Train_Freight_2)
+[2020.02.27-17.17.51:393][ 69]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Veh_Train_Freight_01)
+[2020.02.27-17.17.51:844][ 95]Cmd: TRANSACTION UNDO
+[2020.02.27-17.17.51:844][ 95]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.27-17.17.52:360][109]Cmd: TRANSACTION UNDO
+[2020.02.27-17.17.52:360][109]LogEditorTransaction: Undo Move Actors
+[2020.02.27-17.17.52:880][140]LogEditorViewport: Clicking on Actor (CTRL LMB): SkeletalMeshActor (SK_Veh_Train_Freight_01)
+[2020.02.27-17.17.55:633][304]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Veh_Train_Coal_2)
+[2020.02.27-17.17.57:882][438]Cmd: TRANSACTION UNDO
+[2020.02.27-17.17.57:882][438]LogEditorTransaction: Undo Move Actors
+[2020.02.27-17.18.03:375][750]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Veh_Train_Freight_2)
+[2020.02.27-17.18.03:880][779]LogEditorViewport: Clicking on Actor (CTRL LMB): SkeletalMeshActor (SK_Veh_Train_Freight_01)
+[2020.02.27-17.18.12:860][316]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Veh_Train_Freight_4)
+[2020.02.27-17.18.16:985][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Curve_2)
+[2020.02.27-17.18.23:901][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_TrainStation_Platform_3)
+[2020.02.27-17.18.24:616][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_TrainStation_Platform_3)
+[2020.02.27-17.18.25:216][ 51]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Veh_Train_Freight_5)
+[2020.02.27-17.18.27:988][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Straight_11)
+[2020.02.27-17.18.32:237][469]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (SK_Veh_Train_Freight_5)
+[2020.02.27-17.18.36:370][715]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.27-17.18.38:382][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Curve_2)
+[2020.02.27-17.18.43:068][115]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.27-17.18.53:898][709]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2020.02.27-17.18.54:695][727]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2020.02.27-17.18.56:755][849]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2020.02.27-17.19.02:704][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Curve_2)
+[2020.02.27-17.19.10:906][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.02.27-17.19.10:935][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.27-17.19.10:958][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.27-17.19.11:096][689]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.02.27-17.19.11:100][689]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2020.02.27-17.19.11:100][689]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2020.02.27-17.19.11:101][689]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2020.02.27-17.19.11:247][689]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1C66B55BB41E9C0DC8E29CBBD260251D4.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.02.27-17.19.11:262][689]LogFileHelpers: Saving map 'Town_1' took 0.327
+[2020.02.27-17.19.11:270][689]AssetCheck: New page: Asset Save: Town_1
+[2020.02.27-17.19.11:270][689]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
