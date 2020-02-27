@@ -1082,3 +1082,30 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.27-17.35.10:771][265]LogFileHelpers: Saving map 'Town_1' took 0.280
 [2020.02.27-17.35.10:781][265]AssetCheck: New page: Asset Save: Town_1
 [2020.02.27-17.35.10:781][265]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.02.27-17.35.53:197][227]LogActorFactory: Actor Factory created SM_Env_Cliff_Cap_01
+[2020.02.27-17.35.55:250][350]LogActorFactory: Actor Factory created SM_Env_Cliff_Cap_01
+[2020.02.27-17.36.10:627][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.02.27-17.36.10:656][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.27-17.36.10:676][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.02.27-17.36.10:928][267]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_19122F2B04D8BAC42539F27BBA0666842.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.02.27-17.36.10:941][267]LogFileHelpers: Saving map 'Town_1' took 0.285
+[2020.02.27-17.36.10:951][267]AssetCheck: New page: Asset Save: Town_1
+[2020.02.27-17.36.10:951][267]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.02.27-17.36.28:053][286]LogEditorViewport: Clicking Background
+[2020.02.27-17.37.01:463][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.02.27-17.37.05:555][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.02.27-17.37.05:734][526]LogSlate: Window 'Karl_Kincheon_pro_2 - Unreal Editor' being destroyed
+[2020.02.27-17.37.06:133][527]Cmd: QUIT_EDITOR
+[2020.02.27-17.37.06:133][527]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.02.27-17.37.06:159][527]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.02.27-17.37.06:173][527]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-17.37.06:345][527]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.27-17.37.06:355][527]LogExit: Preparing to exit.
+[2020.02.27-17.37.08:113][527]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.02.27-17.37.08:113][527]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.27-17.37.08:113][527]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.27-17.37.08:113][527]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.27-17.37.08:250][527]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.02.27-17.37.08:375][527]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.27-17.37.08:375][527]LogExit: Editor shut down
+[2020.02.27-17.37.08:376][527]LogExit: Transaction tracking system shut down
