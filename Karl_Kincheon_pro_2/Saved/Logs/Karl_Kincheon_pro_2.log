@@ -1471,3 +1471,98 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.27-18.33.33:453][168]LogFileHelpers: Saving map 'Town_1' took 1.000
 [2020.02.27-18.33.33:493][168]AssetCheck: New page: Asset Save: Town_1
 [2020.02.27-18.33.33:493][168]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.02.27-18.34.11:170][363]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.27-18.36.16:511][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Church_01)
+[2020.02.27-18.36.19:587][620]Cmd: TRANSACTION UNDO
+[2020.02.27-18.36.19:587][620]LogEditorTransaction: Undo Move Actors
+[2020.02.27-18.41.17:559][869]Cmd: TRANSACTION UNDO
+[2020.02.27-18.41.17:560][869]LogEditorTransaction: Undo Move Actors
+[2020.02.27-18.41.18:210][879]Cmd: TRANSACTION UNDO
+[2020.02.27-18.41.18:210][879]LogEditorTransaction: Undo Move Actors
+[2020.02.27-18.41.19:648][920]Cmd: TRANSACTION UNDO
+[2020.02.27-18.41.19:649][920]LogEditorTransaction: Undo Move Actors
+[2020.02.27-18.41.20:424][943]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.27-18.41.36:319][411]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.27-18.42.50:860][621]Cmd: SELECT NONE
+[2020.02.27-18.42.54:760][740]Cmd: TRANSACTION UNDO
+[2020.02.27-18.42.54:760][740]LogEditorTransaction: Undo Select None
+[2020.02.27-18.42.57:109][802]LogEditorViewport: Clicking Background
+[2020.02.27-18.43.38:578][ 30]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.27-18.43.45:377][227]Cmd: DELETE
+[2020.02.27-18.43.45:377][227]Cmd: ACTOR DELETE
+[2020.02.27-18.43.45:390][227]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.43.45:391][227]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.43.45:392][227]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.43.45:393][227]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.43.45:393][227]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.43.45:394][227]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.43.45:477][227]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.02.27-18.43.45:479][227]LogEditorActor: Deleted 6 Actors (0.102 secs)
+[2020.02.27-18.43.51:991][421]Cmd: TRANSACTION UNDO
+[2020.02.27-18.43.51:991][421]LogEditorTransaction: Undo Move Actors
+[2020.02.27-18.44.15:099][100]Cmd: DELETE
+[2020.02.27-18.44.15:099][100]Cmd: ACTOR DELETE
+[2020.02.27-18.44.15:113][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:114][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:115][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:116][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:116][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:117][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:118][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:118][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:119][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:120][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:121][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:121][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:122][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:123][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:124][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:124][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:125][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:126][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:126][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:127][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:128][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:128][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:129][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:129][100]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.44.15:205][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.02.27-18.44.15:207][100]LogEditorActor: Deleted 24 Actors (0.107 secs)
+[2020.02.27-18.46.32:293][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.02.27-18.46.32:296][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.27-18.46.33:538][950]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_Auto33ABB6489442A9B7B364148B088404EF7.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto3.umap'
+[2020.02.27-18.46.33:544][950]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Town_1' took 1.315
+[2020.02.27-18.46.33:544][950]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.315
+[2020.02.27-18.48.00:121][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Church_01)
+[2020.02.27-18.48.21:133][ 65]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.02.27-18.48.29:972][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_102)
+[2020.02.27-18.48.30:761][345]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_101)
+[2020.02.27-18.48.31:711][373]Cmd: DELETE
+[2020.02.27-18.48.31:711][373]Cmd: ACTOR DELETE
+[2020.02.27-18.48.31:721][373]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.48.31:722][373]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.27-18.48.31:800][373]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2020.02.27-18.48.31:801][373]LogEditorActor: Deleted 2 Actors (0.090 secs)
+[2020.02.27-18.49.01:186][251]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.27-18.49.25:393][956]Cmd: TRANSACTION UNDO
+[2020.02.27-18.49.25:394][956]LogEditorTransaction: Undo Move Actors
+[2020.02.27-18.49.35:106][179]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.02.27-18.49.44:839][464]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_113)
+[2020.02.27-18.50.09:996][201]Cmd: TRANSACTION UNDO
+[2020.02.27-18.50.09:996][201]LogEditorTransaction: Undo Move Actors
+[2020.02.27-18.50.12:161][201]Cmd: TRANSACTION UNDO
+[2020.02.27-18.50.12:161][201]LogEditorTransaction: Undo Marquee Select
+[2020.02.27-18.50.19:974][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_107)
+[2020.02.27-18.50.21:240][457]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_108)
+[2020.02.27-18.50.21:755][471]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_69)
+[2020.02.27-18.50.38:957][928]LogSlate: Window 'Message' being destroyed
+[2020.02.27-18.50.39:637][950]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape)
+[2020.02.27-18.50.41:084][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_117)
+[2020.02.27-18.51.29:484][430]LogEditorViewport: Clicking Background
+[2020.02.27-18.52.04:505][433]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.02.27-18.52.04:584][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.27-18.52.04:625][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.02.27-18.52.05:213][433]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1ABAEE2C642B8A73E267A71811EBCEDBC.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.02.27-18.52.05:277][433]LogFileHelpers: Saving map 'Town_1' took 0.694
+[2020.02.27-18.52.05:342][433]AssetCheck: New page: Asset Save: Town_1
+[2020.02.27-18.52.05:342][433]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
