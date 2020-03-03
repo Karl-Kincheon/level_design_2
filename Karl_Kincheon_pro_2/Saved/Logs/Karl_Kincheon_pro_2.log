@@ -1865,3 +1865,116 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.03-18.42.25:522][232]LogFileHelpers: Saving map 'Town_1' took 3.193
 [2020.03.03-18.42.25:545][232]AssetCheck: New page: Asset Save: Town_1
 [2020.03.03-18.42.25:545][232]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.03-18.42.41:650][422]LogAIModule: Creating AISystem for world Demonstration
+[2020.03.03-18.42.41:686][422]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PolygonWestern/Maps/Demonstration.Demonstration
+[2020.03.03-18.42.41:715][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.03.03-18.42.41:717][422]Cmd: MAP LOAD FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/PolygonWestern/Maps/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.03-18.42.41:717][422]LightingResults: New page: Lighting Build
+[2020.03.03-18.42.41:718][422]LoadErrors: New page: Loading map: Demonstration.umap
+[2020.03.03-18.42.41:720][422]LogWorld: UWorld::CleanupWorld for Town_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-18.42.41:720][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-18.42.41:720][422]MapCheck: New page: Map Check
+[2020.03.03-18.42.41:720][422]LightingResults: New page: Lighting Build
+[2020.03.03-18.42.41:746][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.03.03-18.42.42:436][422]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.03-18.42.42:467][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.03.03-18.42.42:482][422]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.03-18.42.42:483][422]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.282ms to complete.
+[2020.03.03-18.42.42:483][422]LogFileHelpers: Loading map 'Demonstration' took 0.767
+[2020.03.03-18.42.45:213][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Double_Roof_01)
+[2020.03.03-18.42.48:649][781]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-18.43.00:222][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Bridge_Top_2)
+[2020.03.03-18.43.08:928][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Double_3)
+[2020.03.03-18.43.27:161][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Butte_59)
+[2020.03.03-18.43.31:340][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Sand_Ground_38)
+[2020.03.03-18.43.34:702][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Double_02)
+[2020.03.03-18.43.54:430][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_MessageBoard3)
+[2020.03.03-18.43.56:376][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_RoadSign_01)
+[2020.03.03-18.44.02:316][181]LogAIModule: Creating AISystem for world Town_1
+[2020.03.03-18.44.02:320][181]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Town_1.Town_1
+[2020.03.03-18.44.02:341][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.03.03-18.44.02:343][181]Cmd: MAP LOAD FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.03-18.44.02:343][181]LightingResults: New page: Lighting Build
+[2020.03.03-18.44.02:344][181]LoadErrors: New page: Loading map: Town_1.umap
+[2020.03.03-18.44.02:350][181]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-18.44.02:350][181]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-18.44.02:350][181]MapCheck: New page: Map Check
+[2020.03.03-18.44.02:350][181]LightingResults: New page: Lighting Build
+[2020.03.03-18.44.02:384][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.03.03-18.44.03:154][181]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.03-18.44.03:178][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.03.03-18.44.03:193][181]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.03-18.44.03:193][181]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.157ms to complete.
+[2020.03.03-18.44.03:193][181]LogFileHelpers: Loading map 'Town_1' took 0.851
+[2020.03.03-18.44.30:113][788]LogEditorViewport: Clicking Background
+[2020.03.03-18.44.35:597][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Large_5)
+[2020.03.03-18.44.55:685][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_TrainStation_Platform_01)
+[2020.03.03-18.44.58:358][476]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-18.45.20:087][391]LogActorFactory: Actor Factory created SM_Prop_MessageBoard
+[2020.03.03-18.45.20:915][440]LogActorFactory: Actor Factory created SM_Prop_MessageBoard
+[2020.03.03-18.45.35:466][236]LogEditorViewport: Clicking Background
+[2020.03.03-18.45.45:178][814]LogActorFactory: Actor Factory created SM_Prop_RoadSign_01
+[2020.03.03-18.45.45:747][848]LogActorFactory: Actor Factory created SM_Prop_RoadSign_01
+[2020.03.03-18.45.51:161][172]Cmd: DELETE
+[2020.03.03-18.45.51:161][172]Cmd: ACTOR DELETE
+[2020.03.03-18.45.51:164][172]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-18.45.51:185][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.03.03-18.45.51:188][172]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.03.03-18.45.51:732][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_MessageBoard)
+[2020.03.03-18.45.56:246][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.03.03-18.45.56:273][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.03-18.45.56:295][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.03-18.45.59:480][468]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_151A29C464B4902BD9EA09D8443C71D1D.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.03-18.45.59:498][468]LogFileHelpers: Saving map 'Town_1' took 3.224
+[2020.03.03-18.45.59:523][468]AssetCheck: New page: Asset Save: Town_1
+[2020.03.03-18.45.59:523][468]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.03-18.46.06:465][872]LogAIModule: Creating AISystem for world Demonstration
+[2020.03.03-18.46.06:485][872]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PolygonWestern/Maps/Demonstration.Demonstration
+[2020.03.03-18.46.06:514][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.03.03-18.46.06:516][872]Cmd: MAP LOAD FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/PolygonWestern/Maps/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.03-18.46.06:516][872]LightingResults: New page: Lighting Build
+[2020.03.03-18.46.06:517][872]LoadErrors: New page: Loading map: Demonstration.umap
+[2020.03.03-18.46.06:519][872]LogWorld: UWorld::CleanupWorld for Town_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-18.46.06:519][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-18.46.06:519][872]MapCheck: New page: Map Check
+[2020.03.03-18.46.06:519][872]LightingResults: New page: Lighting Build
+[2020.03.03-18.46.06:548][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.03.03-18.46.07:344][872]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.03-18.46.07:376][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.03.03-18.46.07:391][872]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.03-18.46.07:391][872]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.257ms to complete.
+[2020.03.03-18.46.07:391][872]LogFileHelpers: Loading map 'Demonstration' took 0.875
+[2020.03.03-18.46.12:274][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_FencePost_01)
+[2020.03.03-18.46.12:922][194]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-18.46.16:856][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_FencePost_2)
+[2020.03.03-18.46.24:273][868]LogAIModule: Creating AISystem for world Town_1
+[2020.03.03-18.46.24:277][868]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Town_1.Town_1
+[2020.03.03-18.46.24:297][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.03.03-18.46.24:299][868]Cmd: MAP LOAD FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.03-18.46.24:299][868]LightingResults: New page: Lighting Build
+[2020.03.03-18.46.24:299][868]LoadErrors: New page: Loading map: Town_1.umap
+[2020.03.03-18.46.24:305][868]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-18.46.24:306][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-18.46.24:306][868]MapCheck: New page: Map Check
+[2020.03.03-18.46.24:306][868]LightingResults: New page: Lighting Build
+[2020.03.03-18.46.24:340][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.03.03-18.46.25:230][868]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.03-18.46.25:258][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.03.03-18.46.25:275][868]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.03-18.46.25:275][868]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.167ms to complete.
+[2020.03.03-18.46.25:275][868]LogFileHelpers: Loading map 'Town_1' took 0.977
+[2020.03.03-18.46.36:627][538]LogActorFactory: Actor Factory created SM_Bld_FencePost_01
+[2020.03.03-18.46.37:422][585]LogActorFactory: Actor Factory created SM_Bld_FencePost_01
+[2020.03.03-18.46.43:733][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_MessageBoard)
+[2020.03.03-18.46.53:590][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_FencePost_2)
+[2020.03.03-18.47.07:362][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_FencePost_2)
+[2020.03.03-18.47.10:428][560]LogEditorViewport: Clicking Background
+[2020.03.03-18.48.37:724][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.03.03-18.48.37:755][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.03-18.48.37:776][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.03-18.48.40:924][980]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_18EECEDA5479546C03F0035A2279953AC.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.03-18.48.40:925][980]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_18EECEDA5479546C03F0035A2279953AC.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap', retrying in .5s...
+[2020.03.03-18.48.41:427][980]LogFileManager: Warning: MoveFile recovered during retry!
+[2020.03.03-18.48.41:446][980]LogFileHelpers: Saving map 'Town_1' took 3.692
+[2020.03.03-18.48.41:472][980]AssetCheck: New page: Asset Save: Town_1
+[2020.03.03-18.48.41:472][980]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
