@@ -2073,3 +2073,62 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.03-18.55.05:027][903]LogFileHelpers: Saving map 'Town_1' took 3.172
 [2020.03.03-18.55.05:038][903]AssetCheck: New page: Asset Save: Town_1
 [2020.03.03-18.55.05:038][903]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.03-18.56.05:078][789]LogAIModule: Creating AISystem for world Demonstration
+[2020.03.03-18.56.05:127][789]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PolygonWestern/Maps/Demonstration.Demonstration
+[2020.03.03-18.56.05:154][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.03.03-18.56.05:157][789]Cmd: MAP LOAD FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/PolygonWestern/Maps/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.03-18.56.05:157][789]LightingResults: New page: Lighting Build
+[2020.03.03-18.56.05:157][789]LoadErrors: New page: Loading map: Demonstration.umap
+[2020.03.03-18.56.05:159][789]LogWorld: UWorld::CleanupWorld for Town_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-18.56.05:159][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-18.56.05:159][789]MapCheck: New page: Map Check
+[2020.03.03-18.56.05:159][789]LightingResults: New page: Lighting Build
+[2020.03.03-18.56.05:184][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.03.03-18.56.06:123][789]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.03-18.56.06:152][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.03.03-18.56.06:173][789]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.03-18.56.06:173][789]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.26ms to complete.
+[2020.03.03-18.56.06:173][789]LogFileHelpers: Loading map 'Demonstration' took 1.017
+[2020.03.03-18.56.12:751][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Double_Facade_04)
+[2020.03.03-18.56.14:663][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Double_Front_2)
+[2020.03.03-18.56.18:149][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Double_Facade_04)
+[2020.03.03-18.56.21:153][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_Front_2)
+[2020.03.03-18.56.22:595][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_Facade_5)
+[2020.03.03-18.56.25:481][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_Front_2)
+[2020.03.03-18.56.30:570][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_Front_4)
+[2020.03.03-18.56.32:009][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_Facade_01)
+[2020.03.03-18.56.40:443][821]LogAIModule: Creating AISystem for world Town_1
+[2020.03.03-18.56.40:448][821]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Town_1.Town_1
+[2020.03.03-18.56.40:471][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.03.03-18.56.40:472][821]Cmd: MAP LOAD FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.03-18.56.40:472][821]LightingResults: New page: Lighting Build
+[2020.03.03-18.56.40:473][821]LoadErrors: New page: Loading map: Town_1.umap
+[2020.03.03-18.56.40:479][821]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-18.56.40:479][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-18.56.40:480][821]MapCheck: New page: Map Check
+[2020.03.03-18.56.40:480][821]LightingResults: New page: Lighting Build
+[2020.03.03-18.56.40:511][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.03.03-18.56.41:534][821]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.03-18.56.41:559][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.03.03-18.56.41:574][821]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.03-18.56.41:574][821]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.155ms to complete.
+[2020.03.03-18.56.41:574][821]LogFileHelpers: Loading map 'Town_1' took 1.102
+[2020.03.03-18.56.52:193][451]LogAIModule: Creating AISystem for world map_2
+[2020.03.03-18.56.52:829][451]LogAIModule: Creating AISystem for world Saloon
+[2020.03.03-18.56.52:882][451]LogAIModule: Creating AISystem for world town_2
+[2020.03.03-18.56.52:885][451]LogObjectTools: Deleting 3 worlds: /Game/map_2.map_2, /Game/Saloon.Saloon, /Game/town_2.town_2
+[2020.03.03-18.56.52:885][451]LogObjectTools: Currently 10 active worlds: /Game/Town_1.Town_1, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9
+[2020.03.03-18.56.52:908][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.03.03-18.56.55:080][451]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.03-18.56.55:114][451]LogWorld: UWorld::CleanupWorld for map_2, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-18.56.55:115][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-18.56.55:119][451]LogWorld: UWorld::CleanupWorld for Saloon, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-18.56.55:119][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-18.56.55:122][451]LogWorld: UWorld::CleanupWorld for town_2, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-18.56.55:122][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-18.56.55:228][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.03.03-18.56.55:250][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.03-18.56.55:271][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.03-18.56.55:304][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.03.03-18.56.55:325][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.03.03-18.56.58:010][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
