@@ -1378,3 +1378,403 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.03-17.43.53:000][727]LogFileHelpers: Saving map 'Town_1' took 2.961
 [2020.03.03-17.43.53:022][727]AssetCheck: New page: Asset Save: Town_1
 [2020.03.03-17.43.53:022][727]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.03-17.44.35:776][497]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.03.03-17.44.36:585][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Rock_Alt_02)
+[2020.03.03-17.45.37:609][845]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-17.45.44:875][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Sign_8)
+[2020.03.03-17.45.46:641][919]Cmd: DELETE
+[2020.03.03-17.45.46:641][919]Cmd: ACTOR DELETE
+[2020.03.03-17.45.46:645][919]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-17.45.46:668][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.03.03-17.45.46:671][919]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.03.03-17.45.47:882][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_Front_10)
+[2020.03.03-17.45.50:502][375]Cmd: DELETE
+[2020.03.03-17.45.50:502][375]Cmd: ACTOR DELETE
+[2020.03.03-17.45.50:506][375]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-17.45.50:527][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.03-17.45.50:528][375]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.03.03-17.45.58:545][304]LogActorFactory: Actor Factory created SM_Bld_Single_Front_03
+[2020.03.03-17.46.01:582][667]LogActorFactory: Actor Factory created SM_Bld_Single_Front_03
+[2020.03.03-17.46.02:543][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Door_FrontDoor_15)
+[2020.03.03-17.46.06:738][279]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-17.46.09:286][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_Front_03)
+[2020.03.03-17.46.12:208][926]Cmd: TRANSACTION UNDO
+[2020.03.03-17.46.12:208][926]LogEditorTransaction: Undo Move Actors
+[2020.03.03-17.46.13:063][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Door_FrontDoor_15)
+[2020.03.03-17.46.16:240][358]LogEditorViewport: Clicking Background
+[2020.03.03-17.46.22:936][127]LogActorFactory: Actor Factory created SM_Bld_Sign_20
+[2020.03.03-17.46.24:048][259]LogActorFactory: Actor Factory created SM_Bld_Sign_20
+[2020.03.03-17.46.36:797][778]Cmd: DELETE
+[2020.03.03-17.46.36:797][778]Cmd: ACTOR DELETE
+[2020.03.03-17.46.36:800][778]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-17.46.36:823][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.03.03-17.46.36:826][778]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.03.03-17.46.39:914][142]LogActorFactory: Actor Factory created SM_Bld_Sign_09
+[2020.03.03-17.46.41:184][293]LogActorFactory: Actor Factory created SM_Bld_Sign_09
+[2020.03.03-17.47.00:254][572]LogEditorViewport: Clicking Background
+[2020.03.03-17.47.01:801][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Sign_09)
+[2020.03.03-17.47.13:966][194]LogEditorViewport: Clicking Background
+[2020.03.03-17.47.15:753][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Sign_09)
+[2020.03.03-17.47.16:301][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_Facade_9)
+[2020.03.03-17.47.17:719][638]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Sign_09)
+[2020.03.03-17.47.21:491][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Sign_09)
+[2020.03.03-17.47.42:289][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Sign_09)
+[2020.03.03-17.48.05:382][285]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-17.48.44:248][916]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2020.03.03-17.48.55:006][203]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.03.03-17.49.10:386][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_TrainStation_Platform_2)
+[2020.03.03-17.49.13:833][447]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.03.03-17.50.02:124][ 67]LogActorFactory: Actor Factory created SM_Bld_Single_Deck_03
+[2020.03.03-17.50.02:798][146]LogActorFactory: Actor Factory created SM_Bld_Single_Deck_03
+[2020.03.03-17.50.03:592][238]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-17.50.06:492][580]Cmd: DELETE
+[2020.03.03-17.50.06:492][580]Cmd: ACTOR DELETE
+[2020.03.03-17.50.06:496][580]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-17.50.06:519][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.03.03-17.50.06:522][580]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.03.03-17.51.29:459][ 36]LogActorFactory: Actor Factory created SM_Bld_Single_BackDoor_01
+[2020.03.03-17.51.30:330][139]LogActorFactory: Actor Factory created SM_Bld_Single_BackDoor_01
+[2020.03.03-17.51.55:626][151]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-17.52.18:126][761]LogActorFactory: Actor Factory created SM_Bld_Single_Front_03
+[2020.03.03-17.52.28:722][ 29]LogActorFactory: Actor Factory created SM_Bld_Single_Front_03
+[2020.03.03-17.52.29:489][118]LogEditorViewport: Clicking Background
+[2020.03.03-17.52.31:426][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_Front_10)
+[2020.03.03-17.52.57:952][622]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.03.03-17.52.59:631][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_BackDoor_01)
+[2020.03.03-17.53.05:102][450]LogActorFactory: Actor Factory created SM_Bld_Single_Facade_05
+[2020.03.03-17.53.06:512][617]LogActorFactory: Actor Factory created SM_Bld_Single_Facade_05
+[2020.03.03-17.53.13:678][462]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-17.53.21:512][396]LogEditorViewport: Clicking Background
+[2020.03.03-17.53.24:408][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_Facade_05)
+[2020.03.03-17.53.31:687][606]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-17.53.34:465][936]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-17.53.36:907][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Double_Facade_02)
+[2020.03.03-17.53.37:885][342]Cmd: DELETE
+[2020.03.03-17.53.37:885][342]Cmd: ACTOR DELETE
+[2020.03.03-17.53.37:888][342]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-17.53.37:911][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.03.03-17.53.37:914][342]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.03.03-17.53.38:470][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_Facade_05)
+[2020.03.03-17.53.48:848][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_Roof_10)
+[2020.03.03-17.53.51:228][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_Facade_05)
+[2020.03.03-17.54.08:059][930]Cmd: TRANSACTION UNDO
+[2020.03.03-17.54.08:059][930]LogEditorTransaction: Undo Scale Actors
+[2020.03.03-17.54.09:127][ 11]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Bld_Single_Facade_05)
+[2020.03.03-17.54.12:030][313]Cmd: PIVOT SNAPPED
+[2020.03.03-17.54.25:143][877]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Sign_17)
+[2020.03.03-17.54.39:406][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_Facade_05)
+[2020.03.03-17.54.42:264][921]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Bld_Single_Facade_05)
+[2020.03.03-17.54.44:902][201]Cmd: PIVOT SNAPPED
+[2020.03.03-17.54.50:062][815]LogEditorViewport: Clicking Background
+[2020.03.03-17.54.54:169][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_Facade_05)
+[2020.03.03-17.54.55:134][419]Cmd: DELETE
+[2020.03.03-17.54.55:134][419]Cmd: ACTOR DELETE
+[2020.03.03-17.54.55:137][419]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-17.54.55:159][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.03.03-17.54.55:161][419]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.03.03-17.55.01:468][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_BackDoor_01)
+[2020.03.03-17.55.01:683][198]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-17.55.06:994][818]LogActorFactory: Actor Factory created SM_Bld_Single_Facade_04
+[2020.03.03-17.55.09:569][125]LogActorFactory: Actor Factory created SM_Bld_Single_Facade_04
+[2020.03.03-17.55.30:370][588]LogActorFactory: Actor Factory created SM_Bld_Double_Roof_02
+[2020.03.03-17.55.31:353][704]LogActorFactory: Actor Factory created SM_Bld_Double_Roof_02
+[2020.03.03-17.55.34:941][125]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-17.55.36:659][331]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Bld_Double_Roof_6)
+[2020.03.03-17.55.39:167][596]Cmd: PIVOT SNAPPED
+[2020.03.03-17.55.45:983][407]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-17.55.48:811][743]Cmd: DELETE
+[2020.03.03-17.55.48:811][743]Cmd: ACTOR DELETE
+[2020.03.03-17.55.48:814][743]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-17.55.48:837][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.03.03-17.55.48:839][743]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.03.03-17.55.53:334][273]LogActorFactory: Actor Factory created SM_Bld_Single_Roof_01
+[2020.03.03-17.55.56:812][689]LogActorFactory: Actor Factory created SM_Bld_Single_Roof_01
+[2020.03.03-17.56.11:701][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_BackDoor_01)
+[2020.03.03-17.56.12:785][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_Roof_11)
+[2020.03.03-17.56.21:734][653]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.03.03-17.56.23:009][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_Roof_11)
+[2020.03.03-17.56.25:465][ 88]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-17.56.29:395][557]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Bld_Single_Roof_11)
+[2020.03.03-17.56.32:248][866]Cmd: PIVOT SNAPPED
+[2020.03.03-17.56.56:795][804]LogEditorViewport: Clicking Background
+[2020.03.03-17.57.02:153][425]LogActorFactory: Actor Factory created SM_Bld_Saloon_RoomDoor_01
+[2020.03.03-17.57.04:089][656]LogActorFactory: Actor Factory created SM_Bld_Saloon_RoomDoor_01
+[2020.03.03-17.57.18:860][421]Cmd: DELETE
+[2020.03.03-17.57.18:860][421]Cmd: ACTOR DELETE
+[2020.03.03-17.57.18:863][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-17.57.18:887][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.03.03-17.57.18:889][421]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.03.03-17.57.48:824][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.03.03-17.57.48:826][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.03.03-17.57.51:954][163]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_Auto1283DFE724D5F1A38B48DC89270A51CA8.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto1.umap'
+[2020.03.03-17.57.51:957][163]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Town_1' took 3.153
+[2020.03.03-17.57.51:957][163]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.153
+[2020.03.03-17.58.15:944][ 36]LogActorFactory: Actor Factory created SM_Bld_Door_02
+[2020.03.03-17.58.17:998][281]LogActorFactory: Actor Factory created SM_Bld_Door_02
+[2020.03.03-17.58.33:982][172]LogActorFactory: Actor Factory created SM_Bld_Door_02_Glass
+[2020.03.03-17.58.35:102][304]LogActorFactory: Actor Factory created SM_Bld_Door_02_Glass
+[2020.03.03-17.58.59:984][277]LogEditorViewport: Clicking Background
+[2020.03.03-17.59.04:741][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Door_02)
+[2020.03.03-17.59.09:741][440]LogEditorViewport: Clicking Background
+[2020.03.03-17.59.48:746][531]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.03.03-18.00.01:179][  9]Cmd: TRANSACTION UNDO
+[2020.03.03-18.00.01:179][  9]LogEditorTransaction: Undo Move Actors
+[2020.03.03-18.00.14:199][501]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.03.03-18.00.27:473][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.03.03-18.00.27:499][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.03-18.00.27:523][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.03-18.00.30:752][ 72]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_13A59A76E419F73C2A84F6A9829B46D8F.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.03-18.00.30:773][ 72]LogFileHelpers: Saving map 'Town_1' took 3.274
+[2020.03.03-18.00.30:825][ 72]AssetCheck: New page: Asset Save: Town_1
+[2020.03.03-18.00.30:825][ 72]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.03-18.02.50:979][896]LogAIModule: Creating AISystem for world Demonstration
+[2020.03.03-18.02.51:002][896]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PolygonWestern/Maps/Demonstration.Demonstration
+[2020.03.03-18.02.51:028][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2020.03.03-18.02.51:033][896]Cmd: MAP LOAD FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/PolygonWestern/Maps/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.03-18.02.51:033][896]LightingResults: New page: Lighting Build
+[2020.03.03-18.02.51:033][896]LoadErrors: New page: Loading map: Demonstration.umap
+[2020.03.03-18.02.51:035][896]LogWorld: UWorld::CleanupWorld for Town_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-18.02.51:035][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-18.02.51:036][896]MapCheck: New page: Map Check
+[2020.03.03-18.02.51:036][896]LightingResults: New page: Lighting Build
+[2020.03.03-18.02.51:065][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.03.03-18.02.51:627][896]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.03-18.02.51:657][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.03.03-18.02.51:672][896]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.03-18.02.51:673][896]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.268ms to complete.
+[2020.03.03-18.02.51:673][896]LogFileHelpers: Loading map 'Demonstration' took 0.643
+[2020.03.03-18.03.23:005][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Entrance_02)
+[2020.03.03-18.03.29:456][346]LogAIModule: Creating AISystem for world Town_1
+[2020.03.03-18.03.29:461][346]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Town_1.Town_1
+[2020.03.03-18.03.29:484][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.03.03-18.03.29:486][346]Cmd: MAP LOAD FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.03-18.03.29:486][346]LightingResults: New page: Lighting Build
+[2020.03.03-18.03.29:486][346]LoadErrors: New page: Loading map: Town_1.umap
+[2020.03.03-18.03.29:493][346]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.03.03-18.03.29:493][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.03-18.03.29:493][346]MapCheck: New page: Map Check
+[2020.03.03-18.03.29:493][346]LightingResults: New page: Lighting Build
+[2020.03.03-18.03.29:528][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.03.03-18.03.30:152][346]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.03-18.03.30:177][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.03.03-18.03.30:190][346]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.03-18.03.30:190][346]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2020.03.03-18.03.30:190][346]LogFileHelpers: Loading map 'Town_1' took 0.705
+[2020.03.03-18.05.53:916][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_Roof_01)
+[2020.03.03-18.06.06:798][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_Facade_04)
+[2020.03.03-18.06.07:611][792]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-18.06.10:362][ 54]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.03.03-18.06.10:485][ 55]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.03.03-18.06.10:485][ 55]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.03.03-18.06.10:485][ 55]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.03.03-18.06.10:485][ 55]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.03.03-18.06.10:496][ 55]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2020.03.03-18.06.14:175][400]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2020.03.03-18.06.14:544][430]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2020.03.03-18.06.15:054][473]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.03.03-18.06.16:370][580]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.03.03-18.06.16:810][614]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.03.03-18.06.17:287][654]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.03.03-18.06.17:410][655]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.03.03-18.06.18:319][726]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.03.03-18.06.18:461][738]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.03.03-18.06.21:481][ 76]LogActorFactory: Actor Factory created SM_Bld_Sign_20
+[2020.03.03-18.06.23:105][266]LogActorFactory: Actor Factory created SM_Bld_Sign_20
+[2020.03.03-18.06.34:983][684]LogEditorViewport: Clicking Background
+[2020.03.03-18.06.49:042][342]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.03.03-18.06.49:070][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.03-18.06.49:091][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.03-18.06.52:210][342]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1D9C5B2E643A2C36E7EE6038F3210554C.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.03-18.06.52:229][342]LogFileHelpers: Saving map 'Town_1' took 3.158
+[2020.03.03-18.06.52:253][342]AssetCheck: New page: Asset Save: Town_1
+[2020.03.03-18.06.52:253][342]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.03-18.07.48:404][ 57]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-18.07.50:085][251]LogEditorViewport: Clicking Background
+[2020.03.03-18.09.09:836][519]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2020.03.03-18.09.09:860][520]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 34
+[2020.03.03-18.09.09:860][520]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.03.03-18.09.09:860][520]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.03.03-18.09.09:860][520]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.03.03-18.09.09:867][520]LogMaterial: Display: Missing cached shader map for material Material_3, compiling. 
+[2020.03.03-18.09.09:909][522]LogMaterial: Display: Missing cached shader map for material Material_4, compiling. 
+[2020.03.03-18.09.09:961][523]LogMaterial: Display: Missing cached shader map for material Material_5, compiling. 
+[2020.03.03-18.09.10:025][524]LogMaterial: Display: Missing cached shader map for material Material_6, compiling. 
+[2020.03.03-18.09.10:079][525]LogMaterial: Display: Missing cached shader map for material Material_7, compiling. 
+[2020.03.03-18.09.11:921][629]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 170
+[2020.03.03-18.09.12:340][664]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 160
+[2020.03.03-18.09.12:808][710]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 150
+[2020.03.03-18.09.14:552][884]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 140
+[2020.03.03-18.09.14:700][897]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 130
+[2020.03.03-18.09.15:218][947]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 120
+[2020.03.03-18.09.15:889][997]LogActorFactory: Actor Factory created SM_Prop_Fence_Stick_01
+[2020.03.03-18.09.17:066][ 94]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 110
+[2020.03.03-18.09.17:160][102]LogActorFactory: Actor Factory created SM_Prop_Fence_Stick_01
+[2020.03.03-18.09.17:318][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 100
+[2020.03.03-18.09.17:631][143]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 90
+[2020.03.03-18.09.19:974][378]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 80
+[2020.03.03-18.09.20:053][386]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 70
+[2020.03.03-18.09.20:982][474]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 60
+[2020.03.03-18.09.21:280][499]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 50
+[2020.03.03-18.09.22:832][653]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2020.03.03-18.09.23:299][700]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2020.03.03-18.09.25:159][876]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 22
+[2020.03.03-18.09.25:491][909]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.03.03-18.09.26:173][978]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.03.03-18.09.26:395][  1]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.03.03-18.09.26:714][ 33]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.03.03-18.09.27:830][142]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.03.03-18.09.27:851][144]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.03.03-18.09.27:931][151]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.03.03-18.09.28:320][193]LogEditorViewport: Clicking Background
+[2020.03.03-18.09.37:513][281]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-18.09.38:089][347]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-18.09.48:309][562]LogEditorViewport: Clicking Background
+[2020.03.03-18.09.51:582][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Fence_Stick_2)
+[2020.03.03-18.09.55:749][450]LogEditorViewport: Clicking Background
+[2020.03.03-18.10.03:615][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Fence_Stick_2)
+[2020.03.03-18.10.04:691][519]Cmd: DELETE
+[2020.03.03-18.10.04:692][519]Cmd: ACTOR DELETE
+[2020.03.03-18.10.04:695][519]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-18.10.04:717][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.03.03-18.10.04:720][519]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.03.03-18.10.05:853][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Fence_Stick_01)
+[2020.03.03-18.10.05:986][668]Cmd: DELETE
+[2020.03.03-18.10.05:986][668]Cmd: ACTOR DELETE
+[2020.03.03-18.10.05:990][668]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-18.10.06:012][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.03-18.10.06:012][668]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.03.03-18.10.08:627][959]LogActorFactory: Actor Factory created SM_Bld_Fence_02
+[2020.03.03-18.10.10:605][195]LogActorFactory: Actor Factory created SM_Bld_Fence_02
+[2020.03.03-18.10.37:369][379]Cmd: DELETE
+[2020.03.03-18.10.37:369][379]Cmd: ACTOR DELETE
+[2020.03.03-18.10.37:372][379]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-18.10.37:394][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.03.03-18.10.37:396][379]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.03.03-18.10.38:229][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Fence_02)
+[2020.03.03-18.10.53:639][239]Cmd: DELETE
+[2020.03.03-18.10.53:640][239]Cmd: ACTOR DELETE
+[2020.03.03-18.10.53:643][239]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-18.10.53:665][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.03.03-18.10.53:667][239]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.03.03-18.10.57:202][651]LogActorFactory: Actor Factory created SM_Bld_FencePost_01
+[2020.03.03-18.10.57:921][736]LogActorFactory: Actor Factory created SM_Bld_FencePost_01
+[2020.03.03-18.11.11:089][309]LogEditorViewport: Clicking Background
+[2020.03.03-18.11.17:237][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_FencePost_01)
+[2020.03.03-18.11.18:476][192]LogEditorViewport: Clicking Background
+[2020.03.03-18.11.39:213][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Fence_02)
+[2020.03.03-18.11.56:794][166]LogEditorViewport: Clicking Background
+[2020.03.03-18.12.42:150][581]LogActorFactory: Actor Factory created SM_Prop_WaterTrough_01
+[2020.03.03-18.12.42:863][665]LogActorFactory: Actor Factory created SM_Prop_WaterTrough_01
+[2020.03.03-18.13.13:256][291]Cmd: DELETE
+[2020.03.03-18.13.13:256][291]Cmd: ACTOR DELETE
+[2020.03.03-18.13.13:259][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-18.13.13:282][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.03.03-18.13.13:285][291]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.03.03-18.13.14:840][473]LogActorFactory: Actor Factory created SM_Prop_WaterTrough_Water_01
+[2020.03.03-18.13.16:436][663]LogActorFactory: Actor Factory created SM_Prop_WaterTrough_Water_01
+[2020.03.03-18.13.36:981][121]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_WaterTrough_7)
+[2020.03.03-18.13.45:581][145]LogEditorViewport: Clicking Background
+[2020.03.03-18.14.31:747][645]LogActorFactory: Actor Factory created SM_Bld_Cover_01
+[2020.03.03-18.14.32:595][745]LogActorFactory: Actor Factory created SM_Bld_Cover_01
+[2020.03.03-18.14.34:223][937]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-18.15.02:054][266]Cmd: DELETE
+[2020.03.03-18.15.02:054][266]Cmd: ACTOR DELETE
+[2020.03.03-18.15.02:057][266]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-18.15.02:082][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.03.03-18.15.02:084][266]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.03.03-18.16.59:747][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.03.03-18.16.59:749][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.03.03-18.17.03:000][359]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_Auto2E4B6B0324C57A6322B334AB42CD52EAD.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto2.umap'
+[2020.03.03-18.17.03:003][359]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Town_1' took 3.277
+[2020.03.03-18.17.03:003][359]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.277
+[2020.03.03-18.17.48:839][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Rock_Alt_02)
+[2020.03.03-18.18.32:936][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Large_5)
+[2020.03.03-18.18.38:996][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Double_Roof_02)
+[2020.03.03-18.18.40:559][300]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Bld_Double_Roof_02)
+[2020.03.03-18.18.43:409][610]Cmd: PIVOT SNAPPED
+[2020.03.03-18.18.53:844][859]LogEditorViewport: Clicking Background
+[2020.03.03-18.19.13:683][167]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.03-18.19.14:008][201]Cmd: DELETE
+[2020.03.03-18.19.14:008][201]Cmd: ACTOR DELETE
+[2020.03.03-18.19.14:013][201]LogEditorActor: Deleted Actor: Brush
+[2020.03.03-18.19.14:036][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.03.03-18.19.14:039][201]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.03.03-18.19.18:113][683]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.03-18.19.29:396][908]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-18.19.42:341][343]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-18.19.55:443][814]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-18.19.59:874][337]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.03-18.20.16:889][204]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/13462/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_7DC9BEA246308E15B91EEFBD9949079D__1_0_0_0_3_13315_0.udd.
+[2020.03.03-18.20.22:046][755]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/13462/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/0/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_BF87F9E349B81FCEC6ADC98C0EDE1C54__1_0_0_0_3_13315_0.udd.
+[2020.03.03-18.20.31:728][812]LogEditorViewport: Clicking Background
+[2020.03.03-18.20.45:208][368]Cmd: DELETE
+[2020.03.03-18.20.45:208][368]Cmd: ACTOR DELETE
+[2020.03.03-18.20.45:224][368]LogEditorActor: Deleted Actor: Brush
+[2020.03.03-18.20.45:258][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.03.03-18.20.45:262][368]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2020.03.03-18.20.57:619][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Straight_4)
+[2020.03.03-18.21.00:861][219]Cmd: DELETE
+[2020.03.03-18.21.00:861][219]Cmd: ACTOR DELETE
+[2020.03.03-18.21.00:877][219]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-18.21.00:898][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.03.03-18.21.00:899][219]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.03.03-18.21.01:509][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Straight_3)
+[2020.03.03-18.21.03:066][476]Cmd: DELETE
+[2020.03.03-18.21.03:066][476]Cmd: ACTOR DELETE
+[2020.03.03-18.21.03:082][476]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-18.21.03:103][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.03-18.21.03:104][476]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.03.03-18.21.04:337][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Straight_5)
+[2020.03.03-18.21.07:270][967]Cmd: TRANSACTION UNDO
+[2020.03.03-18.21.07:270][967]LogEditorTransaction: Undo Move Actors
+[2020.03.03-18.21.07:902][995]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Cliff_Straight_02)
+[2020.03.03-18.21.23:451][803]LogActorFactory: Actor Factory created SM_Env_Cliff_Curve_02
+[2020.03.03-18.21.26:398][153]LogActorFactory: Actor Factory created SM_Env_Cliff_Curve_02
+[2020.03.03-18.21.28:474][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Straight_02)
+[2020.03.03-18.21.32:500][867]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Curve_02)
+[2020.03.03-18.21.50:282][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Straight_02)
+[2020.03.03-18.21.53:285][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Curve_02)
+[2020.03.03-18.21.56:686][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Straight_02)
+[2020.03.03-18.21.59:891][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Curve_02)
+[2020.03.03-18.22.05:274][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Curve_02)
+[2020.03.03-18.22.08:227][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Straight_02)
+[2020.03.03-18.22.10:871][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Curve_02)
+[2020.03.03-18.22.23:770][776]LogEditorViewport: Clicking Background
+[2020.03.03-18.22.25:643][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Curve_02)
+[2020.03.03-18.22.29:147][416]LogEditorViewport: Clicking Background
+[2020.03.03-18.22.32:130][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Curve_02)
+[2020.03.03-18.22.32:898][862]Cmd: DELETE
+[2020.03.03-18.22.32:898][862]Cmd: ACTOR DELETE
+[2020.03.03-18.22.32:915][862]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-18.22.32:936][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.03.03-18.22.32:937][862]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.03.03-18.22.36:746][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Straight_02)
+[2020.03.03-18.22.52:403][170]LogEditorViewport: Clicking Background
+[2020.03.03-18.22.55:865][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Straight_3)
+[2020.03.03-18.22.56:691][677]Cmd: DELETE
+[2020.03.03-18.22.56:691][677]Cmd: ACTOR DELETE
+[2020.03.03-18.22.56:707][677]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-18.22.56:728][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.03.03-18.22.56:729][677]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.03.03-18.23.12:668][571]LogEditorViewport: Clicking Background
+[2020.03.03-18.23.43:935][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Straight_02)
+[2020.03.03-18.23.44:853][420]Cmd: DELETE
+[2020.03.03-18.23.44:853][420]Cmd: ACTOR DELETE
+[2020.03.03-18.23.44:869][420]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-18.23.44:890][420]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.03.03-18.23.44:891][420]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.03.03-18.23.45:390][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Straight_5)
+[2020.03.03-18.23.45:665][510]Cmd: DELETE
+[2020.03.03-18.23.45:665][510]Cmd: ACTOR DELETE
+[2020.03.03-18.23.45:682][510]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.03-18.23.45:704][510]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.03.03-18.23.45:705][510]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.03.03-18.23.48:041][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.03.03-18.23.49:707][774]LogSlate: Window 'Save Content' being destroyed
+[2020.03.03-18.23.51:327][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.03.03-18.23.51:358][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.03-18.23.51:380][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.03.03-18.23.54:599][952]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1F0E271DC48C4EF8FB41285822C8F8EC6.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.03-18.23.54:619][952]LogFileHelpers: Saving map 'Town_1' took 3.262
+[2020.03.03-18.23.54:640][952]AssetCheck: New page: Asset Save: Town_1
+[2020.03.03-18.23.54:640][952]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
