@@ -1413,3 +1413,69 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.05-18.24.23:767][894]LogFileHelpers: Saving map 'Town_1' took 2.099
 [2020.03.05-18.24.23:786][894]AssetCheck: New page: Asset Save: Town_1
 [2020.03.05-18.24.23:786][894]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.05-18.28.29:854][198]LogActorFactory: Actor Factory created SM_Prop_MessageBoard
+[2020.03.05-18.28.30:691][248]LogActorFactory: Actor Factory created SM_Prop_MessageBoard
+[2020.03.05-18.28.36:562][599]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-18.28.47:432][251]Cmd: DELETE
+[2020.03.05-18.28.47:432][251]Cmd: ACTOR DELETE
+[2020.03.05-18.28.47:437][251]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.05-18.28.47:459][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.03.05-18.28.47:460][251]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.03.05-18.29.09:689][546]LogActorFactory: Actor Factory created SM_Prop_Lantern_02
+[2020.03.05-18.29.10:694][606]LogActorFactory: Actor Factory created SM_Prop_Lantern_02
+[2020.03.05-18.29.12:073][685]LogActorFactory: Actor Factory created SM_Prop_Lantern_02_Glass
+[2020.03.05-18.29.13:680][781]LogActorFactory: Actor Factory created SM_Prop_Lantern_02_Glass
+[2020.03.05-18.29.21:180][230]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-18.29.49:619][936]LogEditorViewport: Clicking Background
+[2020.03.05-18.30.19:696][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_01)
+[2020.03.05-18.30.21:336][793]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-18.30.23:920][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Double_Front_02)
+[2020.03.05-18.30.24:276][968]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-18.30.27:942][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_01)
+[2020.03.05-18.30.28:316][209]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-18.30.28:899][244]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-18.30.29:265][266]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-18.30.30:866][362]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-18.30.32:849][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_WaterTrough_Water_4)
+[2020.03.05-18.30.33:154][498]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-18.30.38:071][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Bed_01)
+[2020.03.05-18.30.38:291][805]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-18.30.53:630][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Table_Small_01)
+[2020.03.05-18.30.54:603][780]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Lantern_01_Glass)
+[2020.03.05-18.30.57:908][977]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Lantern_01)
+[2020.03.05-18.31.08:832][630]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-18.31.26:068][664]LogEditorViewport: Clicking Background
+[2020.03.05-18.31.29:169][850]Cmd: TRANSACTION UNDO
+[2020.03.05-18.31.29:169][850]LogEditorTransaction: Undo Clicking Background
+[2020.03.05-18.31.43:758][708]LogEditorViewport: Clicking Background
+[2020.03.05-18.31.51:809][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Lantern_01_Glass)
+[2020.03.05-18.31.53:831][311]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Lantern_01)
+[2020.03.05-18.31.54:515][351]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Table_Small_01)
+[2020.03.05-18.31.59:337][639]Cmd: TRANSACTION UNDO
+[2020.03.05-18.31.59:337][639]LogEditorTransaction: Undo Rotate Actors
+[2020.03.05-18.32.00:149][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Table_Small_01)
+[2020.03.05-18.32.13:225][454]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Lantern_01_Glass)
+[2020.03.05-18.32.13:902][493]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Lantern_01)
+[2020.03.05-18.32.19:822][845]Cmd: TRANSACTION UNDO
+[2020.03.05-18.32.19:822][845]LogEditorTransaction: Undo Move Actors
+[2020.03.05-18.32.25:188][149]Cmd: TRANSACTION UNDO
+[2020.03.05-18.32.25:188][149]LogEditorTransaction: Undo Move Actors
+[2020.03.05-18.32.33:910][654]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-18.32.37:612][876]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-18.32.57:934][ 95]LogEditorViewport: Clicking Background
+[2020.03.05-18.33.13:139][999]LogActorFactory: Actor Factory created SM_Prop_Dresser_01
+[2020.03.05-18.33.13:929][ 46]LogActorFactory: Actor Factory created SM_Prop_Dresser_01
+[2020.03.05-18.34.21:817][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.03.05-18.34.21:819][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.03.05-18.34.23:923][ 99]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_Auto5A3CE59E34C13A98368897BB7E6A11E09.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto5.umap'
+[2020.03.05-18.34.23:924][ 99]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_Auto5A3CE59E34C13A98368897BB7E6A11E09.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto5.umap', retrying in .5s...
+[2020.03.05-18.34.24:426][ 99]LogFileManager: Warning: MoveFile recovered during retry!
+[2020.03.05-18.34.24:428][ 99]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Town_1' took 2.633
+[2020.03.05-18.34.24:428][ 99]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.633
+[2020.03.05-18.35.53:671][445]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.03.05-18.35.53:700][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.05-18.35.53:724][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.03.05-18.35.55:817][445]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1B4EA74CE4C6F60F77CD88895F4132227.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.05-18.35.55:836][445]LogFileHelpers: Saving map 'Town_1' took 2.135
+[2020.03.05-18.35.55:853][445]AssetCheck: New page: Asset Save: Town_1
+[2020.03.05-18.35.55:853][445]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
