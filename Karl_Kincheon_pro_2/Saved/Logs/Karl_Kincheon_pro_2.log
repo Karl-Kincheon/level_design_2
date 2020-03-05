@@ -1499,3 +1499,110 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.05-18.43.03:583][385]LogFileHelpers: Saving map 'Town_1' took 2.194
 [2020.03.05-18.43.03:606][385]AssetCheck: New page: Asset Save: Town_1
 [2020.03.05-18.43.03:606][385]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.05-18.44.29:997][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_TrainStation_01)
+[2020.03.05-18.44.31:143][248]Cmd: DELETE
+[2020.03.05-18.44.31:143][248]Cmd: ACTOR DELETE
+[2020.03.05-18.44.31:147][248]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.05-18.44.31:168][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.03.05-18.44.31:169][248]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.03.05-18.44.32:373][321]Cmd: TRANSACTION UNDO
+[2020.03.05-18.44.32:373][321]LogEditorTransaction: Undo Delete Actors
+[2020.03.05-18.44.33:390][365]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-18.47.04:517][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Jail_01)
+[2020.03.05-18.47.05:544][492]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-18.47.22:853][522]LogActorFactory: Actor Factory created SM_Prop_Desk_01
+[2020.03.05-18.47.27:809][819]LogActorFactory: Actor Factory created SM_Prop_Desk_01
+[2020.03.05-18.47.37:532][393]LogActorFactory: Actor Factory created SM_Prop_Chair_01
+[2020.03.05-18.47.38:357][442]LogActorFactory: Actor Factory created SM_Prop_Chair_01
+[2020.03.05-18.47.54:143][384]LogActorFactory: Actor Factory created SM_Prop_MessageBoard
+[2020.03.05-18.47.54:969][433]LogActorFactory: Actor Factory created SM_Prop_MessageBoard
+[2020.03.05-18.48.11:047][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_MessageBoard2)
+[2020.03.05-18.48.29:637][511]LogEditorViewport: Clicking Background
+[2020.03.05-18.48.34:587][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_Facade_04)
+[2020.03.05-18.48.35:326][851]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-18.48.49:026][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Jail_01)
+[2020.03.05-18.48.49:601][706]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-18.51.29:407][294]LogEditorViewport: Clicking Background
+[2020.03.05-18.51.34:775][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Cliff_Curve_02)
+[2020.03.05-18.51.35:701][670]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-18.51.47:951][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Butte_2)
+[2020.03.05-18.51.50:023][528]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-18.52.08:144][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Butte_01)
+[2020.03.05-18.52.13:583][937]Cmd: TRANSACTION UNDO
+[2020.03.05-18.52.13:583][937]LogEditorTransaction: Undo Move Actors
+[2020.03.05-18.52.32:926][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Butte_6)
+[2020.03.05-18.52.43:953][737]LogEditorViewport: Clicking Background
+[2020.03.05-18.52.46:039][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Butte_2)
+[2020.03.05-18.52.48:174][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Butte_6)
+[2020.03.05-18.52.49:358][ 59]LogEditorViewport: Clicking Background
+[2020.03.05-18.52.51:794][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Road_Straight_01)
+[2020.03.05-18.53.11:365][374]Cmd: TRANSACTION UNDO
+[2020.03.05-18.53.11:365][374]LogEditorTransaction: Undo Scale Actors
+[2020.03.05-18.53.11:712][384]Cmd: TRANSACTION UNDO
+[2020.03.05-18.53.11:713][384]LogEditorTransaction: Undo Move Actors
+[2020.03.05-18.53.12:129][404]Cmd: TRANSACTION UNDO
+[2020.03.05-18.53.12:129][404]LogEditorTransaction: Undo Scale Actors
+[2020.03.05-18.53.12:565][430]Cmd: TRANSACTION UNDO
+[2020.03.05-18.53.12:566][430]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.05-18.53.14:116][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Road_Straight_01)
+[2020.03.05-18.53.19:443][839]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-18.53.33:597][687]LogEditorViewport: Clicking Background
+[2020.03.05-18.54.24:674][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.03.05-18.54.24:676][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.03.05-18.54.26:888][730]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_Auto6F9668F69450F9EB0BAC181A21AD29C48.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto6.umap'
+[2020.03.05-18.54.26:890][730]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Town_1' took 2.237
+[2020.03.05-18.54.26:890][730]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.237
+[2020.03.05-18.54.46:827][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Butte_6)
+[2020.03.05-18.54.57:168][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Road_Straight_01)
+[2020.03.05-18.54.57:984][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Straight_38)
+[2020.03.05-18.55.22:495][ 56]Cmd: TRANSACTION UNDO
+[2020.03.05-18.55.22:495][ 56]LogEditorTransaction: Undo Move Actors
+[2020.03.05-18.55.22:985][ 70]Cmd: TRANSACTION UNDO
+[2020.03.05-18.55.22:985][ 70]LogEditorTransaction: Undo Move Actors
+[2020.03.05-18.55.25:228][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Road_Straight_01)
+[2020.03.05-18.55.26:502][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Straight_38)
+[2020.03.05-18.55.28:994][424]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Train_Track_Straight_36)
+[2020.03.05-18.55.30:176][494]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Train_Track_Straight_37)
+[2020.03.05-18.55.32:193][614]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Road_Straight_01)
+[2020.03.05-18.55.33:163][671]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Train_Track_Straight_27)
+[2020.03.05-18.55.35:281][796]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Road_Straight_01)
+[2020.03.05-18.55.37:937][953]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Train_Track_Straight_35)
+[2020.03.05-18.55.39:937][ 72]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Train_Track_Straight_25)
+[2020.03.05-18.55.41:719][178]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Train_Track_Straight_26)
+[2020.03.05-18.55.43:951][311]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Train_Track_Straight_19)
+[2020.03.05-18.55.45:849][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Straight_20)
+[2020.03.05-18.55.48:181][563]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Train_Track_Straight_15)
+[2020.03.05-18.55.53:949][908]Cmd: TRANSACTION UNDO
+[2020.03.05-18.55.53:949][908]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.05-18.55.54:507][924]Cmd: TRANSACTION UNDO
+[2020.03.05-18.55.54:507][924]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.05-18.55.57:326][ 92]Cmd: TRANSACTION UNDO
+[2020.03.05-18.55.57:326][ 92]LogEditorTransaction: Undo Rotate Actors
+[2020.03.05-18.55.58:459][160]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Train_Track_Straight_20)
+[2020.03.05-18.56.00:257][267]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Train_Track_Straight_15)
+[2020.03.05-18.56.18:415][350]LogEditorViewport: Clicking Background
+[2020.03.05-18.56.24:062][664]LogEditorViewport: Clicking Background
+[2020.03.05-18.56.33:196][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Butte_01)
+[2020.03.05-18.57.30:923][672]LogEditorViewport: Clicking Background
+[2020.03.05-18.57.31:673][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Butte_01)
+[2020.03.05-18.57.34:894][909]LogEditorViewport: Clicking Background
+[2020.03.05-19.00.08:006][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Jail_01)
+[2020.03.05-19.00.08:902][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_Roof_11)
+[2020.03.05-19.00.09:210][281]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-19.00.16:427][714]LogEditorViewport: Clicking Background
+[2020.03.05-19.00.27:730][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Butte_2)
+[2020.03.05-19.00.35:336][845]LogEditorViewport: Clicking Background
+[2020.03.05-19.00.41:190][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Butte_2)
+[2020.03.05-19.00.54:637][999]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-19.00.56:053][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Church_01)
+[2020.03.05-19.00.56:379][102]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-19.01.00:529][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Butte_2)
+[2020.03.05-19.01.03:936][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Butte_01)
+[2020.03.05-19.01.07:070][741]LogEditorViewport: Clicking Background
+[2020.03.05-19.01.29:716][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.03.05-19.01.29:746][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.05-19.01.29:768][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.05-19.01.32:085][ 97]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1C3B529A44D54125A6F87D1BFE9B6FD76.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.05-19.01.32:103][ 97]LogFileHelpers: Saving map 'Town_1' took 2.357
+[2020.03.05-19.01.32:128][ 97]AssetCheck: New page: Asset Save: Town_1
+[2020.03.05-19.01.32:128][ 97]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
