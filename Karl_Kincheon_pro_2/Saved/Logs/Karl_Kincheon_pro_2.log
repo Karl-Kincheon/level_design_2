@@ -1066,3 +1066,180 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.05-17.27.43:672][777]LogFileHelpers: Saving map 'Town_1' took 2.016
 [2020.03.05-17.27.43:690][777]AssetCheck: New page: Asset Save: Town_1
 [2020.03.05-17.27.43:690][777]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.05-17.29.06:100][127]LogEditorViewport: Clicking Background
+[2020.03.05-17.29.12:511][510]LogActorFactory: Actor Factory created SM_Prop_Curtain_01
+[2020.03.05-17.29.14:497][629]LogActorFactory: Actor Factory created SM_Prop_Curtain_01
+[2020.03.05-17.29.55:698][ 98]Cmd: DELETE
+[2020.03.05-17.29.55:698][ 98]Cmd: ACTOR DELETE
+[2020.03.05-17.29.55:702][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.05-17.29.55:724][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.03.05-17.29.55:725][ 98]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.03.05-17.29.58:814][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Curtain_01)
+[2020.03.05-17.30.00:217][367]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Prop_Curtain_01)
+[2020.03.05-17.30.06:976][760]Cmd: ACTOR BAKEPREPIVOT
+[2020.03.05-17.30.07:823][809]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Prop_Curtain_01)
+[2020.03.05-17.30.11:060][998]Cmd: PIVOT CENTERSELECTION
+[2020.03.05-17.30.33:493][340]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Curtain_01)
+[2020.03.05-17.31.09:513][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Curtain_4)
+[2020.03.05-17.31.21:269][201]Cmd: TRANSACTION UNDO
+[2020.03.05-17.31.21:269][201]LogEditorTransaction: Undo Move Actors
+[2020.03.05-17.31.22:131][236]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Curtain_3)
+[2020.03.05-17.31.23:139][295]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Curtain_2)
+[2020.03.05-17.31.23:739][330]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Curtain_01)
+[2020.03.05-17.31.31:174][774]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Curtain_4)
+[2020.03.05-17.31.31:791][810]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Curtain_3)
+[2020.03.05-17.31.32:308][840]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Curtain_2)
+[2020.03.05-17.31.32:842][871]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Curtain_01)
+[2020.03.05-17.31.48:917][833]Cmd: TRANSACTION UNDO
+[2020.03.05-17.31.48:917][833]LogEditorTransaction: Undo Move Actors
+[2020.03.05-17.31.55:529][212]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Curtain_9)
+[2020.03.05-17.32.44:861][170]LogEditorViewport: Clicking Background
+[2020.03.05-17.32.53:978][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Curtain_15)
+[2020.03.05-17.34.26:228][243]LogEditorViewport: Clicking Background
+[2020.03.05-17.34.45:637][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Jail_01)
+[2020.03.05-17.34.46:330][447]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-17.35.14:189][ 91]LogActorFactory: Actor Factory created SM_Prop_JailBed_01
+[2020.03.05-17.35.15:712][182]LogActorFactory: Actor Factory created SM_Prop_JailBed_01
+[2020.03.05-17.35.16:557][232]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-17.35.48:558][134]LogEditorViewport: Clicking Background
+[2020.03.05-17.36.45:203][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Sign_11)
+[2020.03.05-17.36.46:177][571]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_Front_2)
+[2020.03.05-17.36.47:681][660]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_Facade_03)
+[2020.03.05-17.36.48:367][700]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Door_FrontDoor_5)
+[2020.03.05-17.36.50:738][841]Cmd: TRANSACTION UNDO
+[2020.03.05-17.36.50:738][841]LogEditorTransaction: Undo Move Actors
+[2020.03.05-17.36.53:336][981]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_Roof_2)
+[2020.03.05-17.36.54:704][ 62]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_161)
+[2020.03.05-17.37.04:793][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Door_FrontDoor_8)
+[2020.03.05-17.37.05:564][711]Cmd: DELETE
+[2020.03.05-17.37.05:565][711]Cmd: ACTOR DELETE
+[2020.03.05-17.37.05:569][711]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.05-17.37.05:592][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.03.05-17.37.05:593][711]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.03.05-17.37.12:705][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_Roof_9)
+[2020.03.05-17.37.15:178][285]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_Facade_8)
+[2020.03.05-17.37.16:198][345]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_168)
+[2020.03.05-17.37.19:318][531]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_Front_9)
+[2020.03.05-17.37.20:008][571]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Door_FrontDoor_12)
+[2020.03.05-17.37.33:433][375]Cmd: TRANSACTION UNDO
+[2020.03.05-17.37.33:433][375]LogEditorTransaction: Undo Move Actors
+[2020.03.05-17.37.33:820][386]Cmd: TRANSACTION UNDO
+[2020.03.05-17.37.33:820][386]LogEditorTransaction: Undo Move Actors
+[2020.03.05-17.37.36:120][519]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Sign_19)
+[2020.03.05-17.38.00:961][  8]LogEditorViewport: Clicking Background
+[2020.03.05-17.39.02:908][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.03.05-17.39.02:910][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.03.05-17.39.04:892][909]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_Auto28D72EF2242C39C340D1B60A8DFF4351D.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto2.umap'
+[2020.03.05-17.39.04:892][909]LogFileManager: Warning: MoveFile was unable to move 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_Auto28D72EF2242C39C340D1B60A8DFF4351D.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto2.umap', retrying in .5s...
+[2020.03.05-17.39.05:395][909]LogFileManager: Warning: MoveFile recovered during retry!
+[2020.03.05-17.39.05:397][909]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Town_1' took 2.509
+[2020.03.05-17.39.05:397][909]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.509
+[2020.03.05-17.44.05:457][264]LogActorFactory: Actor Factory created SM_Bld_Door_Jail_01
+[2020.03.05-17.44.06:244][311]LogActorFactory: Actor Factory created SM_Bld_Door_Jail_01
+[2020.03.05-17.44.57:840][403]LogEditorViewport: Clicking Background
+[2020.03.05-17.45.52:088][470]LogActorFactory: Actor Factory created SM_Bld_DeckSteps_01
+[2020.03.05-17.45.53:874][577]LogActorFactory: Actor Factory created SM_Bld_DeckSteps_01
+[2020.03.05-17.46.15:794][891]Cmd: DELETE
+[2020.03.05-17.46.15:794][891]Cmd: ACTOR DELETE
+[2020.03.05-17.46.15:799][891]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.05-17.46.15:822][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.03.05-17.46.15:823][891]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.03.05-17.46.27:110][558]LogActorFactory: Actor Factory created SM_Bld_Single_Deck_04
+[2020.03.05-17.46.28:346][632]LogActorFactory: Actor Factory created SM_Bld_Single_Deck_04
+[2020.03.05-17.46.53:335][119]LogActorFactory: Actor Factory created SM_Bld_DeckSteps_01
+[2020.03.05-17.46.55:009][219]LogActorFactory: Actor Factory created SM_Bld_DeckSteps_01
+[2020.03.05-17.47.00:778][562]LogEditorViewport: Clicking Background
+[2020.03.05-17.47.03:177][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_DeckSteps_7)
+[2020.03.05-17.47.08:063][998]LogEditorViewport: Clicking Background
+[2020.03.05-17.47.13:496][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_Deck_04)
+[2020.03.05-17.47.16:186][484]Cmd: TRANSACTION UNDO
+[2020.03.05-17.47.16:187][484]LogEditorTransaction: Undo Scale Actors
+[2020.03.05-17.47.26:925][112]LogEditorViewport: Clicking Background
+[2020.03.05-17.47.31:487][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Jail_01)
+[2020.03.05-17.47.32:470][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Jail_01)
+[2020.03.05-17.47.36:955][690]Cmd: TRANSACTION UNDO
+[2020.03.05-17.47.36:955][690]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.05-17.47.37:331][701]Cmd: TRANSACTION UNDO
+[2020.03.05-17.47.37:331][701]LogEditorTransaction: Undo Clicking Background
+[2020.03.05-17.47.37:716][719]Cmd: TRANSACTION UNDO
+[2020.03.05-17.47.37:716][719]LogEditorTransaction: Undo Scale Actors
+[2020.03.05-17.47.38:435][762]Cmd: TRANSACTION UNDO
+[2020.03.05-17.47.38:435][762]LogEditorTransaction: Undo Move Actors
+[2020.03.05-17.47.38:751][781]Cmd: TRANSACTION UNDO
+[2020.03.05-17.47.38:751][781]LogEditorTransaction: Undo Scale Actors
+[2020.03.05-17.47.39:767][842]Cmd: DELETE
+[2020.03.05-17.47.39:768][842]Cmd: ACTOR DELETE
+[2020.03.05-17.47.39:772][842]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.05-17.47.39:793][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.03.05-17.47.39:793][842]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.03.05-17.47.41:120][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_DeckSteps_7)
+[2020.03.05-17.47.44:339][114]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-17.47.50:772][500]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-17.48.27:699][364]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.03.05-17.48.27:707][364]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Town_1.Town_1:PersistentLevel' has LevelScriptBlueprint '/Game/Town_1.Town_1:PersistentLevel.Town_1' with GeneratedClass '/Game/Town_1.Town_1_C' with ClassGeneratedBy '/Game/Town_1.Town_1:PersistentLevel.Town_1'
+[2020.03.05-17.48.27:707][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-17.48.27:707][364]PIE: New page: PIE session: Town_1 (Mar 5, 2020, 5:48:27 AM)
+[2020.03.05-17.48.27:707][364]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Town_1
+[2020.03.05-17.48.27:723][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015480s)
+[2020.03.05-17.48.27:724][364]LogAIModule: Creating AISystem for world Town_1
+[2020.03.05-17.48.27:724][364]LogPlayLevel: PIE: World Init took: (0.000912s)
+[2020.03.05-17.48.27:724][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Town_1.Town_1 to /Game/UEDPIE_0_Town_1.Town_1 (0.016534s)
+[2020.03.05-17.48.27:745][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.03.05-17.48.27:747][364]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.05-17.48.27:747][364]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.05-17.48.27:747][364]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.05-17.48.27:747][364]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.05-17.48.27:747][364]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.05-17.48.27:747][364]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.05-17.48.27:747][364]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.05-17.48.27:747][364]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.05-17.48.27:747][364]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.05-17.48.27:747][364]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.05-17.48.27:751][364]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.05-17.48.27:751][364]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.03.05-17.48.27:751][364]LogAudioMixer: Display: Is Default: Yes
+[2020.03.05-17.48.27:751][364]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.05-17.48.27:751][364]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.05-17.48.27:751][364]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.05-17.48.27:751][364]LogAudioMixer: Display: Channel Order:
+[2020.03.05-17.48.27:751][364]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.05-17.48.27:751][364]LogAudioMixer: Display: 1: FrontRight
+[2020.03.05-17.48.27:758][364]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.03.05-17.48.27:759][364]LogInit: FAudioDevice initialized.
+[2020.03.05-17.48.27:833][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-17.48.27:834][364]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.05-17.48.27:844][364]LogWorld: Bringing World /Game/UEDPIE_0_Town_1.Town_1 up for play (max tick rate 60) at 2020.03.05-11.48.27
+[2020.03.05-17.48.27:845][364]LogWorld: Bringing up level for play took: 0.010437
+[2020.03.05-17.48.27:845][364]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.03.05-17.48.27:851][364]PIE: Play in editor start time for /Game/UEDPIE_0_Town_1 0.467
+[2020.03.05-17.48.27:851][364]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Town_1.Town_1:PersistentLevel' has LevelScriptBlueprint '/Game/Town_1.Town_1:PersistentLevel.Town_1' with GeneratedClass '/Game/Town_1.Town_1_C' with ClassGeneratedBy '/Game/Town_1.Town_1:PersistentLevel.Town_1'
+[2020.03.05-17.48.45:003][392]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.05-17.48.45:003][392]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.05-17.48.45:003][392]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Town_1.Town_1:PersistentLevel' has LevelScriptBlueprint '/Game/Town_1.Town_1:PersistentLevel.Town_1' with GeneratedClass '/Game/Town_1.Town_1_C' with ClassGeneratedBy '/Game/Town_1.Town_1:PersistentLevel.Town_1'
+[2020.03.05-17.48.45:003][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-17.48.45:003][392]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Town_1
+[2020.03.05-17.48.45:013][392]LogSlate: Window 'Karl_Kincheon_pro_2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.05-17.48.45:026][392]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.05-17.48.45:027][392]LogWorld: UWorld::CleanupWorld for Town_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.05-17.48.45:029][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.05-17.48.45:039][392]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-17.48.45:039][392]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Town_1.Town_1:PersistentLevel' has LevelScriptBlueprint '/Game/Town_1.Town_1:PersistentLevel.Town_1' with GeneratedClass '/Game/Town_1.Town_1_C' with ClassGeneratedBy '/Game/Town_1.Town_1:PersistentLevel.Town_1'
+[2020.03.05-17.48.45:043][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.05-17.48.45:065][392]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.05-17.48.45:072][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.03.05-17.48.45:118][395]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.03.05-17.48.47:225][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_DeckSteps_7)
+[2020.03.05-17.48.52:228][818]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-17.49.02:361][426]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-17.49.16:629][282]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-17.49.20:763][530]LogEditorViewport: Clicking Background
+[2020.03.05-17.49.40:328][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Bed_02)
+[2020.03.05-17.49.52:288][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Jail_01)
+[2020.03.05-17.49.52:962][457]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-17.50.00:077][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.03.05-17.50.00:103][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.05-17.50.00:125][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.03.05-17.50.02:105][880]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1FD0B1E10480F793A5DFBD2846EDA1D56.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.05-17.50.02:123][880]LogFileHelpers: Saving map 'Town_1' took 2.021
+[2020.03.05-17.50.02:141][880]AssetCheck: New page: Asset Save: Town_1
+[2020.03.05-17.50.02:141][880]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
