@@ -1479,3 +1479,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.05-18.35.55:836][445]LogFileHelpers: Saving map 'Town_1' took 2.135
 [2020.03.05-18.35.55:853][445]AssetCheck: New page: Asset Save: Town_1
 [2020.03.05-18.35.55:853][445]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.05-18.41.25:807][664]LogActorFactory: Actor Factory created SM_Prop_Curtain_02
+[2020.03.05-18.41.26:881][728]LogActorFactory: Actor Factory created SM_Prop_Curtain_02
+[2020.03.05-18.42.17:655][772]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Curtain_02)
+[2020.03.05-18.42.20:929][966]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-18.42.34:246][764]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.05-18.42.42:079][234]Cmd: DELETE
+[2020.03.05-18.42.42:079][234]Cmd: ACTOR DELETE
+[2020.03.05-18.42.42:084][234]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.05-18.42.42:084][234]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.05-18.42.42:104][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.03.05-18.42.42:106][234]LogEditorActor: Deleted 2 Actors (0.026 secs)
+[2020.03.05-18.42.52:811][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_01)
+[2020.03.05-18.42.54:637][985]LogEditorViewport: Clicking Background
+[2020.03.05-18.43.01:359][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.03.05-18.43.01:389][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.05-18.43.01:410][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.03.05-18.43.03:564][385]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_102E696774DBE691B4724C5B8ED8044F1.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.05-18.43.03:583][385]LogFileHelpers: Saving map 'Town_1' took 2.194
+[2020.03.05-18.43.03:606][385]AssetCheck: New page: Asset Save: Town_1
+[2020.03.05-18.43.03:606][385]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
