@@ -1357,3 +1357,39 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.10-18.01.24:498][233]LogFileHelpers: Saving map 'Town_1' took 3.009
 [2020.03.10-18.01.24:531][233]AssetCheck: New page: Asset Save: Town_1
 [2020.03.10-18.01.24:531][233]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.10-18.06.58:275][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Bridge_Top_10)
+[2020.03.10-18.07.00:981][356]Cmd: DELETE
+[2020.03.10-18.07.00:981][356]Cmd: ACTOR DELETE
+[2020.03.10-18.07.00:988][356]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-18.07.01:012][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.03.10-18.07.01:014][356]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.03.10-18.07.01:554][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Bridge_Top_11)
+[2020.03.10-18.07.02:574][449]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Train_Track_Bridge_Top_12)
+[2020.03.10-18.07.05:730][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Bridge_Top_13)
+[2020.03.10-18.07.14:652][171]Cmd: DELETE
+[2020.03.10-18.07.14:652][171]Cmd: ACTOR DELETE
+[2020.03.10-18.07.14:658][171]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-18.07.14:679][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.10-18.07.14:680][171]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.03.10-18.07.15:224][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Bridge_Top_12)
+[2020.03.10-18.07.26:549][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Road_Straight_01)
+[2020.03.10-18.07.30:120][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Bridge_Top_14)
+[2020.03.10-18.07.33:392][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Bridge_Top_12)
+[2020.03.10-18.07.34:442][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Bridge_Top_13)
+[2020.03.10-18.07.36:641][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Bridge_Top_14)
+[2020.03.10-18.07.36:857][492]Cmd: DELETE
+[2020.03.10-18.07.36:857][492]Cmd: ACTOR DELETE
+[2020.03.10-18.07.36:864][492]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-18.07.36:885][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.03.10-18.07.36:886][492]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.03.10-18.07.39:233][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Bridge_Top_11)
+[2020.03.10-18.07.39:901][672]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Train_Track_Bridge_Top_12)
+[2020.03.10-18.07.40:832][727]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Train_Track_Bridge_Top_13)
+[2020.03.10-18.07.48:066][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Road_Straight_01)
+[2020.03.10-18.07.52:571][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.03.10-18.07.52:592][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.10-18.07.52:615][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.03.10-18.07.55:679][427]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_142B1B0494359FC2F3082ECA74318C659.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.10-18.07.55:696][427]LogFileHelpers: Saving map 'Town_1' took 3.104
+[2020.03.10-18.07.55:715][427]AssetCheck: New page: Asset Save: Town_1
+[2020.03.10-18.07.55:715][427]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
