@@ -1208,3 +1208,44 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.10-17.42.48:750][415]LogFileHelpers: Saving map 'Town_1' took 3.000
 [2020.03.10-17.42.48:779][415]AssetCheck: New page: Asset Save: Town_1
 [2020.03.10-17.42.48:779][415]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.10-17.43.31:483][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Double_Roof_02)
+[2020.03.10-17.43.32:207][249]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.10-17.44.16:422][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Single_169)
+[2020.03.10-17.44.23:176][301]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Door_FrontDoor_15)
+[2020.03.10-17.44.24:362][371]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_Front_03)
+[2020.03.10-17.44.26:967][525]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_Front_03)
+[2020.03.10-17.44.28:704][628]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Sign_09)
+[2020.03.10-17.44.29:492][674]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_Facade_9)
+[2020.03.10-17.44.32:830][872]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_169)
+[2020.03.10-17.44.34:144][950]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Single_Roof_10)
+[2020.03.10-17.45.03:200][682]LogEditorViewport: Clicking Background
+[2020.03.10-17.45.27:462][176]LogActorFactory: Actor Factory created SM_Env_Train_Track_Bridge_Top_01
+[2020.03.10-17.45.28:452][235]LogActorFactory: Actor Factory created SM_Env_Train_Track_Bridge_Top_01
+[2020.03.10-17.45.42:963][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Road_Straight_01)
+[2020.03.10-17.45.48:065][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Road_Straight_01)
+[2020.03.10-17.45.48:915][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Bridge_Top_01)
+[2020.03.10-17.46.03:079][305]Cmd: DELETE
+[2020.03.10-17.46.03:079][305]Cmd: ACTOR DELETE
+[2020.03.10-17.46.03:085][305]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-17.46.03:109][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.03.10-17.46.03:111][305]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.03.10-17.46.03:833][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Bridge_Top_01)
+[2020.03.10-17.46.14:853][  8]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.10-17.46.46:695][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Outhouse_2)
+[2020.03.10-17.46.49:266][ 68]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Door_Outhouse_2)
+[2020.03.10-17.47.18:739][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Bridge_Top_2)
+[2020.03.10-17.47.19:412][871]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.10-17.47.21:379][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Bridge_Top_01)
+[2020.03.10-17.47.43:833][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Outhouse_01)
+[2020.03.10-17.47.44:541][669]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.10-17.47.51:466][ 82]LogActorFactory: Actor Factory created SM_Env_Train_Track_Bridge_Top_01
+[2020.03.10-17.47.52:708][156]LogActorFactory: Actor Factory created SM_Env_Train_Track_Bridge_Top_01
+[2020.03.10-17.48.19:686][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Outhouse_01)
+[2020.03.10-17.48.21:527][880]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Door_Outhouse_01)
+[2020.03.10-17.48.33:322][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.03.10-17.48.33:350][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.10-17.48.33:371][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.03.10-17.48.36:392][582]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1109B49D542DA0F8AF9403697C3B25AC4.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.10-17.48.36:410][582]LogFileHelpers: Saving map 'Town_1' took 3.061
+[2020.03.10-17.48.36:436][582]AssetCheck: New page: Asset Save: Town_1
+[2020.03.10-17.48.36:436][582]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
