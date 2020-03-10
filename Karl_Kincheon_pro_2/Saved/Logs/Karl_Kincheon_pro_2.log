@@ -799,3 +799,187 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.10-16.52.58:216][864]Cmd: MAP CHECKDEP NOCLEARLOG
 [2020.03.10-16.52.58:216][864]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.274ms to complete.
 [2020.03.10-16.52.58:216][864]LogFileHelpers: Loading map 'Demonstration' took 0.381
+[2020.03.10-16.53.13:173][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Door_02_Glass2)
+[2020.03.10-16.53.14:620][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Door_02_Glass)
+[2020.03.10-16.53.15:813][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_Glass)
+[2020.03.10-16.53.21:575][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_Glass)
+[2020.03.10-16.53.22:899][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Road_Straight_9)
+[2020.03.10-16.53.24:128][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_Glass)
+[2020.03.10-16.53.32:962][ 32]LogAIModule: Creating AISystem for world Town_1
+[2020.03.10-16.53.32:968][ 32]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Town_1.Town_1
+[2020.03.10-16.53.32:990][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.03.10-16.53.32:992][ 32]Cmd: MAP LOAD FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.10-16.53.32:992][ 32]LightingResults: New page: Lighting Build
+[2020.03.10-16.53.32:992][ 32]LoadErrors: New page: Loading map: Town_1.umap
+[2020.03.10-16.53.32:998][ 32]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-16.53.32:998][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-16.53.32:999][ 32]MapCheck: New page: Map Check
+[2020.03.10-16.53.32:999][ 32]LightingResults: New page: Lighting Build
+[2020.03.10-16.53.33:032][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.03.10-16.53.33:382][ 32]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.10-16.53.33:405][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.03.10-16.53.33:420][ 32]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.10-16.53.33:421][ 32]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.198ms to complete.
+[2020.03.10-16.53.33:421][ 32]LogFileHelpers: Loading map 'Town_1' took 0.429
+[2020.03.10-16.53.42:058][543]LogActorFactory: Actor Factory created SM_Bld_Saloon_Glass
+[2020.03.10-16.53.43:280][616]LogActorFactory: Actor Factory created SM_Bld_Saloon_Glass
+[2020.03.10-16.54.31:059][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_Glass)
+[2020.03.10-16.54.31:713][623]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.10-16.55.04:408][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_Glass)
+[2020.03.10-16.55.05:159][151]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Bld_Saloon_Glass)
+[2020.03.10-16.55.08:047][285]Cmd: PIVOT SNAPPED
+[2020.03.10-16.55.10:677][443]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.10-16.55.36:765][  8]Cmd: DELETE
+[2020.03.10-16.55.36:766][  8]Cmd: ACTOR DELETE
+[2020.03.10-16.55.36:771][  8]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-16.55.36:792][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.03.10-16.55.36:794][  8]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.03.10-16.55.47:766][660]LogActorFactory: Actor Factory created SM_Bld_Door_02_Glass
+[2020.03.10-16.55.50:268][808]LogActorFactory: Actor Factory created SM_Bld_Door_02_Glass
+[2020.03.10-16.56.22:969][767]Cmd: DELETE
+[2020.03.10-16.56.22:969][767]Cmd: ACTOR DELETE
+[2020.03.10-16.56.22:975][767]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-16.56.22:996][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.03.10-16.56.22:998][767]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.03.10-16.56.26:192][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Door_02_Glass3)
+[2020.03.10-16.56.26:912][  1]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.10-16.56.27:795][ 54]Cmd: DELETE
+[2020.03.10-16.56.27:795][ 54]Cmd: ACTOR DELETE
+[2020.03.10-16.56.27:800][ 54]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-16.56.27:823][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.10-16.56.27:823][ 54]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.03.10-16.56.33:401][287]LogActorFactory: Actor Factory created SM_Bld_Saloon_Glass
+[2020.03.10-16.56.35:488][412]LogActorFactory: Actor Factory created SM_Bld_Saloon_Glass
+[2020.03.10-16.57.30:210][691]Cmd: TRANSACTION UNDO
+[2020.03.10-16.57.30:210][691]LogEditorTransaction: Undo Move Actors
+[2020.03.10-16.57.30:728][706]Cmd: TRANSACTION UNDO
+[2020.03.10-16.57.30:728][706]LogEditorTransaction: Undo Scale Actors
+[2020.03.10-16.57.31:265][737]Cmd: TRANSACTION UNDO
+[2020.03.10-16.57.31:265][737]LogEditorTransaction: Undo Move Actors
+[2020.03.10-16.57.31:632][759]Cmd: TRANSACTION UNDO
+[2020.03.10-16.57.31:632][759]LogEditorTransaction: Undo Scale Actors
+[2020.03.10-16.57.31:999][781]Cmd: TRANSACTION UNDO
+[2020.03.10-16.57.31:999][781]LogEditorTransaction: Undo Move Actors
+[2020.03.10-16.58.03:311][657]Cmd: DELETE
+[2020.03.10-16.58.03:311][657]Cmd: ACTOR DELETE
+[2020.03.10-16.58.03:316][657]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-16.58.03:337][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.03.10-16.58.03:338][657]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.03.10-16.58.08:753][980]LogActorFactory: Actor Factory created SM_Bld_Door_02_Glass
+[2020.03.10-16.58.09:193][  6]LogActorFactory: Actor Factory created SM_Bld_Door_02_Glass
+[2020.03.10-16.58.11:065][117]Cmd: DELETE
+[2020.03.10-16.58.11:065][117]Cmd: ACTOR DELETE
+[2020.03.10-16.58.11:070][117]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-16.58.11:094][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.03.10-16.58.11:095][117]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.03.10-16.58.12:619][204]LogActorFactory: Actor Factory created SM_Bld_Church_Glass_01
+[2020.03.10-16.58.14:225][300]LogActorFactory: Actor Factory created SM_Bld_Church_Glass_01
+[2020.03.10-16.58.15:089][351]Cmd: DELETE
+[2020.03.10-16.58.15:089][351]Cmd: ACTOR DELETE
+[2020.03.10-16.58.15:095][351]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-16.58.15:116][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.03.10-16.58.15:117][351]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.03.10-16.58.28:976][139]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.10-16.58.40:021][797]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/13462/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/7/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_1C2F866A407B40B7975E91877D1B9E6D__1_0_0_0_3_13315_0.udd.
+[2020.03.10-16.59.19:319][110]Cmd: DELETE
+[2020.03.10-16.59.19:319][110]Cmd: ACTOR DELETE
+[2020.03.10-16.59.19:331][110]LogEditorActor: Deleted Actor: Brush
+[2020.03.10-16.59.19:358][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.03.10-16.59.19:361][110]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2020.03.10-16.59.24:177][387]LogActorFactory: Actor Factory created SM_Bld_TrainStation_Glass
+[2020.03.10-16.59.25:382][459]LogActorFactory: Actor Factory created SM_Bld_TrainStation_Glass
+[2020.03.10-16.59.27:547][588]Cmd: DELETE
+[2020.03.10-16.59.27:547][588]Cmd: ACTOR DELETE
+[2020.03.10-16.59.27:554][588]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-16.59.27:576][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.03.10-16.59.27:577][588]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.03.10-16.59.29:458][699]LogActorFactory: Actor Factory created SM_Bld_Door_02_Glass
+[2020.03.10-16.59.33:928][963]LogActorFactory: Actor Factory created SM_Bld_Door_02_Glass
+[2020.03.10-16.59.34:716][ 10]LogActorFactory: Actor Factory created SM_Bld_Door_02_Glass
+[2020.03.10-17.00.13:788][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_01)
+[2020.03.10-17.00.21:156][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Door_02_Glass3)
+[2020.03.10-17.03.33:344][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.03.10-17.03.33:346][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.03.10-17.03.35:855][923]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_Auto1AC6A119B43B1FFFBD122CD97767B2D20.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto1.umap'
+[2020.03.10-17.03.35:857][923]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Town_1' took 2.534
+[2020.03.10-17.03.35:857][923]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.534
+[2020.03.10-17.06.21:433][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Butte_02)
+[2020.03.10-17.06.22:308][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Door_02_Glass4)
+[2020.03.10-17.06.24:782][ 77]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Door_02_Glass3)
+[2020.03.10-17.06.34:768][674]LogEditorViewport: Clicking Background
+[2020.03.10-17.06.40:251][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Door_02_Glass3)
+[2020.03.10-17.06.42:889][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Butte_02)
+[2020.03.10-17.06.44:294][243]LogEditorViewport: Clicking Background
+[2020.03.10-17.06.54:813][841]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.10-17.07.00:152][162]LogEditorViewport: Clicking Background
+[2020.03.10-17.07.56:895][196]LogRenderer: Reallocating scene render targets to support 1076x436 Format 9 NumSamples 1 (Frame:29123).
+[2020.03.10-17.07.56:915][197]LogRenderer: Reallocating scene render targets to support 1076x440 Format 9 NumSamples 1 (Frame:29125).
+[2020.03.10-17.07.56:935][198]LogRenderer: Reallocating scene render targets to support 1076x444 Format 9 NumSamples 1 (Frame:29127).
+[2020.03.10-17.07.56:971][200]LogRenderer: Reallocating scene render targets to support 1076x448 Format 9 NumSamples 1 (Frame:29131).
+[2020.03.10-17.08.48:251][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Door_02_Glass3)
+[2020.03.10-17.09.19:730][362]LogActorFactory: Actor Factory created SM_Bld_Door_02
+[2020.03.10-17.09.21:736][482]LogActorFactory: Actor Factory created SM_Bld_Door_02
+[2020.03.10-17.09.36:876][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Door_3)
+[2020.03.10-17.09.41:096][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Door_4)
+[2020.03.10-17.09.50:937][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Door_3)
+[2020.03.10-17.09.56:573][564]LogEditorViewport: Clicking Background
+[2020.03.10-17.09.58:374][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Door_4)
+[2020.03.10-17.10.04:477][ 36]LogEditorViewport: Clicking Background
+[2020.03.10-17.10.59:943][467]LogActorFactory: Actor Factory created SM_Bld_Saloon_Swinging_Doors_01
+[2020.03.10-17.11.01:563][564]LogActorFactory: Actor Factory created SM_Bld_Saloon_Swinging_Doors_01
+[2020.03.10-17.11.12:850][240]Cmd: TRANSACTION UNDO
+[2020.03.10-17.11.12:850][240]LogEditorTransaction: Undo Move Actors
+[2020.03.10-17.11.13:066][246]Cmd: TRANSACTION UNDO
+[2020.03.10-17.11.13:066][246]LogEditorTransaction: Undo Move Actors
+[2020.03.10-17.11.13:302][253]Cmd: TRANSACTION UNDO
+[2020.03.10-17.11.13:302][253]LogEditorTransaction: Undo Move Actors
+[2020.03.10-17.11.13:669][272]Cmd: TRANSACTION UNDO
+[2020.03.10-17.11.13:669][272]LogEditorTransaction: Undo Scale Actors
+[2020.03.10-17.11.14:738][336]Cmd: TRANSACTION UNDO
+[2020.03.10-17.11.14:738][336]LogEditorTransaction: Undo Move Actors
+[2020.03.10-17.11.16:172][422]Cmd: TRANSACTION UNDO
+[2020.03.10-17.11.16:172][422]LogEditorTransaction: Undo Create Actors
+[2020.03.10-17.11.17:803][515]LogActorFactory: Actor Factory created SM_Bld_Saloon_Swinging_Doors_01
+[2020.03.10-17.11.19:141][595]LogActorFactory: Actor Factory created SM_Bld_Saloon_Swinging_Doors_01
+[2020.03.10-17.11.24:600][920]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Bld_Saloon_Swinging_Doors_01)
+[2020.03.10-17.11.26:969][ 54]Cmd: PIVOT SNAPPED
+[2020.03.10-17.11.39:019][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_Swinging_Doors_01)
+[2020.03.10-17.11.49:173][381]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_Saloon_Swinging_Doors_2)
+[2020.03.10-17.11.52:926][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_Swinging_Doors_01)
+[2020.03.10-17.12.00:728][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_01)
+[2020.03.10-17.12.02:797][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_Swinging_Doors_01)
+[2020.03.10-17.13.02:717][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_Swinging_Doors_2)
+[2020.03.10-17.13.04:069][597]Cmd: DELETE
+[2020.03.10-17.13.04:069][597]Cmd: ACTOR DELETE
+[2020.03.10-17.13.04:075][597]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-17.13.04:101][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.03.10-17.13.04:102][597]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.03.10-17.13.04:563][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_Swinging_Doors_01)
+[2020.03.10-17.13.28:377][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_01)
+[2020.03.10-17.13.29:897][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_Swinging_Doors_01)
+[2020.03.10-17.13.32:133][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_01)
+[2020.03.10-17.13.51:267][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_01)
+[2020.03.10-17.13.51:834][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Fur_Roll_4)
+[2020.03.10-17.14.17:059][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_TrainStation_01)
+[2020.03.10-17.14.20:828][516]LogActorFactory: Actor Factory created SM_Bld_Door_FrontDoor_01
+[2020.03.10-17.14.21:803][574]LogActorFactory: Actor Factory created SM_Bld_Door_FrontDoor_01
+[2020.03.10-17.14.34:313][320]Cmd: DELETE
+[2020.03.10-17.14.34:313][320]Cmd: ACTOR DELETE
+[2020.03.10-17.14.34:318][320]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-17.14.34:338][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.03.10-17.14.34:339][320]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.03.10-17.14.35:556][390]LogActorFactory: Actor Factory created SM_Bld_Saloon_RoomDoor_01
+[2020.03.10-17.14.36:727][460]LogActorFactory: Actor Factory created SM_Bld_Saloon_RoomDoor_01
+[2020.03.10-17.14.50:892][309]LogEditorViewport: Clicking Background
+[2020.03.10-17.14.53:059][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_RoomDoor_01)
+[2020.03.10-17.15.00:442][881]LogEditorViewport: Clicking Background
+[2020.03.10-17.15.10:092][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_RoomDoor_01)
+[2020.03.10-17.15.17:557][808]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.10-17.15.27:057][378]LogEditorViewport: Clicking Background
+[2020.03.10-17.15.32:755][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.03.10-17.15.32:783][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.10-17.15.32:808][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.03.10-17.15.35:468][716]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1E584C93447AD15634B8F3998D4AA0D29.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.10-17.15.35:486][716]LogFileHelpers: Saving map 'Town_1' took 2.703
+[2020.03.10-17.15.35:501][716]AssetCheck: New page: Asset Save: Town_1
+[2020.03.10-17.15.35:501][716]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
