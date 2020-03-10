@@ -1393,3 +1393,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.10-18.07.55:696][427]LogFileHelpers: Saving map 'Town_1' took 3.104
 [2020.03.10-18.07.55:715][427]AssetCheck: New page: Asset Save: Town_1
 [2020.03.10-18.07.55:715][427]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.10-18.08.30:709][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Bridge_Top_13)
