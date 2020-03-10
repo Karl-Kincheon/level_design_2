@@ -717,3 +717,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.10-16.40.30:304][412]LogFileHelpers: Saving map 'Town_1' took 2.578
 [2020.03.10-16.40.30:328][412]AssetCheck: New page: Asset Save: Town_1
 [2020.03.10-16.40.30:328][412]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.10-16.43.14:903][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Barrel_02)
+[2020.03.10-16.43.32:871][426]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.10-16.44.31:378][450]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Fur_Roll_03)
+[2020.03.10-16.44.36:091][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Road_Straight_01)
+[2020.03.10-16.44.37:179][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_01)
+[2020.03.10-16.44.47:617][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Vault_Door_01)
+[2020.03.10-16.44.49:456][528]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Vault_01)
+[2020.03.10-16.44.56:506][950]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.10-16.45.17:600][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.03.10-16.45.17:627][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.10-16.45.17:649][209]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.10-16.45.20:362][209]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_14508ED9A41FA1547C27607B0FC57EA3F.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.10-16.45.20:382][209]LogFileHelpers: Saving map 'Town_1' took 2.755
+[2020.03.10-16.45.20:400][209]AssetCheck: New page: Asset Save: Town_1
+[2020.03.10-16.45.20:400][209]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
