@@ -732,3 +732,70 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.10-16.45.20:382][209]LogFileHelpers: Saving map 'Town_1' took 2.755
 [2020.03.10-16.45.20:400][209]AssetCheck: New page: Asset Save: Town_1
 [2020.03.10-16.45.20:400][209]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.10-16.47.07:760][386]LogActorFactory: Actor Factory created SM_Prop_Table_01
+[2020.03.10-16.47.08:401][424]LogActorFactory: Actor Factory created SM_Prop_Table_01
+[2020.03.10-16.47.11:898][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_PokerTable_2)
+[2020.03.10-16.47.12:837][688]Cmd: DELETE
+[2020.03.10-16.47.12:837][688]Cmd: ACTOR DELETE
+[2020.03.10-16.47.12:842][688]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-16.47.12:866][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.03.10-16.47.12:866][688]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.03.10-16.47.14:045][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_01)
+[2020.03.10-16.47.14:587][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Table_01)
+[2020.03.10-16.47.17:913][988]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.10-16.47.34:998][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Chair_8)
+[2020.03.10-16.47.35:936][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Cup_3)
+[2020.03.10-16.47.37:208][143]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Cup_02)
+[2020.03.10-16.47.38:022][191]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Cup_01)
+[2020.03.10-16.47.38:971][247]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Cup_2)
+[2020.03.10-16.47.45:022][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Cup_01)
+[2020.03.10-16.47.45:572][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Chair_6)
+[2020.03.10-16.48.10:410][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Cup_2)
+[2020.03.10-16.48.11:432][ 91]Cmd: DELETE
+[2020.03.10-16.48.11:432][ 91]Cmd: ACTOR DELETE
+[2020.03.10-16.48.11:438][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-16.48.11:458][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.10-16.48.11:459][ 91]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.03.10-16.48.13:486][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Cup_01)
+[2020.03.10-16.48.14:154][252]Cmd: DELETE
+[2020.03.10-16.48.14:154][252]Cmd: ACTOR DELETE
+[2020.03.10-16.48.14:159][252]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.10-16.48.14:181][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.10-16.48.14:181][252]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.03.10-16.48.14:792][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Cup_02)
+[2020.03.10-16.48.18:882][533]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Chair_8)
+[2020.03.10-16.48.34:391][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Chair_7)
+[2020.03.10-16.48.35:557][530]LogRenderer: Reallocating scene render targets to support 1076x412 Format 9 NumSamples 1 (Frame:30529).
+[2020.03.10-16.48.35:609][533]LogRenderer: Reallocating scene render targets to support 1076x416 Format 9 NumSamples 1 (Frame:30535).
+[2020.03.10-16.48.35:641][535]LogRenderer: Reallocating scene render targets to support 1076x420 Format 9 NumSamples 1 (Frame:30539).
+[2020.03.10-16.48.35:661][536]LogRenderer: Reallocating scene render targets to support 1076x424 Format 9 NumSamples 1 (Frame:30541).
+[2020.03.10-16.48.35:697][538]LogRenderer: Reallocating scene render targets to support 1076x428 Format 9 NumSamples 1 (Frame:30545).
+[2020.03.10-16.48.35:749][541]LogRenderer: Reallocating scene render targets to support 1076x432 Format 9 NumSamples 1 (Frame:30551).
+[2020.03.10-16.48.55:659][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Table_01)
+[2020.03.10-16.48.56:483][783]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Chair_8)
+[2020.03.10-16.48.58:106][879]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Chair_7)
+[2020.03.10-16.48.59:106][938]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Chair_6)
+[2020.03.10-16.48.59:943][987]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_Chair_5)
+[2020.03.10-16.52.09:896][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.03.10-16.52.09:921][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.10-16.52.09:945][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.10-16.52.12:639][164]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1B4A261BF429E77EABED1A98CF0ADED94.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.10-16.52.12:657][164]LogFileHelpers: Saving map 'Town_1' took 2.736
+[2020.03.10-16.52.12:679][164]AssetCheck: New page: Asset Save: Town_1
+[2020.03.10-16.52.12:679][164]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.10-16.52.57:784][864]LogAIModule: Creating AISystem for world Demonstration
+[2020.03.10-16.52.57:804][864]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PolygonWestern/Maps/Demonstration.Demonstration
+[2020.03.10-16.52.57:834][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.03.10-16.52.57:835][864]Cmd: MAP LOAD FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/PolygonWestern/Maps/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.10-16.52.57:835][864]LightingResults: New page: Lighting Build
+[2020.03.10-16.52.57:836][864]LoadErrors: New page: Loading map: Demonstration.umap
+[2020.03.10-16.52.57:839][864]LogWorld: UWorld::CleanupWorld for Town_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-16.52.57:839][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-16.52.57:839][864]MapCheck: New page: Map Check
+[2020.03.10-16.52.57:839][864]LightingResults: New page: Lighting Build
+[2020.03.10-16.52.57:863][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.03.10-16.52.58:171][864]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.10-16.52.58:200][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.03.10-16.52.58:216][864]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.10-16.52.58:216][864]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.274ms to complete.
+[2020.03.10-16.52.58:216][864]LogFileHelpers: Loading map 'Demonstration' took 0.381
