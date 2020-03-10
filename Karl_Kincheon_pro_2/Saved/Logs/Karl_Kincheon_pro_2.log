@@ -2425,3 +2425,622 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.10-18.34.24:731][541]AssetCheck: New page: Asset Save: multiple assets
 [2020.03.10-18.34.24:731][541]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
 [2020.03.10-18.34.24:731][541]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Town_1_BuiltData.Town_1_BuiltData
+[2020.03.10-18.35.15:891][ 74]LogAIModule: Creating AISystem for world Demonstration
+[2020.03.10-18.35.15:919][ 74]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PolygonWestern/Maps/Demonstration.Demonstration
+[2020.03.10-18.35.15:949][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.03.10-18.35.15:952][ 74]Cmd: MAP LOAD FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/PolygonWestern/Maps/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.10-18.35.15:952][ 74]LightingResults: New page: Lighting Build
+[2020.03.10-18.35.15:952][ 74]LoadErrors: New page: Loading map: Demonstration.umap
+[2020.03.10-18.35.15:956][ 74]LogWorld: UWorld::CleanupWorld for Town_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-18.35.15:956][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-18.35.15:956][ 74]MapCheck: New page: Map Check
+[2020.03.10-18.35.15:956][ 74]LightingResults: New page: Lighting Build
+[2020.03.10-18.35.15:987][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.03.10-18.35.16:723][ 74]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.10-18.35.16:755][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.03.10-18.35.16:769][ 74]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.10-18.35.16:769][ 74]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.251ms to complete.
+[2020.03.10-18.35.16:769][ 74]LogFileHelpers: Loading map 'Demonstration' took 0.818
+[2020.03.10-18.35.26:968][583]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.10-18.36.25:156][974]LogAIModule: Creating AISystem for world Town_1
+[2020.03.10-18.36.25:164][974]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Town_1.Town_1
+[2020.03.10-18.36.25:195][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.03.10-18.36.25:198][974]Cmd: MAP LOAD FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.10-18.36.25:198][974]LightingResults: New page: Lighting Build
+[2020.03.10-18.36.25:199][974]LoadErrors: New page: Loading map: Town_1.umap
+[2020.03.10-18.36.25:210][974]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-18.36.25:210][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.10-18.36.25:211][974]MapCheck: New page: Map Check
+[2020.03.10-18.36.25:211][974]LightingResults: New page: Lighting Build
+[2020.03.10-18.36.25:252][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.03.10-18.36.26:184][974]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.10-18.36.26:214][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.03.10-18.36.26:230][974]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.10-18.36.26:231][974]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.21ms to complete.
+[2020.03.10-18.36.26:231][974]LogFileHelpers: Loading map 'Town_1' took 1.034
+[2020.03.10-18.36.59:387][199]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.10-18.37.36:144][983]MapCheck: New page: Map Check
+[2020.03.10-18.37.36:167][983]LightingResults: New page: Lighting Build - Mar 10, 2020, 8:37:36 AM
+[2020.03.10-18.37.36:177][983]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.10-18.37.36:179][983]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.10-18.37.36:179][983]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.10-18.37.36:180][983]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.10-18.37.36:180][983]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20684
+[2020.03.10-18.37.40:705][983]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.03.10-18.37.40:706][983]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.10-18.37.40:706][983]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.10-18.37.40:706][983]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.10-18.37.40:706][983]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.10-18.37.40:706][983]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.10-18.37.40:818][983]LogEditorBuildUtils: Build time 0:04
+[2020.03.10-18.37.40:881][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.03.10-18.38.10:310][189]Job is a success!
+[2020.03.10-18.38.11:018][190]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.164s
+[2020.03.10-18.38.11:018][190]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.03.10-18.38.11:018][190]LogVolumetricLightmapImport:      BrickData (all levels) 2.3Mb
+[2020.03.10-18.38.11:018][190]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.10-18.38.11:018][190]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2020.03.10-18.38.11:018][190]LogVolumetricLightmapImport:          1: 15.6% covering 10.7% of volume
+[2020.03.10-18.38.11:018][190]LogVolumetricLightmapImport:          2: 82.1% covering 0.9% of volume
+[2020.03.10-18.38.11:018][190]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.10-18.38.11:018][190]LogVolumetricLightmapImport:          Town_1 			 352 bricks 	 100.0% (Persistent Level)
+[2020.03.10-18.38.13:976][190]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.03.10-18.38.13:976][190]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.03.10-18.38.13:976][190]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.03.10-18.38.13:976][190]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.03.10-18.38.13:977][190]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.03.10-18.38.13:977][190]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.03.10-18.38.13:977][190]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 128X128)
+[2020.03.10-18.38.13:977][190]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 128X128)
+[2020.03.10-18.38.13:977][190]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 128X128)
+[2020.03.10-18.38.13:977][190]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 128X128)
+[2020.03.10-18.38.13:977][190]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 128X128)
+[2020.03.10-18.38.13:977][190]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 128X128)
+[2020.03.10-18.38.13:977][190]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 128X128)
+[2020.03.10-18.38.13:977][190]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 128X128)
+[2020.03.10-18.38.13:977][190]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 512X512)
+[2020.03.10-18.38.13:977][190]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 512X512)
+[2020.03.10-18.38.13:977][190]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 128X128)
+[2020.03.10-18.38.13:977][190]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 128X128)
+[2020.03.10-18.38.13:977][190]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 128X128)
+[2020.03.10-18.38.13:977][190]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 128X128)
+[2020.03.10-18.38.13:977][190]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 128X128)
+[2020.03.10-18.38.13:977][190]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 128X128)
+[2020.03.10-18.38.13:977][190]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 128X128)
+[2020.03.10-18.38.13:977][190]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 128X128)
+[2020.03.10-18.38.13:977][190]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 1024X1024)
+[2020.03.10-18.38.13:977][190]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 1024X1024)
+[2020.03.10-18.38.13:978][190]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 128X128)
+[2020.03.10-18.38.13:978][190]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 128X128)
+[2020.03.10-18.38.13:978][190]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 128X128)
+[2020.03.10-18.38.13:978][190]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 128X128)
+[2020.03.10-18.38.13:978][190]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 128X128)
+[2020.03.10-18.38.13:978][190]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 128X128)
+[2020.03.10-18.38.13:978][190]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 512X512)
+[2020.03.10-18.38.13:978][190]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 512X512)
+[2020.03.10-18.38.13:978][190]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 256X256)
+[2020.03.10-18.38.13:978][190]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 256X256)
+[2020.03.10-18.38.13:978][190]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 128X128)
+[2020.03.10-18.38.13:978][190]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 128X128)
+[2020.03.10-18.38.13:978][190]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 256X256)
+[2020.03.10-18.38.13:978][190]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 256X256)
+[2020.03.10-18.38.14:177][190]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 64X64)
+[2020.03.10-18.38.14:177][190]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 64X64)
+[2020.03.10-18.38.14:177][190]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 64X64)
+[2020.03.10-18.38.14:177][190]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 64X64)
+[2020.03.10-18.38.14:177][190]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 64X64)
+[2020.03.10-18.38.14:177][190]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 64X64)
+[2020.03.10-18.38.14:177][190]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 64X64)
+[2020.03.10-18.38.14:177][190]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 64X64)
+[2020.03.10-18.38.14:177][190]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 64X64)
+[2020.03.10-18.38.14:177][190]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 64X64)
+[2020.03.10-18.38.14:177][190]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 64X64)
+[2020.03.10-18.38.14:177][190]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 64X64)
+[2020.03.10-18.38.14:177][190]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (BGRA8, 1024X64)
+[2020.03.10-18.38.14:177][190]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X128)
+[2020.03.10-18.38.14:177][190]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X128)
+[2020.03.10-18.38.14:177][190]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 1024X128)
+[2020.03.10-18.38.14:177][190]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X256)
+[2020.03.10-18.38.14:906][190]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2020.03.10-18.38.14:906][190]Lightmass on DESKTOP-IFJPMID: 32.1 sec total, 233 ms importing, 147 ms setup, 3.28 sec photons, 28.4 sec processing, 0 ms extra exporting [488/488 mappings]. Threads: 3:19 min total, 2:14 min processing.
+[2020.03.10-18.38.14:906][190]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/13462/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/8/TEXTURE_564290F8998644E39A2118D5C683187B_BGRA8_200BA35B4D82DACE6DEA749BD6533D5__DE143411DD08693177E632AB03F8DB50B9425F1B.udd.
+[2020.03.10-18.38.14:947][190]LogStaticLightingSystem: Town_1_BuiltData storing lightmap data for 488 meshes in 36 LightmapResourceClusters (13.6 Meshes per cluster).
+[2020.03.10-18.38.14:999][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.03.10-18.38.15:013][190]LogStaticLightingSystem: Illumination: 38.4 sec (2.60 sec encoding lightmaps, 316 ms encoding shadowmaps)
+[2020.03.10-18.38.15:013][190]LogStaticLightingSystem: Lightmap texture memory:  9.6 MB (9.6 MB streaming, 0.0 MB non-streaming), 40 textures
+[2020.03.10-18.38.15:013][190]LogStaticLightingSystem: Shadowmap texture memory: 6.6 MB (6.6 MB streaming, 0.0 MB non-streaming), 18 textures
+[2020.03.10-18.38.20:746][190]DumpUnbuiltLightIteractions
+[2020.03.10-18.38.20:746][190]Lights with unbuilt interactions: 0
+[2020.03.10-18.38.20:746][190]
+[2020.03.10-18.38.20:746][190]Primitives with unbuilt interactions: 0
+[2020.03.10-18.38.20:812][191]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.10-18.38.20:812][191]MapCheck: New page: Town_1 - Mar 10, 2020, 8:38:20 AM
+[2020.03.10-18.38.20:814][191]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.316ms to complete.
+[2020.03.10-18.38.42:122][724]LogSlate: Window 'Message Log' being destroyed
+[2020.03.10-18.38.42:127][724]LogSlate: Window 'Message Log' being destroyed
+[2020.03.10-18.38.47:306][ 28]MapCheck: New page: Map Check
+[2020.03.10-18.38.47:326][ 28]LightingResults: New page: Lighting Build - Mar 10, 2020, 8:38:47 AM
+[2020.03.10-18.38.47:337][ 28]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.10-18.38.47:340][ 28]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.10-18.38.47:340][ 28]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.10-18.38.47:341][ 28]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.10-18.38.47:341][ 28]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20684
+[2020.03.10-18.38.51:868][ 28]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.03.10-18.38.51:869][ 28]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.10-18.38.51:869][ 28]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.10-18.38.51:869][ 28]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.10-18.38.51:869][ 28]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.10-18.38.51:869][ 28]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.10-18.38.51:983][ 28]LogEditorBuildUtils: Build time 0:04
+[2020.03.10-18.38.52:109][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.03.10-18.39.25:287][206]Job is a success!
+[2020.03.10-18.39.25:969][207]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.160s
+[2020.03.10-18.39.25:969][207]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.03.10-18.39.25:969][207]LogVolumetricLightmapImport:      BrickData (all levels) 2.3Mb
+[2020.03.10-18.39.25:969][207]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.10-18.39.25:969][207]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2020.03.10-18.39.25:969][207]LogVolumetricLightmapImport:          1: 15.6% covering 10.7% of volume
+[2020.03.10-18.39.25:969][207]LogVolumetricLightmapImport:          2: 82.1% covering 0.9% of volume
+[2020.03.10-18.39.25:969][207]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.10-18.39.25:969][207]LogVolumetricLightmapImport:          Town_1 			 352 bricks 	 100.0% (Persistent Level)
+[2020.03.10-18.39.28:754][207]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.03.10-18.39.28:754][207]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.03.10-18.39.28:754][207]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.03.10-18.39.28:754][207]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.03.10-18.39.28:754][207]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.03.10-18.39.28:754][207]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.03.10-18.39.28:754][207]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 128X128)
+[2020.03.10-18.39.28:754][207]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 128X128)
+[2020.03.10-18.39.28:754][207]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 128X128)
+[2020.03.10-18.39.28:754][207]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 128X128)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 128X128)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 128X128)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 512X512)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 512X512)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 128X128)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 128X128)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 128X128)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 128X128)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 128X128)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 128X128)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 128X128)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 128X128)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 128X128)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 128X128)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 128X128)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 128X128)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 128X128)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 128X128)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 512X512)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 512X512)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 256X256)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 256X256)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 128X128)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 128X128)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 256X256)
+[2020.03.10-18.39.28:755][207]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 256X256)
+[2020.03.10-18.39.28:955][207]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/13462/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/7/TEXTURE_564290F8998644E39A2118D5C683187B_AUTODXT_A138571B40E29524D09422B35194C__05428D4616B99B201B80B7FA2D861513AAD4BDF4.udd.
+[2020.03.10-18.39.28:955][207]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (BGRA8, 64X64)
+[2020.03.10-18.39.28:955][207]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (BGRA8, 64X64)
+[2020.03.10-18.39.28:955][207]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 64X64)
+[2020.03.10-18.39.28:955][207]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (BGRA8, 64X64)
+[2020.03.10-18.39.28:955][207]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 64X64)
+[2020.03.10-18.39.28:955][207]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 64X64)
+[2020.03.10-18.39.28:955][207]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 64X64)
+[2020.03.10-18.39.28:955][207]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 64X64)
+[2020.03.10-18.39.28:955][207]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 64X64)
+[2020.03.10-18.39.28:955][207]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 64X64)
+[2020.03.10-18.39.28:955][207]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 64X64)
+[2020.03.10-18.39.28:955][207]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 64X64)
+[2020.03.10-18.39.28:955][207]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 1024X128)
+[2020.03.10-18.39.28:955][207]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 1024X128)
+[2020.03.10-18.39.28:955][207]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (BGRA8, 1024X64)
+[2020.03.10-18.39.28:955][207]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 1024X128)
+[2020.03.10-18.39.28:955][207]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 1024X256)
+[2020.03.10-18.39.29:595][207]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (BGRA8, 1024X1024)
+[2020.03.10-18.39.29:595][207]Lightmass on DESKTOP-IFJPMID: 35.6 sec total, 310 ms importing, 164 ms setup, 3.80 sec photons, 31.3 sec processing, 0 ms extra exporting [488/488 mappings]. Threads: 3:39 min total, 2:30 min processing.
+[2020.03.10-18.39.29:632][207]LogStaticLightingSystem: Town_1_BuiltData storing lightmap data for 488 meshes in 36 LightmapResourceClusters (13.6 Meshes per cluster).
+[2020.03.10-18.39.29:685][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.03.10-18.39.29:701][207]LogStaticLightingSystem: Illumination: 42.0 sec (2.45 sec encoding lightmaps, 260 ms encoding shadowmaps)
+[2020.03.10-18.39.29:701][207]LogStaticLightingSystem: Lightmap texture memory:  9.6 MB (9.6 MB streaming, 0.0 MB non-streaming), 40 textures
+[2020.03.10-18.39.29:701][207]LogStaticLightingSystem: Shadowmap texture memory: 6.6 MB (6.6 MB streaming, 0.0 MB non-streaming), 18 textures
+[2020.03.10-18.39.34:933][207]DumpUnbuiltLightIteractions
+[2020.03.10-18.39.34:933][207]Lights with unbuilt interactions: 0
+[2020.03.10-18.39.34:933][207]
+[2020.03.10-18.39.34:933][207]Primitives with unbuilt interactions: 0
+[2020.03.10-18.39.35:004][208]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.10-18.39.35:004][208]MapCheck: New page: Town_1 - Mar 10, 2020, 8:39:35 AM
+[2020.03.10-18.39.35:006][208]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.292ms to complete.
+[2020.03.10-18.40.09:373][422]LogSlate: Window 'Message Log' being destroyed
+[2020.03.10-18.40.09:377][422]LogSlate: Window 'Message Log' being destroyed
+[2020.03.10-18.40.40:709][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.03.10-18.40.40:748][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.10-18.40.40:770][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.03.10-18.40.44:182][297]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1E7FF82774A0984CCFE97CC9A7CF8F12F.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.10-18.40.44:200][297]LogFileHelpers: Saving map 'Town_1' took 3.452
+[2020.03.10-18.40.44:200][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1_BuiltData" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset" SILENT=true
+[2020.03.10-18.40.47:188][297]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_BuiltDataA41E5E33485B8F4F2296E09765D741A5.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset'
+[2020.03.10-18.40.47:193][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1_BuiltData" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset" SILENT=true
+[2020.03.10-18.40.49:660][297]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_BuiltData7666DAB54840859E9C94C488FEDDF40B.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset'
+[2020.03.10-18.40.49:688][297]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.10-18.40.49:688][297]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.10-18.40.49:688][297]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Town_1_BuiltData.Town_1_BuiltData
+[2020.03.10-18.40.55:749][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.03.10-18.40.55:787][659]LogSlate: Window 'Karl_Kincheon_pro_2 - Unreal Editor' being destroyed
+[2020.03.10-18.40.56:046][660]Cmd: QUIT_EDITOR
+[2020.03.10-18.40.56:046][660]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.03.10-18.40.56:061][660]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.03.10-18.40.56:061][660]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.10-18.40.56:926][660]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.10-18.40.56:936][660]LogExit: Preparing to exit.
+[2020.03.10-18.40.57:243][660]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-18.40.57:244][660]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-18.40.57:245][660]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-18.40.57:245][660]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-18.40.57:246][660]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-18.40.57:281][660]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.03.10-18.40.57:308][660]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.10-18.40.57:308][660]LogExit: Editor shut down
+[2020.03.10-18.40.57:310][660]LogExit: Transaction tracking system shut down
+[2020.03.10-18.40.57:981][660]LogExit: Object subsystem successfully closed.
+[2020.03.10-18.40.58:002][660]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.10-18.40.58:020][660]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (702)
+[2020.03.10-18.40.58:020][660]LogModuleManager: Shutting down and abandoning module Voice (700)
+[2020.03.10-18.40.58:020][660]LogModuleManager: Shutting down and abandoning module BlueprintGraph (698)
+[2020.03.10-18.40.58:020][660]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (696)
+[2020.03.10-18.40.58:020][660]LogModuleManager: Shutting down and abandoning module SceneOutliner (694)
+[2020.03.10-18.40.58:020][660]LogModuleManager: Shutting down and abandoning module AddContentDialog (692)
+[2020.03.10-18.40.58:022][660]LogModuleManager: Shutting down and abandoning module WidgetCarousel (691)
+[2020.03.10-18.40.58:022][660]LogModuleManager: Shutting down and abandoning module EditorWidgets (688)
+[2020.03.10-18.40.58:023][660]LogModuleManager: Shutting down and abandoning module CollectionManager (686)
+[2020.03.10-18.40.58:023][660]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.03.10-18.40.58:023][660]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.03.10-18.40.58:023][660]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.03.10-18.40.58:023][660]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.03.10-18.40.58:023][660]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.03.10-18.40.58:023][660]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.03.10-18.40.58:023][660]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.03.10-18.40.58:023][660]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.03.10-18.40.58:023][660]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.03.10-18.40.58:023][660]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.03.10-18.40.58:023][660]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.03.10-18.40.58:023][660]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.03.10-18.40.58:023][660]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.03.10-18.40.58:023][660]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.03.10-18.40.58:023][660]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.03.10-18.40.58:023][660]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.03.10-18.40.58:023][660]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.03.10-18.40.58:023][660]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.03.10-18.40.58:023][660]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.03.10-18.40.58:023][660]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.03.10-18.40.58:023][660]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.03.10-18.40.58:023][660]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.03.10-18.40.58:024][660]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.03.10-18.40.58:701][660]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.03.10-18.40.58:702][660]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.03.10-18.40.58:702][660]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.03.10-18.40.58:702][660]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.03.10-18.40.58:702][660]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.03.10-18.40.58:702][660]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.03.10-18.40.58:702][660]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.03.10-18.40.58:702][660]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.03.10-18.40.58:702][660]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.03.10-18.40.58:702][660]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.03.10-18.40.58:702][660]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.03.10-18.40.58:702][660]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.03.10-18.40.58:702][660]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.03.10-18.40.58:702][660]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.03.10-18.40.58:702][660]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.03.10-18.40.58:702][660]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.03.10-18.40.58:702][660]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.03.10-18.40.58:703][660]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.03.10-18.40.58:703][660]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.03.10-18.40.58:703][660]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.03.10-18.40.58:703][660]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.03.10-18.40.58:703][660]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.03.10-18.40.58:703][660]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.03.10-18.40.58:703][660]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.03.10-18.40.58:738][660]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.03.10-18.40.58:738][660]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.03.10-18.40.58:738][660]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.03.10-18.40.58:739][660]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.03.10-18.40.58:739][660]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.03.10-18.40.58:739][660]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.03.10-18.40.58:739][660]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.03.10-18.40.58:739][660]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.03.10-18.40.58:739][660]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.03.10-18.40.58:739][660]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.03.10-18.40.58:739][660]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.03.10-18.40.58:747][660]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.03.10-18.40.58:747][660]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.03.10-18.40.58:747][660]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.03.10-18.40.58:748][660]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.03.10-18.40.58:748][660]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.03.10-18.40.58:748][660]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.03.10-18.40.58:748][660]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.03.10-18.40.58:751][660]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.03.10-18.40.58:751][660]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.03.10-18.40.58:751][660]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.03.10-18.40.58:751][660]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.03.10-18.40.58:751][660]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.03.10-18.40.58:751][660]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.03.10-18.40.58:752][660]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.03.10-18.40.58:752][660]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.03.10-18.40.58:752][660]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.03.10-18.40.58:752][660]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.03.10-18.40.58:752][660]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.03.10-18.40.58:752][660]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.03.10-18.40.58:752][660]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.03.10-18.40.58:752][660]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.03.10-18.40.58:752][660]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.03.10-18.40.58:752][660]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.03.10-18.40.58:752][660]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.03.10-18.40.58:752][660]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.03.10-18.40.58:752][660]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.03.10-18.40.58:755][660]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.03.10-18.40.58:928][660]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.03.10-18.40.58:928][660]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.03.10-18.40.58:928][660]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.03.10-18.40.58:928][660]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.03.10-18.40.58:928][660]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.03.10-18.40.58:928][660]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.03.10-18.40.58:929][660]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.03.10-18.40.58:930][660]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.03.10-18.40.58:930][660]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.03.10-18.40.58:930][660]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.03.10-18.40.58:930][660]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.03.10-18.40.58:930][660]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.03.10-18.40.58:930][660]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.03.10-18.40.58:930][660]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.03.10-18.40.58:930][660]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.03.10-18.40.58:930][660]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.03.10-18.40.58:930][660]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.03.10-18.40.58:930][660]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.03.10-18.40.58:930][660]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.03.10-18.40.58:930][660]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.03.10-18.40.58:930][660]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.03.10-18.40.58:930][660]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.03.10-18.40.58:930][660]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.03.10-18.40.59:030][660]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.03.10-18.40.59:131][660]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.03.10-18.40.59:131][660]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.03.10-18.40.59:131][660]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.03.10-18.40.59:131][660]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.03.10-18.40.59:131][660]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.03.10-18.40.59:131][660]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.03.10-18.40.59:131][660]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.03.10-18.40.59:131][660]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.03.10-18.40.59:131][660]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.03.10-18.40.59:131][660]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.03.10-18.40.59:131][660]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.10-18.40.59:131][660]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.03.10-18.40.59:131][660]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.03.10-18.40.59:131][660]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.03.10-18.40.59:131][660]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.03.10-18.40.59:131][660]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.03.10-18.40.59:131][660]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.03.10-18.40.59:131][660]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.03.10-18.40.59:131][660]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.03.10-18.40.59:131][660]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.03.10-18.40.59:132][660]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.03.10-18.40.59:132][660]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.03.10-18.40.59:133][660]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.03.10-18.40.59:133][660]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.03.10-18.40.59:133][660]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.03.10-18.40.59:134][660]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.03.10-18.40.59:134][660]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.03.10-18.40.59:134][660]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.03.10-18.40.59:134][660]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.03.10-18.40.59:134][660]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.03.10-18.40.59:137][660]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.03.10-18.40.59:137][660]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.03.10-18.40.59:137][660]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.03.10-18.40.59:138][660]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.03.10-18.40.59:140][660]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.03.10-18.40.59:140][660]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.03.10-18.40.59:140][660]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.03.10-18.40.59:140][660]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.03.10-18.40.59:140][660]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.03.10-18.40.59:140][660]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.03.10-18.40.59:140][660]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.03.10-18.40.59:140][660]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.03.10-18.40.59:140][660]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.03.10-18.40.59:140][660]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.03.10-18.40.59:140][660]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.03.10-18.40.59:140][660]LogDerivedDataCache: Shutdown
+[2020.03.10-18.40.59:140][660]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.03.10-18.40.59:140][660]LogXGEController: Cleaning working directory: C:/Users/13462/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.03.10-18.40.59:141][660]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.03.10-18.40.59:141][660]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.03.10-18.40.59:141][660]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.03.10-18.40.59:141][660]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.03.10-18.40.59:141][660]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.03.10-18.40.59:141][660]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.03.10-18.40.59:141][660]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.03.10-18.40.59:141][660]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.03.10-18.40.59:141][660]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.03.10-18.40.59:141][660]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.03.10-18.40.59:141][660]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.03.10-18.40.59:141][660]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.03.10-18.40.59:141][660]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.03.10-18.40.59:141][660]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.03.10-18.40.59:141][660]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.03.10-18.40.59:141][660]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.03.10-18.40.59:141][660]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.03.10-18.40.59:141][660]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.03.10-18.40.59:141][660]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.03.10-18.40.59:141][660]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.03.10-18.40.59:141][660]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.03.10-18.40.59:152][660]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.03.10-18.40.59:158][660]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.03.10-18.40.59:158][660]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.03.10-18.40.59:158][660]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.03.10-18.40.59:158][660]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.03.10-18.40.59:158][660]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.03.10-18.40.59:158][660]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.03.10-18.40.59:158][660]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.03.10-18.40.59:158][660]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.03.10-18.40.59:161][660]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.03.10-18.40.59:192][660]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.03.10-18.40.59:192][660]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.03.10-18.40.59:192][660]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.03.10-18.40.59:192][660]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.03.10-18.40.59:193][660]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.03.10-18.40.59:193][660]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.03.10-18.40.59:193][660]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.03.10-18.40.59:193][660]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.03.10-18.40.59:193][660]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.03.10-18.40.59:193][660]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.03.10-18.40.59:193][660]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.03.10-18.40.59:193][660]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.03.10-18.40.59:193][660]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.03.10-18.40.59:193][660]LogHMD: Freeing OpenVRDLLHandle.
+[2020.03.10-18.40.59:193][660]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.03.10-18.40.59:193][660]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.03.10-18.40.59:193][660]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.03.10-18.40.59:193][660]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.03.10-18.40.59:193][660]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.03.10-18.40.59:194][660]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.03.10-18.40.59:194][660]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.03.10-18.40.59:212][660]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.03.10-18.40.59:212][660]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.03.10-18.40.59:212][660]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B474F1D77-4D47-FDBA-B09C-4C8581B9B254%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=d43605af4f96bd083b914db74b31c09c%7Cdf50153c235947d397c93e600846ae29%7Ca557a634-b43f-4f1c-a1b1-4a4ed226fa41&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.03.10-18.40.59:241][660]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.03.10-18.40.59:242][660]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.03.10-18.40.59:244][660]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.03.10-18.40.59:244][660]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.03.10-18.40.59:244][660]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.03.10-18.40.59:244][660]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.03.10-18.40.59:245][660]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.03.10-18.40.59:245][660]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.03.10-18.40.59:245][660]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.03.10-18.40.59:245][660]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.03.10-18.40.59:245][660]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.03.10-18.40.59:245][660]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.03.10-18.40.59:245][660]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.03.10-18.40.59:245][660]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.03.10-18.40.59:245][660]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.03.10-18.40.59:245][660]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.03.10-18.40.59:245][660]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.03.10-18.40.59:245][660]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.03.10-18.40.59:248][660]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.03.10-18.40.59:248][660]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.03.10-18.40.59:248][660]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.03.10-18.40.59:248][660]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.03.10-18.40.59:248][660]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.03.10-18.40.59:248][660]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.03.10-18.40.59:249][660]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.03.10-18.40.59:249][660]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.03.10-18.40.59:249][660]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.03.10-18.40.59:249][660]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.03.10-18.40.59:249][660]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.03.10-18.40.59:249][660]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.03.10-18.40.59:256][660]LogD3D11RHI: Shutdown
+[2020.03.10-18.40.59:256][660]LogD3D11RHI: CleanupD3DDevice
+[2020.03.10-18.40.59:596][660]LogExit: Exiting.
+[2020.03.10-18.40.59:622][660]Log file closed, 03/10/20 13:40:59
