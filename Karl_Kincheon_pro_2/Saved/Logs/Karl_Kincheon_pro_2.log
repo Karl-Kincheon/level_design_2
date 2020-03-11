@@ -713,3 +713,1629 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.11-18.03.09:084][554]LogEditorActor: Deleted Actor: PointLight
 [2020.03.11-18.03.09:106][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
 [2020.03.11-18.03.09:107][554]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.03.11-18.04.27:820][733]MapCheck: New page: Map Check
+[2020.03.11-18.04.27:837][733]LightingResults: New page: Lighting Build - Mar 11, 2020, 8:04:27 AM
+[2020.03.11-18.04.27:845][733]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.11-18.04.27:847][733]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.11-18.04.27:848][733]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.11-18.04.27:849][733]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.11-18.04.27:849][733]LogSwarmInterface: [TryOpenConnection] Local Process ID is 400
+[2020.03.11-18.04.32:761][733]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.11-18.04.32:761][733]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.11-18.04.32:761][733]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.11-18.04.32:761][733]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.11-18.04.32:761][733]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.11-18.04.32:858][733]LogEditorBuildUtils: Build time 0:05
+[2020.03.11-18.04.32:956][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.03.11-18.04.54:289][945]Job is a success!
+[2020.03.11-18.04.54:490][946]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.014s
+[2020.03.11-18.04.54:490][946]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.03.11-18.04.54:490][946]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.03.11-18.04.54:490][946]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.11-18.04.54:490][946]LogVolumetricLightmapImport:          0: 9.1% covering 100.0% of volume
+[2020.03.11-18.04.54:490][946]LogVolumetricLightmapImport:          1: 9.1% covering 1.6% of volume
+[2020.03.11-18.04.54:490][946]LogVolumetricLightmapImport:          2: 81.8% covering 0.2% of volume
+[2020.03.11-18.04.54:490][946]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.11-18.04.54:490][946]LogVolumetricLightmapImport:          Town_1 			 11 bricks 	 100.0% (Persistent Level)
+[2020.03.11-18.04.56:990][946]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.03.11-18.04.56:990][946]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.03.11-18.04.56:990][946]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 512X512)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 512X512)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 512X512)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 512X512)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 256X256)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 256X256)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 128X128)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 256X256)
+[2020.03.11-18.04.56:991][946]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 256X256)
+[2020.03.11-18.04.57:191][946]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (BGRA8, 64X64)
+[2020.03.11-18.04.57:191][946]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (BGRA8, 64X64)
+[2020.03.11-18.04.57:192][946]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 64X64)
+[2020.03.11-18.04.57:192][946]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 64X64)
+[2020.03.11-18.04.57:192][946]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 64X64)
+[2020.03.11-18.04.57:192][946]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 64X64)
+[2020.03.11-18.04.57:192][946]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 64X64)
+[2020.03.11-18.04.57:192][946]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (BGRA8, 64X64)
+[2020.03.11-18.04.57:192][946]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 64X64)
+[2020.03.11-18.04.57:192][946]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 64X64)
+[2020.03.11-18.04.57:192][946]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 64X64)
+[2020.03.11-18.04.57:192][946]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 64X64)
+[2020.03.11-18.04.57:192][946]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (BGRA8, 1024X64)
+[2020.03.11-18.04.57:192][946]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (BGRA8, 1024X128)
+[2020.03.11-18.04.57:192][946]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (BGRA8, 1024X64)
+[2020.03.11-18.04.57:192][946]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 1024X128)
+[2020.03.11-18.04.57:192][946]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (BGRA8, 1024X256)
+[2020.03.11-18.04.57:518][946]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (BGRA8, 1024X1024)
+[2020.03.11-18.04.57:518][946]Lightmass on DESKTOP-IFJPMID: 23.2 sec total, 264 ms importing, 158 ms setup, 2.62 sec photons, 20.1 sec processing, 0 ms extra exporting [488/488 mappings]. Threads: 2:21 min total, 1:40 min processing.
+[2020.03.11-18.04.57:520][946]LogStaticLightingSystem: Town_1_BuiltData storing lightmap data for 488 meshes in 36 LightmapResourceClusters (13.6 Meshes per cluster).
+[2020.03.11-18.04.57:557][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.03.11-18.04.57:578][946]LogStaticLightingSystem: Illumination: 29.7 sec (2.17 sec encoding lightmaps, 232 ms encoding shadowmaps)
+[2020.03.11-18.04.57:578][946]LogStaticLightingSystem: Lightmap texture memory:  9.6 MB (9.6 MB streaming, 0.0 MB non-streaming), 40 textures
+[2020.03.11-18.04.57:578][946]LogStaticLightingSystem: Shadowmap texture memory: 8.3 MB (8.3 MB streaming, 0.0 MB non-streaming), 18 textures
+[2020.03.11-18.04.57:790][946]DumpUnbuiltLightIteractions
+[2020.03.11-18.04.57:790][946]Lights with unbuilt interactions: 0
+[2020.03.11-18.04.57:790][946]
+[2020.03.11-18.04.57:790][946]Primitives with unbuilt interactions: 0
+[2020.03.11-18.04.57:845][947]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.11-18.04.57:845][947]MapCheck: New page: Town_1 - Mar 11, 2020, 8:04:57 AM
+[2020.03.11-18.04.57:848][947]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.161ms to complete.
+[2020.03.11-18.05.07:636][509]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.11-18.05.36:496][189]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.11-18.05.44:801][686]Cmd: DELETE
+[2020.03.11-18.05.44:801][686]Cmd: ACTOR DELETE
+[2020.03.11-18.05.44:809][686]LogEditorActor: Deleted Actor: PointLight
+[2020.03.11-18.05.44:833][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.03.11-18.05.44:835][686]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.03.11-18.05.45:770][742]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.11-18.05.46:065][759]Cmd: DELETE
+[2020.03.11-18.05.46:065][759]Cmd: ACTOR DELETE
+[2020.03.11-18.05.46:072][759]LogEditorActor: Deleted Actor: PointLight
+[2020.03.11-18.05.46:096][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.11-18.05.46:096][759]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.03.11-18.05.47:207][826]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.03.11-18.05.47:452][840]Cmd: DELETE
+[2020.03.11-18.05.47:452][840]Cmd: ACTOR DELETE
+[2020.03.11-18.05.47:459][840]LogEditorActor: Deleted Actor: PointLight
+[2020.03.11-18.05.47:481][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.11-18.05.47:481][840]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.03.11-18.06.20:650][773]MapCheck: New page: Map Check
+[2020.03.11-18.06.20:667][773]LightingResults: New page: Lighting Build - Mar 11, 2020, 8:06:20 AM
+[2020.03.11-18.06.20:677][773]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.11-18.06.20:679][773]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.11-18.06.20:679][773]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.11-18.06.20:680][773]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.11-18.06.20:680][773]LogSwarmInterface: [TryOpenConnection] Local Process ID is 400
+[2020.03.11-18.06.25:194][773]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.11-18.06.25:194][773]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.11-18.06.25:194][773]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.11-18.06.25:194][773]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.11-18.06.25:194][773]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.11-18.06.25:303][773]LogEditorBuildUtils: Build time 0:04
+[2020.03.11-18.06.25:362][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.03.11-18.06.50:094][180]Job is a success!
+[2020.03.11-18.06.50:315][181]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2020.03.11-18.06.50:315][181]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.03.11-18.06.50:315][181]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.03.11-18.06.50:315][181]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.11-18.06.50:315][181]LogVolumetricLightmapImport:          0: 9.1% covering 100.0% of volume
+[2020.03.11-18.06.50:315][181]LogVolumetricLightmapImport:          1: 9.1% covering 1.6% of volume
+[2020.03.11-18.06.50:315][181]LogVolumetricLightmapImport:          2: 81.8% covering 0.2% of volume
+[2020.03.11-18.06.50:315][181]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.11-18.06.50:315][181]LogVolumetricLightmapImport:          Town_1 			 11 bricks 	 100.0% (Persistent Level)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 128X128)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 128X128)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 128X128)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 128X128)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 128X128)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 128X128)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 128X128)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 128X128)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 512X512)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 512X512)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 128X128)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 128X128)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 128X128)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 128X128)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 128X128)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 128X128)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 128X128)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 128X128)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 1024X1024)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 1024X1024)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 128X128)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 128X128)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 128X128)
+[2020.03.11-18.06.52:936][181]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 128X128)
+[2020.03.11-18.06.52:937][181]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 128X128)
+[2020.03.11-18.06.52:937][181]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 128X128)
+[2020.03.11-18.06.52:937][181]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 512X512)
+[2020.03.11-18.06.52:937][181]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 512X512)
+[2020.03.11-18.06.52:937][181]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 256X256)
+[2020.03.11-18.06.52:937][181]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 256X256)
+[2020.03.11-18.06.52:937][181]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 128X128)
+[2020.03.11-18.06.52:937][181]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 128X128)
+[2020.03.11-18.06.52:937][181]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 256X256)
+[2020.03.11-18.06.52:937][181]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 256X256)
+[2020.03.11-18.06.53:136][181]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (BGRA8, 64X64)
+[2020.03.11-18.06.53:136][181]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (BGRA8, 64X64)
+[2020.03.11-18.06.53:136][181]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (BGRA8, 64X64)
+[2020.03.11-18.06.53:136][181]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (BGRA8, 64X64)
+[2020.03.11-18.06.53:136][181]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (BGRA8, 64X64)
+[2020.03.11-18.06.53:136][181]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (BGRA8, 64X64)
+[2020.03.11-18.06.53:136][181]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (BGRA8, 64X64)
+[2020.03.11-18.06.53:136][181]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (BGRA8, 64X64)
+[2020.03.11-18.06.53:136][181]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (BGRA8, 64X64)
+[2020.03.11-18.06.53:136][181]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (BGRA8, 64X64)
+[2020.03.11-18.06.53:136][181]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (BGRA8, 64X64)
+[2020.03.11-18.06.53:136][181]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (BGRA8, 64X64)
+[2020.03.11-18.06.53:136][181]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (BGRA8, 1024X64)
+[2020.03.11-18.06.53:136][181]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (BGRA8, 1024X128)
+[2020.03.11-18.06.53:136][181]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (BGRA8, 1024X128)
+[2020.03.11-18.06.53:136][181]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (BGRA8, 1024X256)
+[2020.03.11-18.06.53:136][181]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (BGRA8, 1024X256)
+[2020.03.11-18.06.53:442][181]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (BGRA8, 1024X1024)
+[2020.03.11-18.06.53:442][181]Lightmass on DESKTOP-IFJPMID: 26.7 sec total, 268 ms importing, 150 ms setup, 2.87 sec photons, 23.4 sec processing, 0 ms extra exporting [488/488 mappings]. Threads: 2:43 min total, 2:00 min processing.
+[2020.03.11-18.06.53:445][181]LogStaticLightingSystem: Town_1_BuiltData storing lightmap data for 488 meshes in 36 LightmapResourceClusters (13.6 Meshes per cluster).
+[2020.03.11-18.06.53:481][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2020.03.11-18.06.53:502][181]LogStaticLightingSystem: Illumination: 32.7 sec (2.29 sec encoding lightmaps, 206 ms encoding shadowmaps)
+[2020.03.11-18.06.53:502][181]LogStaticLightingSystem: Lightmap texture memory:  9.6 MB (9.6 MB streaming, 0.0 MB non-streaming), 40 textures
+[2020.03.11-18.06.53:502][181]LogStaticLightingSystem: Shadowmap texture memory: 9.9 MB (9.9 MB streaming, 0.0 MB non-streaming), 18 textures
+[2020.03.11-18.06.54:225][181]DumpUnbuiltLightIteractions
+[2020.03.11-18.06.54:225][181]Lights with unbuilt interactions: 0
+[2020.03.11-18.06.54:225][181]
+[2020.03.11-18.06.54:225][181]Primitives with unbuilt interactions: 0
+[2020.03.11-18.06.54:287][182]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.11-18.06.54:287][182]MapCheck: New page: Town_1 - Mar 11, 2020, 8:06:54 AM
+[2020.03.11-18.06.54:290][182]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.184ms to complete.
+[2020.03.11-18.06.59:202][475]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight3)
+[2020.03.11-18.07.04:883][816]Cmd: DELETE
+[2020.03.11-18.07.04:883][816]Cmd: ACTOR DELETE
+[2020.03.11-18.07.04:890][816]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.03.11-18.07.04:913][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.03.11-18.07.04:914][816]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.03.11-18.07.05:611][858]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight2)
+[2020.03.11-18.07.05:772][867]Cmd: DELETE
+[2020.03.11-18.07.05:773][867]Cmd: ACTOR DELETE
+[2020.03.11-18.07.05:779][867]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.03.11-18.07.05:801][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.11-18.07.05:801][867]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.03.11-18.07.15:741][317]LogAIModule: Creating AISystem for world Demonstration
+[2020.03.11-18.07.15:858][317]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PolygonWestern/Maps/Demonstration.Demonstration
+[2020.03.11-18.07.15:947][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.03.11-18.07.21:123][317]LogSlate: Window 'Save Content' being destroyed
+[2020.03.11-18.07.21:254][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.11-18.07.21:289][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.03.11-18.07.25:200][317]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_11125CF724EC47113B23082B435994883.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.11-18.07.25:324][317]LogFileHelpers: Saving map 'Town_1' took 4.081
+[2020.03.11-18.07.25:324][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1_BuiltData" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset" SILENT=true
+[2020.03.11-18.07.28:525][317]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_BuiltData48CADFFD48CF972B35831792673F9B86.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset'
+[2020.03.11-18.07.28:530][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1_BuiltData" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset" SILENT=true
+[2020.03.11-18.07.30:814][317]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_BuiltData3EC1E4F94783EC0D9CAA3C9326398438.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset'
+[2020.03.11-18.07.30:828][317]Cmd: MAP LOAD FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/PolygonWestern/Maps/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.11-18.07.30:828][317]LightingResults: New page: Lighting Build
+[2020.03.11-18.07.30:829][317]LoadErrors: New page: Loading map: Demonstration.umap
+[2020.03.11-18.07.30:975][317]LogWorld: UWorld::CleanupWorld for Town_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-18.07.30:990][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-18.07.30:990][317]MapCheck: New page: Map Check
+[2020.03.11-18.07.30:990][317]LightingResults: New page: Lighting Build
+[2020.03.11-18.07.31:075][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.03.11-18.07.31:301][317]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.11-18.07.31:331][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.03.11-18.07.31:345][317]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.11-18.07.31:345][317]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.248ms to complete.
+[2020.03.11-18.07.31:345][317]LogFileHelpers: Loading map 'Demonstration' took 0.526
+[2020.03.11-18.07.31:395][317]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.11-18.07.31:395][317]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.11-18.07.31:480][317]LogAIModule: Creating AISystem for world Town_1
+[2020.03.11-18.07.31:490][317]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Town_1_BuiltData.Town_1_BuiltData
+[2020.03.11-18.07.38:322][703]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.11-18.08.09:830][546]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Town_1.Town_1
+[2020.03.11-18.08.09:856][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.03.11-18.08.09:857][546]Cmd: MAP LOAD FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.11-18.08.09:857][546]LightingResults: New page: Lighting Build
+[2020.03.11-18.08.09:858][546]LoadErrors: New page: Loading map: Town_1.umap
+[2020.03.11-18.08.09:864][546]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-18.08.09:864][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-18.08.09:864][546]MapCheck: New page: Map Check
+[2020.03.11-18.08.09:865][546]LightingResults: New page: Lighting Build
+[2020.03.11-18.08.10:251][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.03.11-18.08.10:504][546]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.11-18.08.10:531][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.03.11-18.08.10:548][546]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.11-18.08.10:548][546]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.185ms to complete.
+[2020.03.11-18.08.10:548][546]LogFileHelpers: Loading map 'Town_1' took 0.691
+[2020.03.11-18.08.13:606][718]Cmd: DELETE
+[2020.03.11-18.08.13:606][718]Cmd: ACTOR DELETE
+[2020.03.11-18.08.13:613][718]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2020.03.11-18.08.13:634][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.03.11-18.08.13:636][718]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.03.11-18.08.51:653][912]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.11-18.08.55:739][157]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.11-18.09.04:888][691]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.11-18.09.39:577][768]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.11-18.09.41:614][884]MapCheck: New page: Map Check
+[2020.03.11-18.09.41:633][884]LightingResults: New page: Lighting Build - Mar 11, 2020, 8:09:41 AM
+[2020.03.11-18.09.41:641][884]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.11-18.09.41:644][884]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.11-18.09.41:644][884]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.11-18.09.41:645][884]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.11-18.09.41:645][884]LogSwarmInterface: [TryOpenConnection] Local Process ID is 400
+[2020.03.11-18.09.46:157][884]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.03.11-18.09.46:157][884]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.11-18.09.46:157][884]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.11-18.09.46:157][884]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.11-18.09.46:157][884]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.11-18.09.46:157][884]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.11-18.09.46:264][884]LogEditorBuildUtils: Build time 0:04
+[2020.03.11-18.09.46:331][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.03.11-18.10.16:269][587]Job is a success!
+[2020.03.11-18.10.16:606][588]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.139s
+[2020.03.11-18.10.16:606][588]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.03.11-18.10.16:606][588]LogVolumetricLightmapImport:      BrickData (all levels) 2.3Mb
+[2020.03.11-18.10.16:606][588]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.11-18.10.16:606][588]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2020.03.11-18.10.16:606][588]LogVolumetricLightmapImport:          1: 15.6% covering 10.7% of volume
+[2020.03.11-18.10.16:606][588]LogVolumetricLightmapImport:          2: 82.1% covering 0.9% of volume
+[2020.03.11-18.10.16:606][588]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.11-18.10.16:606][588]LogVolumetricLightmapImport:          Town_1 			 352 bricks 	 100.0% (Persistent Level)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 128X128)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 128X128)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 128X128)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 128X128)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 128X128)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 128X128)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 512X512)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 512X512)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 128X128)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 128X128)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 128X128)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 128X128)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 128X128)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 128X128)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 128X128)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 128X128)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 128X128)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 128X128)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 128X128)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 128X128)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 128X128)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 128X128)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 512X512)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 512X512)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 256X256)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 256X256)
+[2020.03.11-18.10.19:302][588]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 128X128)
+[2020.03.11-18.10.19:303][588]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 128X128)
+[2020.03.11-18.10.19:303][588]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 256X256)
+[2020.03.11-18.10.19:303][588]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 256X256)
+[2020.03.11-18.10.19:502][588]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 64X64)
+[2020.03.11-18.10.19:502][588]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 64X64)
+[2020.03.11-18.10.19:502][588]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 64X64)
+[2020.03.11-18.10.19:502][588]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 64X64)
+[2020.03.11-18.10.19:502][588]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 64X64)
+[2020.03.11-18.10.19:502][588]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 64X64)
+[2020.03.11-18.10.19:503][588]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 64X64)
+[2020.03.11-18.10.19:503][588]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 64X64)
+[2020.03.11-18.10.19:503][588]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 64X64)
+[2020.03.11-18.10.19:503][588]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 64X64)
+[2020.03.11-18.10.19:503][588]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (BGRA8, 64X64)
+[2020.03.11-18.10.19:503][588]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 64X64)
+[2020.03.11-18.10.19:503][588]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X128)
+[2020.03.11-18.10.19:503][588]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (BGRA8, 1024X64)
+[2020.03.11-18.10.19:503][588]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 1024X128)
+[2020.03.11-18.10.19:503][588]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 1024X128)
+[2020.03.11-18.10.19:503][588]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X256)
+[2020.03.11-18.10.20:109][588]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2020.03.11-18.10.20:109][588]Lightmass on DESKTOP-IFJPMID: 31.9 sec total, 265 ms importing, 159 ms setup, 3.68 sec photons, 27.8 sec processing, 0 ms extra exporting [488/488 mappings]. Threads: 3:14 min total, 2:14 min processing.
+[2020.03.11-18.10.20:548][588]LogStaticLightingSystem: Town_1_BuiltData storing lightmap data for 488 meshes in 36 LightmapResourceClusters (13.6 Meshes per cluster).
+[2020.03.11-18.10.20:598][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.03.11-18.10.20:612][588]LogStaticLightingSystem: Illumination: 38.9 sec (2.37 sec encoding lightmaps, 222 ms encoding shadowmaps)
+[2020.03.11-18.10.20:612][588]LogStaticLightingSystem: Lightmap texture memory:  9.6 MB (9.6 MB streaming, 0.0 MB non-streaming), 40 textures
+[2020.03.11-18.10.20:612][588]LogStaticLightingSystem: Shadowmap texture memory: 7.1 MB (7.1 MB streaming, 0.0 MB non-streaming), 18 textures
+[2020.03.11-18.10.21:187][588]DumpUnbuiltLightIteractions
+[2020.03.11-18.10.21:187][588]Lights with unbuilt interactions: 0
+[2020.03.11-18.10.21:187][588]
+[2020.03.11-18.10.21:187][588]Primitives with unbuilt interactions: 0
+[2020.03.11-18.10.21:267][589]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.11-18.10.21:267][589]MapCheck: New page: Town_1 - Mar 11, 2020, 8:10:21 AM
+[2020.03.11-18.10.21:269][589]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.218ms to complete.
+[2020.03.11-18.10.32:208][242]Cmd: DELETE
+[2020.03.11-18.10.32:208][242]Cmd: ACTOR DELETE
+[2020.03.11-18.10.32:216][242]LogEditorActor: Deleted Actor: PostProcessVolume
+[2020.03.11-18.10.32:239][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.11-18.10.32:240][242]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.03.11-18.10.38:925][643]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.10.38:931][643]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.10.48:930][212]Cmd: DELETE
+[2020.03.11-18.10.48:930][212]Cmd: ACTOR DELETE
+[2020.03.11-18.10.48:937][212]LogEditorActor: Deleted Actor: LightmassCharacterIndirectDetailVolume
+[2020.03.11-18.10.48:957][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.03.11-18.10.48:958][212]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.03.11-18.10.54:539][547]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Rendering/LightingAndShadows/IndirectLightingCache/index.html?utm_source=editor&utm_medium=docs&utm_campaign=rich_tooltips
+[2020.03.11-18.11.44:518][957]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.11-18.12.01:628][983]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.11-18.12.11:545][578]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.11-18.12.29:171][ 81]Cmd: DELETE
+[2020.03.11-18.12.29:171][ 81]Cmd: ACTOR DELETE
+[2020.03.11-18.12.29:177][ 81]LogEditorActor: Deleted Actor: LightmassCharacterIndirectDetailVolume
+[2020.03.11-18.12.29:201][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.03.11-18.12.29:203][ 81]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.03.11-18.12.32:310][268]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.11-18.12.54:431][593]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.03.11-18.13.26:206][ 46]MapCheck: New page: Map Check
+[2020.03.11-18.13.26:221][ 46]LightingResults: New page: Lighting Build - Mar 11, 2020, 8:13:26 AM
+[2020.03.11-18.13.26:229][ 46]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.11-18.13.26:232][ 46]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.11-18.13.26:232][ 46]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.11-18.13.26:233][ 46]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.11-18.13.26:233][ 46]LogSwarmInterface: [TryOpenConnection] Local Process ID is 400
+[2020.03.11-18.13.30:743][ 46]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.03.11-18.13.30:744][ 46]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.11-18.13.30:744][ 46]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.11-18.13.30:744][ 46]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.11-18.13.30:744][ 46]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.11-18.13.30:744][ 46]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.11-18.13.30:861][ 46]LogEditorBuildUtils: Build time 0:04
+[2020.03.11-18.13.30:919][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.03.11-18.14.07:451][211]Job is a success!
+[2020.03.11-18.14.07:783][212]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.145s
+[2020.03.11-18.14.07:783][212]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.03.11-18.14.07:783][212]LogVolumetricLightmapImport:      BrickData (all levels) 2.3Mb
+[2020.03.11-18.14.07:783][212]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.11-18.14.07:783][212]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2020.03.11-18.14.07:783][212]LogVolumetricLightmapImport:          1: 15.7% covering 10.7% of volume
+[2020.03.11-18.14.07:783][212]LogVolumetricLightmapImport:          2: 82.1% covering 0.9% of volume
+[2020.03.11-18.14.07:783][212]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.11-18.14.07:783][212]LogVolumetricLightmapImport:          Town_1 			 351 bricks 	 100.0% (Persistent Level)
+[2020.03.11-18.14.08:134][212]LightingResults: Warning: PointLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 128X128)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 128X128)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 128X128)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 128X128)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 128X128)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 128X128)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 128X128)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 128X128)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 512X512)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 512X512)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 128X128)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 128X128)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 128X128)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 128X128)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 128X128)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 128X128)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 128X128)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 128X128)
+[2020.03.11-18.14.10:416][212]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 1024X1024)
+[2020.03.11-18.14.10:417][212]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 1024X1024)
+[2020.03.11-18.14.10:417][212]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 128X128)
+[2020.03.11-18.14.10:417][212]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 128X128)
+[2020.03.11-18.14.10:417][212]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 128X128)
+[2020.03.11-18.14.10:417][212]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 128X128)
+[2020.03.11-18.14.10:417][212]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 128X128)
+[2020.03.11-18.14.10:417][212]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 128X128)
+[2020.03.11-18.14.10:417][212]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 512X512)
+[2020.03.11-18.14.10:417][212]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 512X512)
+[2020.03.11-18.14.10:417][212]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 256X256)
+[2020.03.11-18.14.10:417][212]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 256X256)
+[2020.03.11-18.14.10:417][212]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 128X128)
+[2020.03.11-18.14.10:417][212]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 128X128)
+[2020.03.11-18.14.10:417][212]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 256X256)
+[2020.03.11-18.14.10:417][212]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 256X256)
+[2020.03.11-18.14.11:148][212]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (BGRA8, 64X64)
+[2020.03.11-18.14.11:148][212]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 64X64)
+[2020.03.11-18.14.11:148][212]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (BGRA8, 64X64)
+[2020.03.11-18.14.11:148][212]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (BGRA8, 64X64)
+[2020.03.11-18.14.11:148][212]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 64X64)
+[2020.03.11-18.14.11:148][212]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 64X64)
+[2020.03.11-18.14.11:148][212]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 64X64)
+[2020.03.11-18.14.11:148][212]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (BGRA8, 64X64)
+[2020.03.11-18.14.11:148][212]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 64X64)
+[2020.03.11-18.14.11:148][212]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 64X64)
+[2020.03.11-18.14.11:148][212]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (BGRA8, 64X64)
+[2020.03.11-18.14.11:148][212]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 64X64)
+[2020.03.11-18.14.11:148][212]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (BGRA8, 1024X128)
+[2020.03.11-18.14.11:148][212]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (BGRA8, 1024X64)
+[2020.03.11-18.14.11:148][212]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 1024X128)
+[2020.03.11-18.14.11:148][212]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 1024X128)
+[2020.03.11-18.14.11:148][212]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (BGRA8, 1024X256)
+[2020.03.11-18.14.11:148][212]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (BGRA8, 1024X1024)
+[2020.03.11-18.14.11:148][212]Lightmass on DESKTOP-IFJPMID: 38.3 sec total, 274 ms importing, 160 ms setup, 4.64 sec photons, 33.2 sec processing, 0 ms extra exporting [488/488 mappings]. Threads: 3:52 min total, 2:44 min processing.
+[2020.03.11-18.14.11:183][212]LogStaticLightingSystem: Town_1_BuiltData storing lightmap data for 488 meshes in 36 LightmapResourceClusters (13.6 Meshes per cluster).
+[2020.03.11-18.14.11:234][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.03.11-18.14.11:254][212]LogStaticLightingSystem: Illumination: 45.0 sec (2.29 sec encoding lightmaps, 176 ms encoding shadowmaps)
+[2020.03.11-18.14.11:254][212]LogStaticLightingSystem: Lightmap texture memory:  9.6 MB (9.6 MB streaming, 0.0 MB non-streaming), 40 textures
+[2020.03.11-18.14.11:254][212]LogStaticLightingSystem: Shadowmap texture memory: 8.1 MB (8.1 MB streaming, 0.0 MB non-streaming), 18 textures
+[2020.03.11-18.14.16:784][212]DumpUnbuiltLightIteractions
+[2020.03.11-18.14.16:784][212]Lights with unbuilt interactions: 0
+[2020.03.11-18.14.16:784][212]
+[2020.03.11-18.14.16:784][212]Primitives with unbuilt interactions: 0
+[2020.03.11-18.14.16:865][213]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.11-18.14.16:865][213]MapCheck: New page: Town_1 - Mar 11, 2020, 8:14:16 AM
+[2020.03.11-18.14.16:868][213]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.063ms to complete.
+[2020.03.11-18.14.27:106][414]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.03.11-18.14.27:550][465]Cmd: DELETE
+[2020.03.11-18.14.27:550][465]Cmd: ACTOR DELETE
+[2020.03.11-18.14.27:562][465]LogEditorActor: Deleted Actor: PointLight
+[2020.03.11-18.14.27:583][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.03.11-18.14.27:585][465]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.03.11-18.14.28:629][590]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2020.03.11-18.14.28:782][606]Cmd: DELETE
+[2020.03.11-18.14.28:782][606]Cmd: ACTOR DELETE
+[2020.03.11-18.14.28:788][606]LogEditorActor: Deleted Actor: PointLight
+[2020.03.11-18.14.28:810][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.11-18.14.28:811][606]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2020.03.11-18.14.32:741][ 77]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2020.03.11-18.14.33:519][168]Cmd: DELETE
+[2020.03.11-18.14.33:519][168]Cmd: ACTOR DELETE
+[2020.03.11-18.14.33:525][168]LogEditorActor: Deleted Actor: PointLight
+[2020.03.11-18.14.33:546][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.11-18.14.33:546][168]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.03.11-18.14.34:656][301]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.11-18.14.34:825][319]Cmd: DELETE
+[2020.03.11-18.14.34:825][319]Cmd: ACTOR DELETE
+[2020.03.11-18.14.34:832][319]LogEditorActor: Deleted Actor: PointLight
+[2020.03.11-18.14.34:852][319]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.11-18.14.34:853][319]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2020.03.11-18.14.35:871][441]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.14.35:877][441]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.14.43:315][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.03.11-18.14.43:352][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.11-18.14.43:373][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.11-18.14.46:768][235]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_121153D22493BD89FCA7E029925AE5FB6.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.11-18.14.46:785][235]LogFileHelpers: Saving map 'Town_1' took 3.434
+[2020.03.11-18.14.46:786][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1_BuiltData" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset" SILENT=true
+[2020.03.11-18.14.49:984][235]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_BuiltData5EAF77C6487F92436261BF8ED929CDBF.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset'
+[2020.03.11-18.14.49:989][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1_BuiltData" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset" SILENT=true
+[2020.03.11-18.14.52:546][235]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_BuiltData74C7B89F4596966568054EACEF3DCF3A.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset'
+[2020.03.11-18.14.52:577][235]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.11-18.14.52:577][235]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.11-18.14.52:577][235]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Town_1_BuiltData.Town_1_BuiltData
+[2020.03.11-18.15.06:643][885]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.11-18.15.49:295][894]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.11-18.15.51:065][103]Cmd: DELETE
+[2020.03.11-18.15.51:065][103]Cmd: ACTOR DELETE
+[2020.03.11-18.15.51:071][103]LogEditorActor: Deleted Actor: PointLight
+[2020.03.11-18.15.51:094][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.03.11-18.15.51:095][103]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.03.11-18.16.06:737][921]MapCheck: New page: Map Check
+[2020.03.11-18.16.06:754][921]LightingResults: New page: Lighting Build - Mar 11, 2020, 8:16:06 AM
+[2020.03.11-18.16.06:762][921]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.11-18.16.06:765][921]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.11-18.16.06:765][921]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.11-18.16.06:766][921]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.11-18.16.06:766][921]LogSwarmInterface: [TryOpenConnection] Local Process ID is 400
+[2020.03.11-18.16.11:280][921]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.03.11-18.16.11:280][921]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.11-18.16.11:280][921]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.11-18.16.11:280][921]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.11-18.16.11:280][921]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.11-18.16.11:280][921]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.11-18.16.11:400][921]LogEditorBuildUtils: Build time 0:04
+[2020.03.11-18.16.11:475][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.03.11-18.16.42:096][194]Job is a success!
+[2020.03.11-18.16.42:429][195]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.141s
+[2020.03.11-18.16.42:429][195]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.03.11-18.16.42:429][195]LogVolumetricLightmapImport:      BrickData (all levels) 2.3Mb
+[2020.03.11-18.16.42:429][195]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.11-18.16.42:429][195]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2020.03.11-18.16.42:429][195]LogVolumetricLightmapImport:          1: 15.7% covering 10.7% of volume
+[2020.03.11-18.16.42:429][195]LogVolumetricLightmapImport:          2: 82.1% covering 0.9% of volume
+[2020.03.11-18.16.42:429][195]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.11-18.16.42:429][195]LogVolumetricLightmapImport:          Town_1 			 351 bricks 	 100.0% (Persistent Level)
+[2020.03.11-18.16.45:122][195]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.03.11-18.16.45:122][195]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 128X128)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 128X128)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 128X128)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 128X128)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 128X128)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 128X128)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 512X512)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 512X512)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 128X128)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 128X128)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 128X128)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 128X128)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 128X128)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 128X128)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 128X128)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 128X128)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 128X128)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 128X128)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 128X128)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 128X128)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 128X128)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 128X128)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 512X512)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 512X512)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 256X256)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 256X256)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 128X128)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 256X256)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 256X256)
+[2020.03.11-18.16.45:123][195]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 128X128)
+[2020.03.11-18.16.45:323][195]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (BGRA8, 64X64)
+[2020.03.11-18.16.45:323][195]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 64X64)
+[2020.03.11-18.16.45:323][195]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (G8, 64X64)
+[2020.03.11-18.16.45:323][195]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (G8, 64X64)
+[2020.03.11-18.16.45:323][195]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (G8, 64X64)
+[2020.03.11-18.16.45:323][195]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (G8, 64X64)
+[2020.03.11-18.16.45:323][195]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (G8, 64X64)
+[2020.03.11-18.16.45:323][195]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (G8, 64X64)
+[2020.03.11-18.16.45:323][195]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (G8, 64X64)
+[2020.03.11-18.16.45:323][195]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (G8, 64X64)
+[2020.03.11-18.16.45:323][195]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (G8, 64X64)
+[2020.03.11-18.16.45:323][195]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (G8, 64X64)
+[2020.03.11-18.16.45:323][195]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (G8, 1024X64)
+[2020.03.11-18.16.45:323][195]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 1024X128)
+[2020.03.11-18.16.45:323][195]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 1024X128)
+[2020.03.11-18.16.45:323][195]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (G8, 1024X64)
+[2020.03.11-18.16.45:323][195]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (G8, 1024X128)
+[2020.03.11-18.16.45:945][195]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (BGRA8, 1024X1024)
+[2020.03.11-18.16.45:945][195]Lightmass on DESKTOP-IFJPMID: 32.6 sec total, 236 ms importing, 140 ms setup, 3.23 sec photons, 28.9 sec processing, 0 ms extra exporting [488/488 mappings]. Threads: 3:22 min total, 2:19 min processing.
+[2020.03.11-18.16.45:988][195]LogStaticLightingSystem: Town_1_BuiltData storing lightmap data for 488 meshes in 36 LightmapResourceClusters (13.6 Meshes per cluster).
+[2020.03.11-18.16.46:038][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.03.11-18.16.46:058][195]LogStaticLightingSystem: Illumination: 39.2 sec (2.37 sec encoding lightmaps, 246 ms encoding shadowmaps)
+[2020.03.11-18.16.46:058][195]LogStaticLightingSystem: Lightmap texture memory:  9.6 MB (9.6 MB streaming, 0.0 MB non-streaming), 40 textures
+[2020.03.11-18.16.46:058][195]LogStaticLightingSystem: Shadowmap texture memory: 6.1 MB (6.1 MB streaming, 0.0 MB non-streaming), 18 textures
+[2020.03.11-18.16.51:319][195]DumpUnbuiltLightIteractions
+[2020.03.11-18.16.51:319][195]Lights with unbuilt interactions: 0
+[2020.03.11-18.16.51:319][195]
+[2020.03.11-18.16.51:319][195]Primitives with unbuilt interactions: 0
+[2020.03.11-18.16.51:393][196]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.11-18.16.51:393][196]MapCheck: New page: Town_1 - Mar 11, 2020, 8:16:51 AM
+[2020.03.11-18.16.51:396][196]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.937ms to complete.
+[2020.03.11-18.16.57:668][876]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.16.57:672][876]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.17.55:433][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.03.11-18.17.55:463][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.11-18.17.55:486][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.11-18.17.58:816][540]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_18ACEF695468D5CAECBAAA3AC280496B4.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.11-18.17.58:832][540]LogFileHelpers: Saving map 'Town_1' took 3.370
+[2020.03.11-18.17.58:832][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1_BuiltData" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset" SILENT=true
+[2020.03.11-18.18.01:401][540]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_BuiltData00F166444C686F7068536EB91B355AD2.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset'
+[2020.03.11-18.18.01:407][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1_BuiltData" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset" SILENT=true
+[2020.03.11-18.18.03:985][540]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_BuiltData50AB7C3246090D10E16DD79901C096C9.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset'
+[2020.03.11-18.18.04:013][540]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.11-18.18.04:013][540]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.11-18.18.04:014][540]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Town_1_BuiltData.Town_1_BuiltData
+[2020.03.11-18.18.05:950][734]LogAIModule: Creating AISystem for world Demonstration
+[2020.03.11-18.18.05:970][734]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PolygonWestern/Maps/Demonstration.Demonstration
+[2020.03.11-18.18.06:000][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.03.11-18.18.06:002][734]Cmd: MAP LOAD FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/PolygonWestern/Maps/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.11-18.18.06:002][734]LightingResults: New page: Lighting Build
+[2020.03.11-18.18.06:003][734]LoadErrors: New page: Loading map: Demonstration.umap
+[2020.03.11-18.18.06:006][734]LogWorld: UWorld::CleanupWorld for Town_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-18.18.06:006][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-18.18.06:006][734]MapCheck: New page: Map Check
+[2020.03.11-18.18.06:006][734]LightingResults: New page: Lighting Build
+[2020.03.11-18.18.06:031][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.03.11-18.18.06:339][734]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.11-18.18.06:372][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.03.11-18.18.06:386][734]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.11-18.18.06:386][734]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.235ms to complete.
+[2020.03.11-18.18.06:386][734]LogFileHelpers: Loading map 'Demonstration' took 0.385
+[2020.03.11-18.18.09:788][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Door_02_Glass)
+[2020.03.11-18.18.11:226][221]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.11-18.18.41:551][756]LogAIModule: Creating AISystem for world Town_1
+[2020.03.11-18.18.41:566][756]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Town_1.Town_1
+[2020.03.11-18.18.41:587][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.03.11-18.18.41:589][756]Cmd: MAP LOAD FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.11-18.18.41:589][756]LightingResults: New page: Lighting Build
+[2020.03.11-18.18.41:590][756]LoadErrors: New page: Loading map: Town_1.umap
+[2020.03.11-18.18.41:596][756]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-18.18.41:596][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.11-18.18.41:596][756]MapCheck: New page: Map Check
+[2020.03.11-18.18.41:596][756]LightingResults: New page: Lighting Build
+[2020.03.11-18.18.41:628][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.03.11-18.18.42:030][756]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.11-18.18.42:058][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.03.11-18.18.42:071][756]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.11-18.18.42:071][756]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.185ms to complete.
+[2020.03.11-18.18.42:071][756]LogFileHelpers: Loading map 'Town_1' took 0.483
+[2020.03.11-18.18.44:209][  5]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.11-18.19.47:993][381]Cmd: DELETE
+[2020.03.11-18.19.47:993][381]Cmd: ACTOR DELETE
+[2020.03.11-18.19.48:000][381]LogEditorActor: Deleted Actor: SkyLight
+[2020.03.11-18.19.48:021][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.03.11-18.19.48:023][381]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.03.11-18.21.03:898][352]MapCheck: New page: Map Check
+[2020.03.11-18.21.03:913][352]LightingResults: New page: Lighting Build - Mar 11, 2020, 8:21:03 AM
+[2020.03.11-18.21.03:921][352]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.11-18.21.03:924][352]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.11-18.21.03:924][352]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.11-18.21.03:925][352]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.11-18.21.03:925][352]LogSwarmInterface: [TryOpenConnection] Local Process ID is 400
+[2020.03.11-18.21.08:437][352]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.03.11-18.21.08:438][352]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.11-18.21.08:438][352]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.11-18.21.08:438][352]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.11-18.21.08:438][352]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.11-18.21.08:438][352]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.11-18.21.08:544][352]LogEditorBuildUtils: Build time 0:04
+[2020.03.11-18.21.08:605][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.03.11-18.21.39:348][ 50]Job is a success!
+[2020.03.11-18.21.39:686][ 52]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.148s
+[2020.03.11-18.21.39:686][ 52]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.03.11-18.21.39:686][ 52]LogVolumetricLightmapImport:      BrickData (all levels) 2.3Mb
+[2020.03.11-18.21.39:686][ 52]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.11-18.21.39:686][ 52]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2020.03.11-18.21.39:686][ 52]LogVolumetricLightmapImport:          1: 15.6% covering 10.7% of volume
+[2020.03.11-18.21.39:686][ 52]LogVolumetricLightmapImport:          2: 82.1% covering 0.9% of volume
+[2020.03.11-18.21.39:686][ 52]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.11-18.21.39:686][ 52]LogVolumetricLightmapImport:          Town_1 			 352 bricks 	 100.0% (Persistent Level)
+[2020.03.11-18.21.42:323][ 52]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.03.11-18.21.42:323][ 52]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.03.11-18.21.42:323][ 52]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.03.11-18.21.42:323][ 52]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.03.11-18.21.42:323][ 52]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.03.11-18.21.42:323][ 52]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.03.11-18.21.42:323][ 52]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 128X128)
+[2020.03.11-18.21.42:323][ 52]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 128X128)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 128X128)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 128X128)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 128X128)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 128X128)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 128X128)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 128X128)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 512X512)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 512X512)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 128X128)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 128X128)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 128X128)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 128X128)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 128X128)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 128X128)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 128X128)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 128X128)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 1024X1024)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 1024X1024)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 128X128)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 128X128)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 128X128)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 128X128)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 128X128)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 128X128)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 512X512)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 512X512)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 256X256)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 256X256)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 128X128)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 128X128)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 256X256)
+[2020.03.11-18.21.42:324][ 52]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 256X256)
+[2020.03.11-18.21.42:531][ 52]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 64X64)
+[2020.03.11-18.21.42:531][ 52]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 64X64)
+[2020.03.11-18.21.42:531][ 52]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 64X64)
+[2020.03.11-18.21.42:531][ 52]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 64X64)
+[2020.03.11-18.21.42:531][ 52]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 64X64)
+[2020.03.11-18.21.42:531][ 52]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 64X64)
+[2020.03.11-18.21.42:531][ 52]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 64X64)
+[2020.03.11-18.21.42:531][ 52]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 64X64)
+[2020.03.11-18.21.42:531][ 52]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 64X64)
+[2020.03.11-18.21.42:531][ 52]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 64X64)
+[2020.03.11-18.21.42:532][ 52]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 64X64)
+[2020.03.11-18.21.42:532][ 52]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 64X64)
+[2020.03.11-18.21.42:532][ 52]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (BGRA8, 1024X64)
+[2020.03.11-18.21.42:532][ 52]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (BGRA8, 1024X64)
+[2020.03.11-18.21.42:532][ 52]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X128)
+[2020.03.11-18.21.42:532][ 52]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 1024X128)
+[2020.03.11-18.21.42:532][ 52]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X256)
+[2020.03.11-18.21.42:532][ 52]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2020.03.11-18.21.43:113][ 52]Lightmass on DESKTOP-IFJPMID: 32.7 sec total, 285 ms importing, 164 ms setup, 3.72 sec photons, 28.5 sec processing, 0 ms extra exporting [488/488 mappings]. Threads: 3:19 min total, 2:19 min processing.
+[2020.03.11-18.21.43:148][ 52]LogStaticLightingSystem: Town_1_BuiltData storing lightmap data for 488 meshes in 36 LightmapResourceClusters (13.6 Meshes per cluster).
+[2020.03.11-18.21.43:199][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.03.11-18.21.43:215][ 52]LogStaticLightingSystem: Illumination: 39.2 sec (2.32 sec encoding lightmaps, 196 ms encoding shadowmaps)
+[2020.03.11-18.21.43:215][ 52]LogStaticLightingSystem: Lightmap texture memory:  9.6 MB (9.6 MB streaming, 0.0 MB non-streaming), 40 textures
+[2020.03.11-18.21.43:215][ 52]LogStaticLightingSystem: Shadowmap texture memory: 6.7 MB (6.7 MB streaming, 0.0 MB non-streaming), 18 textures
+[2020.03.11-18.21.48:475][ 52]DumpUnbuiltLightIteractions
+[2020.03.11-18.21.48:475][ 52]Lights with unbuilt interactions: 0
+[2020.03.11-18.21.48:475][ 52]
+[2020.03.11-18.21.48:475][ 52]Primitives with unbuilt interactions: 0
+[2020.03.11-18.21.48:545][ 53]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.11-18.21.48:545][ 53]MapCheck: New page: Town_1 - Mar 11, 2020, 8:21:48 AM
+[2020.03.11-18.21.48:548][ 53]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.014ms to complete.
+[2020.03.11-18.21.51:889][435]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.21.51:893][435]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.22.08:609][433]Cmd: DELETE
+[2020.03.11-18.22.08:609][433]Cmd: ACTOR DELETE
+[2020.03.11-18.22.08:616][433]LogEditorActor: Deleted Actor: PointLight
+[2020.03.11-18.22.08:639][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.03.11-18.22.08:641][433]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.03.11-18.22.09:380][522]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.11-18.22.51:864][594]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.11-18.23.03:835][979]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.11-18.23.22:162][150]MapCheck: New page: Map Check
+[2020.03.11-18.23.22:182][150]LightingResults: New page: Lighting Build - Mar 11, 2020, 8:23:22 AM
+[2020.03.11-18.23.22:190][150]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.11-18.23.22:193][150]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.11-18.23.22:193][150]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.11-18.23.22:194][150]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.11-18.23.22:194][150]LogSwarmInterface: [TryOpenConnection] Local Process ID is 400
+[2020.03.11-18.23.26:708][150]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.03.11-18.23.26:708][150]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.11-18.23.26:708][150]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.11-18.23.26:708][150]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.11-18.23.26:708][150]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.11-18.23.26:708][150]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.11-18.23.26:819][150]LogEditorBuildUtils: Build time 0:04
+[2020.03.11-18.23.26:868][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.03.11-18.24.00:080][ 82]Job is a success!
+[2020.03.11-18.24.00:417][ 83]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.144s
+[2020.03.11-18.24.00:417][ 83]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.03.11-18.24.00:417][ 83]LogVolumetricLightmapImport:      BrickData (all levels) 2.3Mb
+[2020.03.11-18.24.00:417][ 83]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.11-18.24.00:417][ 83]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2020.03.11-18.24.00:417][ 83]LogVolumetricLightmapImport:          1: 15.7% covering 10.7% of volume
+[2020.03.11-18.24.00:417][ 83]LogVolumetricLightmapImport:          2: 82.0% covering 0.9% of volume
+[2020.03.11-18.24.00:417][ 83]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.11-18.24.00:417][ 83]LogVolumetricLightmapImport:          Town_1 			 350 bricks 	 100.0% (Persistent Level)
+[2020.03.11-18.24.00:768][ 83]LightingResults: Warning: PointLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.24.00:768][ 83]LightingResults: Warning: PointLight5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.24.03:089][ 83]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.03.11-18.24.03:089][ 83]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.03.11-18.24.03:089][ 83]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.03.11-18.24.03:089][ 83]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.03.11-18.24.03:089][ 83]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.03.11-18.24.03:089][ 83]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.03.11-18.24.03:089][ 83]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 128X128)
+[2020.03.11-18.24.03:089][ 83]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 128X128)
+[2020.03.11-18.24.03:089][ 83]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 128X128)
+[2020.03.11-18.24.03:089][ 83]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 128X128)
+[2020.03.11-18.24.03:089][ 83]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 128X128)
+[2020.03.11-18.24.03:089][ 83]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 128X128)
+[2020.03.11-18.24.03:089][ 83]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2020.03.11-18.24.03:089][ 83]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2020.03.11-18.24.03:089][ 83]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 512X512)
+[2020.03.11-18.24.03:089][ 83]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 512X512)
+[2020.03.11-18.24.03:089][ 83]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 128X128)
+[2020.03.11-18.24.03:089][ 83]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 128X128)
+[2020.03.11-18.24.03:090][ 83]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 128X128)
+[2020.03.11-18.24.03:090][ 83]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 128X128)
+[2020.03.11-18.24.03:090][ 83]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 128X128)
+[2020.03.11-18.24.03:090][ 83]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 128X128)
+[2020.03.11-18.24.03:090][ 83]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 128X128)
+[2020.03.11-18.24.03:090][ 83]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 128X128)
+[2020.03.11-18.24.03:090][ 83]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2020.03.11-18.24.03:090][ 83]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2020.03.11-18.24.03:090][ 83]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 128X128)
+[2020.03.11-18.24.03:090][ 83]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 128X128)
+[2020.03.11-18.24.03:090][ 83]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 128X128)
+[2020.03.11-18.24.03:090][ 83]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 128X128)
+[2020.03.11-18.24.03:090][ 83]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 128X128)
+[2020.03.11-18.24.03:090][ 83]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 128X128)
+[2020.03.11-18.24.03:090][ 83]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 512X512)
+[2020.03.11-18.24.03:090][ 83]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 512X512)
+[2020.03.11-18.24.03:090][ 83]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 256X256)
+[2020.03.11-18.24.03:090][ 83]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 256X256)
+[2020.03.11-18.24.03:090][ 83]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 128X128)
+[2020.03.11-18.24.03:090][ 83]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 128X128)
+[2020.03.11-18.24.03:090][ 83]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 256X256)
+[2020.03.11-18.24.03:090][ 83]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 256X256)
+[2020.03.11-18.24.03:289][ 83]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 64X64)
+[2020.03.11-18.24.03:289][ 83]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 64X64)
+[2020.03.11-18.24.03:289][ 83]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 64X64)
+[2020.03.11-18.24.03:289][ 83]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 64X64)
+[2020.03.11-18.24.03:289][ 83]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 1024X128)
+[2020.03.11-18.24.03:289][ 83]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 64X64)
+[2020.03.11-18.24.03:289][ 83]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 64X64)
+[2020.03.11-18.24.03:289][ 83]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 64X64)
+[2020.03.11-18.24.03:289][ 83]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 64X64)
+[2020.03.11-18.24.03:289][ 83]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 64X64)
+[2020.03.11-18.24.03:289][ 83]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 64X64)
+[2020.03.11-18.24.03:289][ 83]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 64X64)
+[2020.03.11-18.24.03:289][ 83]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 64X64)
+[2020.03.11-18.24.03:289][ 83]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 1024X256)
+[2020.03.11-18.24.03:289][ 83]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (BGRA8, 1024X256)
+[2020.03.11-18.24.03:289][ 83]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 1024X128)
+[2020.03.11-18.24.03:289][ 83]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (BGRA8, 1024X128)
+[2020.03.11-18.24.04:114][ 83]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (BGRA8, 1024X1024)
+[2020.03.11-18.24.04:114][ 83]Lightmass on DESKTOP-IFJPMID: 35.2 sec total, 275 ms importing, 158 ms setup, 3.85 sec photons, 30.8 sec processing, 0 ms extra exporting [488/488 mappings]. Threads: 3:36 min total, 2:33 min processing.
+[2020.03.11-18.24.04:158][ 83]LogStaticLightingSystem: Town_1_BuiltData storing lightmap data for 488 meshes in 36 LightmapResourceClusters (13.6 Meshes per cluster).
+[2020.03.11-18.24.04:200][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.03.11-18.24.04:218][ 83]LogStaticLightingSystem: Illumination: 42.0 sec (2.32 sec encoding lightmaps, 221 ms encoding shadowmaps)
+[2020.03.11-18.24.04:218][ 83]LogStaticLightingSystem: Lightmap texture memory:  9.6 MB (9.6 MB streaming, 0.0 MB non-streaming), 40 textures
+[2020.03.11-18.24.04:218][ 83]LogStaticLightingSystem: Shadowmap texture memory: 8.1 MB (8.1 MB streaming, 0.0 MB non-streaming), 18 textures
+[2020.03.11-18.24.09:745][ 83]DumpUnbuiltLightIteractions
+[2020.03.11-18.24.09:745][ 83]Lights with unbuilt interactions: 0
+[2020.03.11-18.24.09:745][ 83]
+[2020.03.11-18.24.09:745][ 83]Primitives with unbuilt interactions: 0
+[2020.03.11-18.24.09:808][ 84]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.11-18.24.09:809][ 84]MapCheck: New page: Town_1 - Mar 11, 2020, 8:24:09 AM
+[2020.03.11-18.24.09:811][ 84]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.608ms to complete.
+[2020.03.11-18.24.13:927][550]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.24.13:931][550]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.24.42:225][911]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.11-18.25.06:829][717]MapCheck: New page: Map Check
+[2020.03.11-18.25.06:845][717]LightingResults: New page: Lighting Build - Mar 11, 2020, 8:25:06 AM
+[2020.03.11-18.25.06:853][717]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.11-18.25.06:855][717]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.11-18.25.06:855][717]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.11-18.25.06:856][717]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.11-18.25.06:856][717]LogSwarmInterface: [TryOpenConnection] Local Process ID is 400
+[2020.03.11-18.25.11:371][717]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.03.11-18.25.11:372][717]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.11-18.25.11:372][717]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.11-18.25.11:372][717]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.11-18.25.11:372][717]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.11-18.25.11:372][717]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.11-18.25.11:487][717]LogEditorBuildUtils: Build time 0:04
+[2020.03.11-18.25.11:557][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.03.11-18.25.43:899][534]Job is a success!
+[2020.03.11-18.25.44:227][536]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.140s
+[2020.03.11-18.25.44:227][536]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.03.11-18.25.44:227][536]LogVolumetricLightmapImport:      BrickData (all levels) 2.3Mb
+[2020.03.11-18.25.44:227][536]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.11-18.25.44:227][536]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2020.03.11-18.25.44:227][536]LogVolumetricLightmapImport:          1: 15.7% covering 10.7% of volume
+[2020.03.11-18.25.44:227][536]LogVolumetricLightmapImport:          2: 82.0% covering 0.9% of volume
+[2020.03.11-18.25.44:227][536]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.11-18.25.44:227][536]LogVolumetricLightmapImport:          Town_1 			 350 bricks 	 100.0% (Persistent Level)
+[2020.03.11-18.25.44:566][536]LightingResults: Warning: PointLight3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.25.44:566][536]LightingResults: Warning: PointLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.25.46:884][536]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.03.11-18.25.46:884][536]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.03.11-18.25.46:884][536]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.03.11-18.25.46:884][536]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.03.11-18.25.46:884][536]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.03.11-18.25.46:884][536]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.03.11-18.25.46:884][536]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 128X128)
+[2020.03.11-18.25.46:884][536]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 128X128)
+[2020.03.11-18.25.46:884][536]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 128X128)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 128X128)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 128X128)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 128X128)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 128X128)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 128X128)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 512X512)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 512X512)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 128X128)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 128X128)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 128X128)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 128X128)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 128X128)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 128X128)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 128X128)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 128X128)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 1024X1024)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 1024X1024)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 128X128)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 128X128)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 128X128)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 128X128)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 128X128)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 128X128)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 512X512)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 512X512)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 256X256)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 256X256)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 128X128)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 128X128)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 256X256)
+[2020.03.11-18.25.46:885][536]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 256X256)
+[2020.03.11-18.25.47:084][536]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 64X64)
+[2020.03.11-18.25.47:084][536]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 64X64)
+[2020.03.11-18.25.47:084][536]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (G8, 64X64)
+[2020.03.11-18.25.47:084][536]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (G8, 64X64)
+[2020.03.11-18.25.47:084][536]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (G8, 64X64)
+[2020.03.11-18.25.47:084][536]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (G8, 64X64)
+[2020.03.11-18.25.47:084][536]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (G8, 64X64)
+[2020.03.11-18.25.47:084][536]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (G8, 64X64)
+[2020.03.11-18.25.47:084][536]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (G8, 64X64)
+[2020.03.11-18.25.47:084][536]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (G8, 64X64)
+[2020.03.11-18.25.47:084][536]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (G8, 64X64)
+[2020.03.11-18.25.47:084][536]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (G8, 64X64)
+[2020.03.11-18.25.47:084][536]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 1024X128)
+[2020.03.11-18.25.47:084][536]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (G8, 1024X128)
+[2020.03.11-18.25.47:084][536]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (G8, 1024X64)
+[2020.03.11-18.25.47:084][536]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (G8, 1024X128)
+[2020.03.11-18.25.47:084][536]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 1024X256)
+[2020.03.11-18.25.47:679][536]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (BGRA8, 1024X1024)
+[2020.03.11-18.25.47:679][536]Lightmass on DESKTOP-IFJPMID: 34.2 sec total, 256 ms importing, 160 ms setup, 3.72 sec photons, 30.0 sec processing, 0 ms extra exporting [488/488 mappings]. Threads: 3:30 min total, 2:28 min processing.
+[2020.03.11-18.25.47:712][536]LogStaticLightingSystem: Town_1_BuiltData storing lightmap data for 488 meshes in 36 LightmapResourceClusters (13.6 Meshes per cluster).
+[2020.03.11-18.25.47:759][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.03.11-18.25.47:779][536]LogStaticLightingSystem: Illumination: 40.9 sec (2.32 sec encoding lightmaps, 222 ms encoding shadowmaps)
+[2020.03.11-18.25.47:779][536]LogStaticLightingSystem: Lightmap texture memory:  9.6 MB (9.6 MB streaming, 0.0 MB non-streaming), 40 textures
+[2020.03.11-18.25.47:779][536]LogStaticLightingSystem: Shadowmap texture memory: 6.3 MB (6.3 MB streaming, 0.0 MB non-streaming), 18 textures
+[2020.03.11-18.25.48:404][536]DumpUnbuiltLightIteractions
+[2020.03.11-18.25.48:404][536]Lights with unbuilt interactions: 0
+[2020.03.11-18.25.48:404][536]
+[2020.03.11-18.25.48:404][536]Primitives with unbuilt interactions: 0
+[2020.03.11-18.25.48:475][537]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.11-18.25.48:475][537]MapCheck: New page: Town_1 - Mar 11, 2020, 8:25:48 AM
+[2020.03.11-18.25.48:477][537]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.329ms to complete.
+[2020.03.11-18.25.52:015][954]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.25.52:019][954]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.26.20:871][353]MapCheck: New page: Map Check
+[2020.03.11-18.26.20:887][353]LightingResults: New page: Lighting Build - Mar 11, 2020, 8:26:20 AM
+[2020.03.11-18.26.20:897][353]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.11-18.26.20:899][353]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.11-18.26.20:899][353]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.11-18.26.20:900][353]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.11-18.26.20:900][353]LogSwarmInterface: [TryOpenConnection] Local Process ID is 400
+[2020.03.11-18.26.25:414][353]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.03.11-18.26.25:414][353]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.11-18.26.25:414][353]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.11-18.26.25:414][353]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.11-18.26.25:414][353]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.11-18.26.25:414][353]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.11-18.26.25:524][353]LogEditorBuildUtils: Build time 0:04
+[2020.03.11-18.26.25:575][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.03.11-18.26.58:323][223]Job is a success!
+[2020.03.11-18.26.58:665][225]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.151s
+[2020.03.11-18.26.58:665][225]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.03.11-18.26.58:665][225]LogVolumetricLightmapImport:      BrickData (all levels) 2.3Mb
+[2020.03.11-18.26.58:665][225]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.11-18.26.58:665][225]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2020.03.11-18.26.58:665][225]LogVolumetricLightmapImport:          1: 15.6% covering 10.7% of volume
+[2020.03.11-18.26.58:665][225]LogVolumetricLightmapImport:          2: 82.1% covering 0.9% of volume
+[2020.03.11-18.26.58:665][225]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.11-18.26.58:665][225]LogVolumetricLightmapImport:          Town_1 			 352 bricks 	 100.0% (Persistent Level)
+[2020.03.11-18.26.59:008][225]LightingResults: Warning: PointLight3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.26.59:008][225]LightingResults: Warning: PointLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.26.59:008][225]LightingResults: Warning: PointLight6 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.27.01:381][225]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.03.11-18.27.01:381][225]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.03.11-18.27.01:381][225]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.03.11-18.27.01:381][225]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.03.11-18.27.01:381][225]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.03.11-18.27.01:381][225]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.03.11-18.27.01:381][225]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 128X128)
+[2020.03.11-18.27.01:381][225]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 128X128)
+[2020.03.11-18.27.01:381][225]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 128X128)
+[2020.03.11-18.27.01:381][225]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 128X128)
+[2020.03.11-18.27.01:381][225]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 128X128)
+[2020.03.11-18.27.01:381][225]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 128X128)
+[2020.03.11-18.27.01:381][225]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2020.03.11-18.27.01:381][225]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2020.03.11-18.27.01:381][225]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 512X512)
+[2020.03.11-18.27.01:381][225]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 512X512)
+[2020.03.11-18.27.01:381][225]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 128X128)
+[2020.03.11-18.27.01:381][225]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 128X128)
+[2020.03.11-18.27.01:381][225]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 128X128)
+[2020.03.11-18.27.01:381][225]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 128X128)
+[2020.03.11-18.27.01:381][225]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 128X128)
+[2020.03.11-18.27.01:382][225]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 128X128)
+[2020.03.11-18.27.01:382][225]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 128X128)
+[2020.03.11-18.27.01:382][225]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 128X128)
+[2020.03.11-18.27.01:382][225]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2020.03.11-18.27.01:382][225]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2020.03.11-18.27.01:382][225]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 128X128)
+[2020.03.11-18.27.01:382][225]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 128X128)
+[2020.03.11-18.27.01:382][225]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 128X128)
+[2020.03.11-18.27.01:382][225]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 128X128)
+[2020.03.11-18.27.01:382][225]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 128X128)
+[2020.03.11-18.27.01:382][225]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 128X128)
+[2020.03.11-18.27.01:382][225]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 512X512)
+[2020.03.11-18.27.01:382][225]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 512X512)
+[2020.03.11-18.27.01:382][225]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 256X256)
+[2020.03.11-18.27.01:382][225]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 256X256)
+[2020.03.11-18.27.01:382][225]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 128X128)
+[2020.03.11-18.27.01:382][225]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 128X128)
+[2020.03.11-18.27.01:382][225]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 256X256)
+[2020.03.11-18.27.01:382][225]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 256X256)
+[2020.03.11-18.27.01:581][225]LogTexture: Display: Building textures: ShadowMapTexture2D_57 (G8, 64X64)
+[2020.03.11-18.27.01:581][225]LogTexture: Display: Building textures: ShadowMapTexture2D_58 (G8, 64X64)
+[2020.03.11-18.27.01:581][225]LogTexture: Display: Building textures: ShadowMapTexture2D_59 (G8, 64X64)
+[2020.03.11-18.27.01:581][225]LogTexture: Display: Building textures: ShadowMapTexture2D_60 (G8, 64X64)
+[2020.03.11-18.27.01:581][225]LogTexture: Display: Building textures: ShadowMapTexture2D_62 (G8, 64X64)
+[2020.03.11-18.27.01:581][225]LogTexture: Display: Building textures: ShadowMapTexture2D_63 (G8, 64X64)
+[2020.03.11-18.27.01:581][225]LogTexture: Display: Building textures: ShadowMapTexture2D_64 (G8, 64X64)
+[2020.03.11-18.27.01:581][225]LogTexture: Display: Building textures: ShadowMapTexture2D_65 (G8, 64X64)
+[2020.03.11-18.27.01:582][225]LogTexture: Display: Building textures: ShadowMapTexture2D_66 (G8, 64X64)
+[2020.03.11-18.27.01:582][225]LogTexture: Display: Building textures: ShadowMapTexture2D_67 (G8, 64X64)
+[2020.03.11-18.27.01:582][225]LogTexture: Display: Building textures: ShadowMapTexture2D_68 (G8, 64X64)
+[2020.03.11-18.27.01:582][225]LogTexture: Display: Building textures: ShadowMapTexture2D_70 (G8, 64X64)
+[2020.03.11-18.27.01:582][225]LogTexture: Display: Building textures: ShadowMapTexture2D_56 (G8, 1024X128)
+[2020.03.11-18.27.01:582][225]LogTexture: Display: Building textures: ShadowMapTexture2D_71 (G8, 1024X64)
+[2020.03.11-18.27.01:582][225]LogTexture: Display: Building textures: ShadowMapTexture2D_61 (G8, 1024X128)
+[2020.03.11-18.27.01:582][225]LogTexture: Display: Building textures: ShadowMapTexture2D_69 (G8, 1024X128)
+[2020.03.11-18.27.01:582][225]LogTexture: Display: Building textures: ShadowMapTexture2D_55 (G8, 1024X256)
+[2020.03.11-18.27.02:205][225]LogTexture: Display: Building textures: ShadowMapTexture2D_54 (BGRA8, 1024X1024)
+[2020.03.11-18.27.02:205][225]Lightmass on DESKTOP-IFJPMID: 34.7 sec total, 320 ms importing, 172 ms setup, 3.92 sec photons, 30.3 sec processing, 0 ms extra exporting [488/488 mappings]. Threads: 3:32 min total, 2:28 min processing.
+[2020.03.11-18.27.02:247][225]LogStaticLightingSystem: Town_1_BuiltData storing lightmap data for 488 meshes in 36 LightmapResourceClusters (13.6 Meshes per cluster).
+[2020.03.11-18.27.02:297][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.03.11-18.27.02:314][225]LogStaticLightingSystem: Illumination: 41.4 sec (2.38 sec encoding lightmaps, 212 ms encoding shadowmaps)
+[2020.03.11-18.27.02:314][225]LogStaticLightingSystem: Lightmap texture memory:  9.6 MB (9.6 MB streaming, 0.0 MB non-streaming), 40 textures
+[2020.03.11-18.27.02:314][225]LogStaticLightingSystem: Shadowmap texture memory: 6.3 MB (6.3 MB streaming, 0.0 MB non-streaming), 18 textures
+[2020.03.11-18.27.07:447][225]DumpUnbuiltLightIteractions
+[2020.03.11-18.27.07:447][225]Lights with unbuilt interactions: 0
+[2020.03.11-18.27.07:447][225]
+[2020.03.11-18.27.07:447][225]Primitives with unbuilt interactions: 0
+[2020.03.11-18.27.07:527][226]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.11-18.27.07:527][226]MapCheck: New page: Town_1 - Mar 11, 2020, 8:27:07 AM
+[2020.03.11-18.27.07:530][226]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.997ms to complete.
+[2020.03.11-18.27.10:276][551]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.27.10:280][551]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.27.16:845][336]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2020.03.11-18.27.24:424][206]MapCheck: New page: Map Check
+[2020.03.11-18.27.24:440][206]LightingResults: New page: Lighting Build - Mar 11, 2020, 8:27:24 AM
+[2020.03.11-18.27.24:450][206]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.11-18.27.24:453][206]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.11-18.27.24:453][206]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.11-18.27.24:453][206]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.11-18.27.24:453][206]LogSwarmInterface: [TryOpenConnection] Local Process ID is 400
+[2020.03.11-18.27.28:965][206]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.03.11-18.27.28:966][206]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.11-18.27.28:966][206]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.11-18.27.28:966][206]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.11-18.27.28:966][206]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.11-18.27.28:966][206]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.11-18.27.29:094][206]LogEditorBuildUtils: Build time 0:04
+[2020.03.11-18.27.29:155][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.03.11-18.28.02:086][ 86]Job is a success!
+[2020.03.11-18.28.02:424][ 88]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.150s
+[2020.03.11-18.28.02:424][ 88]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.03.11-18.28.02:424][ 88]LogVolumetricLightmapImport:      BrickData (all levels) 2.3Mb
+[2020.03.11-18.28.02:424][ 88]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.11-18.28.02:424][ 88]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2020.03.11-18.28.02:424][ 88]LogVolumetricLightmapImport:          1: 15.6% covering 10.7% of volume
+[2020.03.11-18.28.02:424][ 88]LogVolumetricLightmapImport:          2: 82.1% covering 0.9% of volume
+[2020.03.11-18.28.02:424][ 88]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.11-18.28.02:424][ 88]LogVolumetricLightmapImport:          Town_1 			 352 bricks 	 100.0% (Persistent Level)
+[2020.03.11-18.28.02:770][ 88]LightingResults: Warning: PointLight3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.28.02:770][ 88]LightingResults: Warning: PointLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.28.02:770][ 88]LightingResults: Warning: PointLight6 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.28.05:141][ 88]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.03.11-18.28.05:141][ 88]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.03.11-18.28.05:141][ 88]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.03.11-18.28.05:141][ 88]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.03.11-18.28.05:141][ 88]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.03.11-18.28.05:141][ 88]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.03.11-18.28.05:141][ 88]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 128X128)
+[2020.03.11-18.28.05:141][ 88]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 128X128)
+[2020.03.11-18.28.05:141][ 88]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 128X128)
+[2020.03.11-18.28.05:141][ 88]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 128X128)
+[2020.03.11-18.28.05:141][ 88]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 128X128)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 128X128)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 128X128)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 512X512)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 128X128)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 512X512)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 128X128)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 128X128)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 128X128)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 128X128)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 128X128)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 128X128)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 128X128)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 128X128)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 1024X1024)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 1024X1024)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 128X128)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 128X128)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 128X128)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 128X128)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 128X128)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 128X128)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 512X512)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 512X512)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 256X256)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 256X256)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 128X128)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 128X128)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 256X256)
+[2020.03.11-18.28.05:142][ 88]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 256X256)
+[2020.03.11-18.28.05:343][ 88]LogTexture: Display: Building textures: ShadowMapTexture2D_75 (G8, 64X64)
+[2020.03.11-18.28.05:343][ 88]LogTexture: Display: Building textures: ShadowMapTexture2D_76 (G8, 64X64)
+[2020.03.11-18.28.05:343][ 88]LogTexture: Display: Building textures: ShadowMapTexture2D_77 (G8, 64X64)
+[2020.03.11-18.28.05:343][ 88]LogTexture: Display: Building textures: ShadowMapTexture2D_78 (G8, 64X64)
+[2020.03.11-18.28.05:343][ 88]LogTexture: Display: Building textures: ShadowMapTexture2D_80 (G8, 64X64)
+[2020.03.11-18.28.05:343][ 88]LogTexture: Display: Building textures: ShadowMapTexture2D_81 (G8, 64X64)
+[2020.03.11-18.28.05:343][ 88]LogTexture: Display: Building textures: ShadowMapTexture2D_82 (G8, 64X64)
+[2020.03.11-18.28.05:343][ 88]LogTexture: Display: Building textures: ShadowMapTexture2D_83 (G8, 64X64)
+[2020.03.11-18.28.05:343][ 88]LogTexture: Display: Building textures: ShadowMapTexture2D_84 (G8, 64X64)
+[2020.03.11-18.28.05:343][ 88]LogTexture: Display: Building textures: ShadowMapTexture2D_85 (G8, 64X64)
+[2020.03.11-18.28.05:343][ 88]LogTexture: Display: Building textures: ShadowMapTexture2D_86 (G8, 64X64)
+[2020.03.11-18.28.05:343][ 88]LogTexture: Display: Building textures: ShadowMapTexture2D_88 (G8, 64X64)
+[2020.03.11-18.28.05:343][ 88]LogTexture: Display: Building textures: ShadowMapTexture2D_74 (G8, 1024X128)
+[2020.03.11-18.28.05:343][ 88]LogTexture: Display: Building textures: ShadowMapTexture2D_89 (G8, 1024X64)
+[2020.03.11-18.28.05:343][ 88]LogTexture: Display: Building textures: ShadowMapTexture2D_87 (G8, 1024X128)
+[2020.03.11-18.28.05:343][ 88]LogTexture: Display: Building textures: ShadowMapTexture2D_79 (G8, 1024X256)
+[2020.03.11-18.28.05:343][ 88]LogTexture: Display: Building textures: ShadowMapTexture2D_73 (G8, 1024X256)
+[2020.03.11-18.28.05:967][ 88]LogTexture: Display: Building textures: ShadowMapTexture2D_72 (BGRA8, 1024X1024)
+[2020.03.11-18.28.05:967][ 88]Lightmass on DESKTOP-IFJPMID: 34.8 sec total, 274 ms importing, 160 ms setup, 3.75 sec photons, 30.6 sec processing, 0 ms extra exporting [488/488 mappings]. Threads: 3:34 min total, 2:30 min processing.
+[2020.03.11-18.28.06:009][ 88]LogStaticLightingSystem: Town_1_BuiltData storing lightmap data for 488 meshes in 36 LightmapResourceClusters (13.6 Meshes per cluster).
+[2020.03.11-18.28.06:055][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.03.11-18.28.06:071][ 88]LogStaticLightingSystem: Illumination: 41.6 sec (2.38 sec encoding lightmaps, 218 ms encoding shadowmaps)
+[2020.03.11-18.28.06:072][ 88]LogStaticLightingSystem: Lightmap texture memory:  9.6 MB (9.6 MB streaming, 0.0 MB non-streaming), 40 textures
+[2020.03.11-18.28.06:072][ 88]LogStaticLightingSystem: Shadowmap texture memory: 6.5 MB (6.5 MB streaming, 0.0 MB non-streaming), 18 textures
+[2020.03.11-18.28.11:003][ 88]DumpUnbuiltLightIteractions
+[2020.03.11-18.28.11:003][ 88]Lights with unbuilt interactions: 0
+[2020.03.11-18.28.11:003][ 88]
+[2020.03.11-18.28.11:003][ 88]Primitives with unbuilt interactions: 0
+[2020.03.11-18.28.11:074][ 89]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.11-18.28.11:074][ 89]MapCheck: New page: Town_1 - Mar 11, 2020, 8:28:11 AM
+[2020.03.11-18.28.11:077][ 89]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.776ms to complete.
+[2020.03.11-18.28.17:019][285]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.28.17:023][285]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.29.27:283][570]MapCheck: New page: Map Check
+[2020.03.11-18.29.27:305][570]LightingResults: New page: Lighting Build - Mar 11, 2020, 8:29:27 AM
+[2020.03.11-18.29.27:314][570]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.11-18.29.27:317][570]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.11-18.29.27:317][570]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.11-18.29.27:318][570]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.11-18.29.27:318][570]LogSwarmInterface: [TryOpenConnection] Local Process ID is 400
+[2020.03.11-18.29.31:829][570]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.03.11-18.29.31:830][570]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.11-18.29.31:830][570]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.11-18.29.31:830][570]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.11-18.29.31:830][570]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.11-18.29.31:830][570]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.11-18.29.31:945][570]LogEditorBuildUtils: Build time 0:04
+[2020.03.11-18.29.31:997][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.03.11-18.29.56:405][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.03.11-18.29.56:408][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.03.11-18.30.01:386][606]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_Auto1FF23E3C44EC777D8D5B5369C3DF2AD9F.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto1.umap'
+[2020.03.11-18.30.01:389][606]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Town_1' took 5.009
+[2020.03.11-18.30.01:389][606]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.009
+[2020.03.11-18.30.05:311][942]Job is a success!
+[2020.03.11-18.30.05:652][944]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.149s
+[2020.03.11-18.30.05:652][944]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.03.11-18.30.05:652][944]LogVolumetricLightmapImport:      BrickData (all levels) 2.3Mb
+[2020.03.11-18.30.05:652][944]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.11-18.30.05:652][944]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2020.03.11-18.30.05:652][944]LogVolumetricLightmapImport:          1: 15.7% covering 10.7% of volume
+[2020.03.11-18.30.05:652][944]LogVolumetricLightmapImport:          2: 82.1% covering 0.9% of volume
+[2020.03.11-18.30.05:652][944]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.11-18.30.05:652][944]LogVolumetricLightmapImport:          Town_1 			 351 bricks 	 100.0% (Persistent Level)
+[2020.03.11-18.30.06:011][944]LightingResults: Warning: PointLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.30.06:011][944]LightingResults: Warning: PointLight2_2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.30.06:011][944]LightingResults: Warning: PointLight_10 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.30.08:501][944]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.03.11-18.30.08:501][944]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.03.11-18.30.08:501][944]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.03.11-18.30.08:501][944]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.03.11-18.30.08:501][944]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.03.11-18.30.08:501][944]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.03.11-18.30.08:501][944]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 128X128)
+[2020.03.11-18.30.08:501][944]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 128X128)
+[2020.03.11-18.30.08:501][944]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 128X128)
+[2020.03.11-18.30.08:501][944]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 128X128)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 128X128)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 128X128)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 512X512)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 512X512)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 128X128)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 128X128)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 128X128)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 128X128)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 128X128)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 128X128)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 128X128)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 128X128)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 128X128)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 128X128)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 128X128)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 128X128)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 128X128)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 128X128)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 512X512)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 512X512)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 256X256)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 256X256)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 128X128)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 128X128)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 256X256)
+[2020.03.11-18.30.08:502][944]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 256X256)
+[2020.03.11-18.30.08:701][944]LogTexture: Display: Building textures: ShadowMapTexture2D_93 (BGRA8, 64X64)
+[2020.03.11-18.30.08:701][944]LogTexture: Display: Building textures: ShadowMapTexture2D_94 (G8, 64X64)
+[2020.03.11-18.30.08:701][944]LogTexture: Display: Building textures: ShadowMapTexture2D_95 (G8, 64X64)
+[2020.03.11-18.30.08:701][944]LogTexture: Display: Building textures: ShadowMapTexture2D_96 (G8, 64X64)
+[2020.03.11-18.30.08:701][944]LogTexture: Display: Building textures: ShadowMapTexture2D_98 (G8, 64X64)
+[2020.03.11-18.30.08:701][944]LogTexture: Display: Building textures: ShadowMapTexture2D_99 (G8, 64X64)
+[2020.03.11-18.30.08:701][944]LogTexture: Display: Building textures: ShadowMapTexture2D_100 (G8, 64X64)
+[2020.03.11-18.30.08:701][944]LogTexture: Display: Building textures: ShadowMapTexture2D_101 (G8, 64X64)
+[2020.03.11-18.30.08:701][944]LogTexture: Display: Building textures: ShadowMapTexture2D_102 (G8, 64X64)
+[2020.03.11-18.30.08:701][944]LogTexture: Display: Building textures: ShadowMapTexture2D_103 (G8, 64X64)
+[2020.03.11-18.30.08:701][944]LogTexture: Display: Building textures: ShadowMapTexture2D_104 (G8, 64X64)
+[2020.03.11-18.30.08:701][944]LogTexture: Display: Building textures: ShadowMapTexture2D_106 (G8, 64X64)
+[2020.03.11-18.30.08:701][944]LogTexture: Display: Building textures: ShadowMapTexture2D_92 (G8, 1024X128)
+[2020.03.11-18.30.08:701][944]LogTexture: Display: Building textures: ShadowMapTexture2D_105 (G8, 1024X128)
+[2020.03.11-18.30.08:701][944]LogTexture: Display: Building textures: ShadowMapTexture2D_107 (BGRA8, 1024X128)
+[2020.03.11-18.30.08:701][944]LogTexture: Display: Building textures: ShadowMapTexture2D_91 (G8, 1024X256)
+[2020.03.11-18.30.08:701][944]LogTexture: Display: Building textures: ShadowMapTexture2D_97 (G8, 1024X256)
+[2020.03.11-18.30.09:291][944]LogTexture: Display: Building textures: ShadowMapTexture2D_90 (BGRA8, 1024X1024)
+[2020.03.11-18.30.09:291][944]Lightmass on DESKTOP-IFJPMID: 35.4 sec total, 287 ms importing, 164 ms setup, 3.96 sec photons, 31.0 sec processing, 0 ms extra exporting [488/488 mappings]. Threads: 3:37 min total, 2:31 min processing.
+[2020.03.11-18.30.09:328][944]LogStaticLightingSystem: Town_1_BuiltData storing lightmap data for 488 meshes in 36 LightmapResourceClusters (13.6 Meshes per cluster).
+[2020.03.11-18.30.09:384][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.03.11-18.30.09:404][944]LogStaticLightingSystem: Illumination: 42.0 sec (2.50 sec encoding lightmaps, 229 ms encoding shadowmaps)
+[2020.03.11-18.30.09:404][944]LogStaticLightingSystem: Lightmap texture memory:  9.6 MB (9.6 MB streaming, 0.0 MB non-streaming), 40 textures
+[2020.03.11-18.30.09:404][944]LogStaticLightingSystem: Shadowmap texture memory: 7.1 MB (7.1 MB streaming, 0.0 MB non-streaming), 18 textures
+[2020.03.11-18.30.14:867][944]DumpUnbuiltLightIteractions
+[2020.03.11-18.30.14:867][944]Lights with unbuilt interactions: 0
+[2020.03.11-18.30.14:867][944]
+[2020.03.11-18.30.14:867][944]Primitives with unbuilt interactions: 0
+[2020.03.11-18.30.14:938][945]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.11-18.30.14:938][945]MapCheck: New page: Town_1 - Mar 11, 2020, 8:30:14 AM
+[2020.03.11-18.30.14:941][945]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.062ms to complete.
+[2020.03.11-18.30.16:991][172]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.30.16:997][172]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.30.42:326][178]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight7)
+[2020.03.11-18.30.48:515][906]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2020.03.11-18.31.01:951][483]MapCheck: New page: Map Check
+[2020.03.11-18.31.01:972][483]LightingResults: New page: Lighting Build - Mar 11, 2020, 8:31:01 AM
+[2020.03.11-18.31.01:980][483]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.11-18.31.01:983][483]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.11-18.31.01:983][483]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.11-18.31.01:984][483]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.11-18.31.01:984][483]LogSwarmInterface: [TryOpenConnection] Local Process ID is 400
+[2020.03.11-18.31.06:495][483]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.03.11-18.31.06:495][483]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.11-18.31.06:495][483]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.11-18.31.06:495][483]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.11-18.31.06:495][483]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.11-18.31.06:495][483]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.11-18.31.06:610][483]LogEditorBuildUtils: Build time 0:04
+[2020.03.11-18.31.06:669][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.03.11-18.31.33:817][562]Job is a success!
+[2020.03.11-18.31.34:511][563]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.170s
+[2020.03.11-18.31.34:511][563]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.03.11-18.31.34:511][563]LogVolumetricLightmapImport:      BrickData (all levels) 2.3Mb
+[2020.03.11-18.31.34:511][563]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.11-18.31.34:511][563]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2020.03.11-18.31.34:511][563]LogVolumetricLightmapImport:          1: 15.7% covering 10.7% of volume
+[2020.03.11-18.31.34:511][563]LogVolumetricLightmapImport:          2: 82.1% covering 0.9% of volume
+[2020.03.11-18.31.34:511][563]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.11-18.31.34:511][563]LogVolumetricLightmapImport:          Town_1 			 351 bricks 	 100.0% (Persistent Level)
+[2020.03.11-18.31.34:899][563]LightingResults: Warning: PointLight3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.31.34:899][563]LightingResults: Warning: PointLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.31.34:900][563]LightingResults: Warning: PointLight6 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.31.37:515][563]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.03.11-18.31.37:515][563]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.03.11-18.31.37:515][563]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.03.11-18.31.37:515][563]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.03.11-18.31.37:515][563]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.03.11-18.31.37:515][563]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.03.11-18.31.37:515][563]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 128X128)
+[2020.03.11-18.31.37:515][563]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 128X128)
+[2020.03.11-18.31.37:515][563]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 128X128)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 128X128)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 128X128)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 128X128)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 128X128)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 128X128)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 512X512)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 512X512)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 128X128)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 128X128)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 128X128)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 128X128)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 128X128)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 128X128)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 128X128)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 128X128)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 1024X1024)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 1024X1024)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 128X128)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 128X128)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 128X128)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 128X128)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 128X128)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 128X128)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 512X512)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 512X512)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 256X256)
+[2020.03.11-18.31.37:516][563]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 256X256)
+[2020.03.11-18.31.37:517][563]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 128X128)
+[2020.03.11-18.31.37:517][563]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 128X128)
+[2020.03.11-18.31.37:517][563]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 256X256)
+[2020.03.11-18.31.37:517][563]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 256X256)
+[2020.03.11-18.31.37:716][563]LogTexture: Display: Building textures: ShadowMapTexture2D_111 (G8, 64X64)
+[2020.03.11-18.31.37:716][563]LogTexture: Display: Building textures: ShadowMapTexture2D_112 (G8, 64X64)
+[2020.03.11-18.31.37:716][563]LogTexture: Display: Building textures: ShadowMapTexture2D_113 (G8, 64X64)
+[2020.03.11-18.31.37:716][563]LogTexture: Display: Building textures: ShadowMapTexture2D_114 (G8, 64X64)
+[2020.03.11-18.31.37:716][563]LogTexture: Display: Building textures: ShadowMapTexture2D_116 (G8, 64X64)
+[2020.03.11-18.31.37:716][563]LogTexture: Display: Building textures: ShadowMapTexture2D_117 (G8, 64X64)
+[2020.03.11-18.31.37:716][563]LogTexture: Display: Building textures: ShadowMapTexture2D_118 (G8, 64X64)
+[2020.03.11-18.31.37:716][563]LogTexture: Display: Building textures: ShadowMapTexture2D_119 (G8, 64X64)
+[2020.03.11-18.31.37:716][563]LogTexture: Display: Building textures: ShadowMapTexture2D_120 (G8, 64X64)
+[2020.03.11-18.31.37:716][563]LogTexture: Display: Building textures: ShadowMapTexture2D_121 (G8, 64X64)
+[2020.03.11-18.31.37:716][563]LogTexture: Display: Building textures: ShadowMapTexture2D_122 (G8, 64X64)
+[2020.03.11-18.31.37:716][563]LogTexture: Display: Building textures: ShadowMapTexture2D_124 (G8, 64X64)
+[2020.03.11-18.31.37:716][563]LogTexture: Display: Building textures: ShadowMapTexture2D_110 (G8, 1024X128)
+[2020.03.11-18.31.37:716][563]LogTexture: Display: Building textures: ShadowMapTexture2D_123 (G8, 1024X128)
+[2020.03.11-18.31.37:716][563]LogTexture: Display: Building textures: ShadowMapTexture2D_125 (BGRA8, 1024X128)
+[2020.03.11-18.31.37:716][563]LogTexture: Display: Building textures: ShadowMapTexture2D_109 (G8, 1024X256)
+[2020.03.11-18.31.37:716][563]LogTexture: Display: Building textures: ShadowMapTexture2D_115 (G8, 1024X256)
+[2020.03.11-18.31.38:428][563]LogTexture: Display: Building textures: ShadowMapTexture2D_108 (BGRA8, 1024X1024)
+[2020.03.11-18.31.38:428][563]Lightmass on DESKTOP-IFJPMID: 29.8 sec total, 229 ms importing, 147 ms setup, 3.18 sec photons, 26.2 sec processing, 0 ms extra exporting [488/488 mappings]. Threads: 3:03 min total, 2:02 min processing.
+[2020.03.11-18.31.38:474][563]LogStaticLightingSystem: Town_1_BuiltData storing lightmap data for 488 meshes in 36 LightmapResourceClusters (13.6 Meshes per cluster).
+[2020.03.11-18.31.38:526][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.03.11-18.31.38:548][563]LogStaticLightingSystem: Illumination: 36.2 sec (2.63 sec encoding lightmaps, 248 ms encoding shadowmaps)
+[2020.03.11-18.31.38:548][563]LogStaticLightingSystem: Lightmap texture memory:  9.6 MB (9.6 MB streaming, 0.0 MB non-streaming), 40 textures
+[2020.03.11-18.31.38:548][563]LogStaticLightingSystem: Shadowmap texture memory: 7.1 MB (7.1 MB streaming, 0.0 MB non-streaming), 18 textures
+[2020.03.11-18.31.39:527][563]DumpUnbuiltLightIteractions
+[2020.03.11-18.31.39:527][563]Lights with unbuilt interactions: 0
+[2020.03.11-18.31.39:527][563]
+[2020.03.11-18.31.39:527][563]Primitives with unbuilt interactions: 0
+[2020.03.11-18.31.39:589][564]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.11-18.31.39:589][564]MapCheck: New page: Town_1 - Mar 11, 2020, 8:31:39 AM
+[2020.03.11-18.31.39:592][564]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.331ms to complete.
+[2020.03.11-18.31.40:933][568]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.31.40:937][568]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.33.54:916][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_TrainStation_01)
+[2020.03.11-18.33.55:338][ 79]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.11-18.34.10:637][832]MapCheck: New page: Map Check
+[2020.03.11-18.34.10:658][832]LightingResults: New page: Lighting Build - Mar 11, 2020, 8:34:10 AM
+[2020.03.11-18.34.10:668][832]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.11-18.34.10:670][832]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.11-18.34.10:670][832]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.11-18.34.10:671][832]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.11-18.34.10:672][832]LogSwarmInterface: [TryOpenConnection] Local Process ID is 400
+[2020.03.11-18.34.15:183][832]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.03.11-18.34.15:183][832]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.11-18.34.15:183][832]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.11-18.34.15:183][832]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.11-18.34.15:183][832]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.11-18.34.15:183][832]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.11-18.34.15:299][832]LogEditorBuildUtils: Build time 0:04
+[2020.03.11-18.34.15:343][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.03.11-18.34.46:639][672]Job is a success!
+[2020.03.11-18.34.47:301][673]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.143s
+[2020.03.11-18.34.47:301][673]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.03.11-18.34.47:301][673]LogVolumetricLightmapImport:      BrickData (all levels) 2.3Mb
+[2020.03.11-18.34.47:301][673]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.11-18.34.47:301][673]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2020.03.11-18.34.47:301][673]LogVolumetricLightmapImport:          1: 15.7% covering 10.7% of volume
+[2020.03.11-18.34.47:301][673]LogVolumetricLightmapImport:          2: 82.1% covering 0.9% of volume
+[2020.03.11-18.34.47:301][673]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.11-18.34.47:301][673]LogVolumetricLightmapImport:          Town_1 			 351 bricks 	 100.0% (Persistent Level)
+[2020.03.11-18.34.47:652][673]LightingResults: Warning: PointLight_10 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.34.47:652][673]LightingResults: Warning: PointLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.34.47:652][673]LightingResults: Warning: PointLight6 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.34.50:000][673]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.03.11-18.34.50:000][673]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.03.11-18.34.50:000][673]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.03.11-18.34.50:000][673]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.03.11-18.34.50:000][673]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.03.11-18.34.50:000][673]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 128X128)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 128X128)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 128X128)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 128X128)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 128X128)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 128X128)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 512X512)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 512X512)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 128X128)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 128X128)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 128X128)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 128X128)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 128X128)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 128X128)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 128X128)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 128X128)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 128X128)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 128X128)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 128X128)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 128X128)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 128X128)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 128X128)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 512X512)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 512X512)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 256X256)
+[2020.03.11-18.34.50:001][673]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 256X256)
+[2020.03.11-18.34.50:002][673]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 128X128)
+[2020.03.11-18.34.50:002][673]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 128X128)
+[2020.03.11-18.34.50:002][673]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 256X256)
+[2020.03.11-18.34.50:002][673]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 256X256)
+[2020.03.11-18.34.50:201][673]LogTexture: Display: Building textures: ShadowMapTexture2D_129 (G8, 64X64)
+[2020.03.11-18.34.50:201][673]LogTexture: Display: Building textures: ShadowMapTexture2D_130 (G8, 64X64)
+[2020.03.11-18.34.50:201][673]LogTexture: Display: Building textures: ShadowMapTexture2D_131 (G8, 64X64)
+[2020.03.11-18.34.50:201][673]LogTexture: Display: Building textures: ShadowMapTexture2D_132 (G8, 64X64)
+[2020.03.11-18.34.50:201][673]LogTexture: Display: Building textures: ShadowMapTexture2D_134 (G8, 64X64)
+[2020.03.11-18.34.50:201][673]LogTexture: Display: Building textures: ShadowMapTexture2D_135 (G8, 64X64)
+[2020.03.11-18.34.50:201][673]LogTexture: Display: Building textures: ShadowMapTexture2D_136 (G8, 64X64)
+[2020.03.11-18.34.50:201][673]LogTexture: Display: Building textures: ShadowMapTexture2D_137 (G8, 64X64)
+[2020.03.11-18.34.50:201][673]LogTexture: Display: Building textures: ShadowMapTexture2D_138 (G8, 64X64)
+[2020.03.11-18.34.50:201][673]LogTexture: Display: Building textures: ShadowMapTexture2D_139 (G8, 64X64)
+[2020.03.11-18.34.50:201][673]LogTexture: Display: Building textures: ShadowMapTexture2D_140 (G8, 64X64)
+[2020.03.11-18.34.50:201][673]LogTexture: Display: Building textures: ShadowMapTexture2D_142 (G8, 64X64)
+[2020.03.11-18.34.50:201][673]LogTexture: Display: Building textures: ShadowMapTexture2D_128 (G8, 1024X128)
+[2020.03.11-18.34.50:201][673]LogTexture: Display: Building textures: ShadowMapTexture2D_141 (G8, 1024X128)
+[2020.03.11-18.34.50:201][673]LogTexture: Display: Building textures: ShadowMapTexture2D_143 (BGRA8, 1024X128)
+[2020.03.11-18.34.50:201][673]LogTexture: Display: Building textures: ShadowMapTexture2D_127 (BGRA8, 1024X256)
+[2020.03.11-18.34.50:201][673]LogTexture: Display: Building textures: ShadowMapTexture2D_133 (BGRA8, 1024X256)
+[2020.03.11-18.34.50:780][673]LogTexture: Display: Building textures: ShadowMapTexture2D_126 (BGRA8, 1024X1024)
+[2020.03.11-18.34.50:780][673]Lightmass on DESKTOP-IFJPMID: 33.6 sec total, 308 ms importing, 166 ms setup, 3.79 sec photons, 29.3 sec processing, 0 ms extra exporting [488/488 mappings]. Threads: 3:25 min total, 2:20 min processing.
+[2020.03.11-18.34.50:818][673]LogStaticLightingSystem: Town_1_BuiltData storing lightmap data for 488 meshes in 36 LightmapResourceClusters (13.6 Meshes per cluster).
+[2020.03.11-18.34.50:867][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.03.11-18.34.50:888][673]LogStaticLightingSystem: Illumination: 39.8 sec (2.36 sec encoding lightmaps, 227 ms encoding shadowmaps)
+[2020.03.11-18.34.50:888][673]LogStaticLightingSystem: Lightmap texture memory:  9.6 MB (9.6 MB streaming, 0.0 MB non-streaming), 40 textures
+[2020.03.11-18.34.50:888][673]LogStaticLightingSystem: Shadowmap texture memory: 9.1 MB (9.1 MB streaming, 0.0 MB non-streaming), 18 textures
+[2020.03.11-18.35.00:218][673]DumpUnbuiltLightIteractions
+[2020.03.11-18.35.00:218][673]Lights with unbuilt interactions: 0
+[2020.03.11-18.35.00:218][673]
+[2020.03.11-18.35.00:218][673]Primitives with unbuilt interactions: 0
+[2020.03.11-18.35.00:287][674]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.11-18.35.00:287][674]MapCheck: New page: Town_1 - Mar 11, 2020, 8:35:00 AM
+[2020.03.11-18.35.00:290][674]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.053ms to complete.
+[2020.03.11-18.36.59:445][130]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.36.59:449][130]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.37.17:208][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Church_01)
+[2020.03.11-18.37.17:513][276]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.11-18.37.44:007][402]MapCheck: New page: Map Check
+[2020.03.11-18.37.44:026][402]LightingResults: New page: Lighting Build - Mar 11, 2020, 8:37:44 AM
+[2020.03.11-18.37.44:036][402]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.11-18.37.44:039][402]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.11-18.37.44:039][402]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.11-18.37.44:040][402]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.11-18.37.44:040][402]LogSwarmInterface: [TryOpenConnection] Local Process ID is 400
+[2020.03.11-18.37.48:553][402]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.03.11-18.37.48:554][402]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.11-18.37.48:554][402]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.11-18.37.48:554][402]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.11-18.37.48:554][402]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.11-18.37.48:554][402]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.11-18.37.48:671][402]LogEditorBuildUtils: Build time 0:04
+[2020.03.11-18.37.48:728][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.03.11-18.38.24:658][111]Job is a success!
+[2020.03.11-18.38.25:329][112]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.159s
+[2020.03.11-18.38.25:329][112]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.03.11-18.38.25:329][112]LogVolumetricLightmapImport:      BrickData (all levels) 2.3Mb
+[2020.03.11-18.38.25:329][112]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.11-18.38.25:329][112]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2020.03.11-18.38.25:329][112]LogVolumetricLightmapImport:          1: 15.6% covering 10.7% of volume
+[2020.03.11-18.38.25:329][112]LogVolumetricLightmapImport:          2: 82.1% covering 0.9% of volume
+[2020.03.11-18.38.25:329][112]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.11-18.38.25:329][112]LogVolumetricLightmapImport:          Town_1 			 352 bricks 	 100.0% (Persistent Level)
+[2020.03.11-18.38.25:710][112]LightingResults: Warning: PointLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.38.25:710][112]LightingResults: Warning: PointLight2_2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.38.25:710][112]LightingResults: Warning: PointLight5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.38.25:710][112]LightingResults: Warning: PointLight_10 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.38.25:710][112]LightingResults: Warning: PointLight6 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.38.25:710][112]LightingResults: Warning: PointLight7_9 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.11-18.38.27:966][112]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.03.11-18.38.27:966][112]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.03.11-18.38.27:966][112]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.03.11-18.38.27:966][112]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.03.11-18.38.27:966][112]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 128X128)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 128X128)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 128X128)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 128X128)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 128X128)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 128X128)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 128X128)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 128X128)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 512X512)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 512X512)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 128X128)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 128X128)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 128X128)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 128X128)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 128X128)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 128X128)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 128X128)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 128X128)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 1024X1024)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 1024X1024)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 128X128)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 128X128)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 128X128)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 128X128)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 128X128)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 128X128)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 512X512)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 512X512)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 256X256)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 256X256)
+[2020.03.11-18.38.27:967][112]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 128X128)
+[2020.03.11-18.38.27:968][112]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 128X128)
+[2020.03.11-18.38.27:968][112]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 256X256)
+[2020.03.11-18.38.27:968][112]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 256X256)
+[2020.03.11-18.38.28:167][112]LogTexture: Display: Building textures: ShadowMapTexture2D_147 (G8, 64X64)
+[2020.03.11-18.38.28:167][112]LogTexture: Display: Building textures: ShadowMapTexture2D_148 (G8, 64X64)
+[2020.03.11-18.38.28:167][112]LogTexture: Display: Building textures: ShadowMapTexture2D_150 (G8, 64X64)
+[2020.03.11-18.38.28:167][112]LogTexture: Display: Building textures: ShadowMapTexture2D_149 (G8, 64X64)
+[2020.03.11-18.38.28:167][112]LogTexture: Display: Building textures: ShadowMapTexture2D_152 (G8, 64X64)
+[2020.03.11-18.38.28:167][112]LogTexture: Display: Building textures: ShadowMapTexture2D_153 (G8, 64X64)
+[2020.03.11-18.38.28:167][112]LogTexture: Display: Building textures: ShadowMapTexture2D_154 (G8, 64X64)
+[2020.03.11-18.38.28:167][112]LogTexture: Display: Building textures: ShadowMapTexture2D_155 (G8, 64X64)
+[2020.03.11-18.38.28:167][112]LogTexture: Display: Building textures: ShadowMapTexture2D_156 (G8, 64X64)
+[2020.03.11-18.38.28:167][112]LogTexture: Display: Building textures: ShadowMapTexture2D_157 (G8, 64X64)
+[2020.03.11-18.38.28:167][112]LogTexture: Display: Building textures: ShadowMapTexture2D_158 (G8, 64X64)
+[2020.03.11-18.38.28:167][112]LogTexture: Display: Building textures: ShadowMapTexture2D_160 (G8, 64X64)
+[2020.03.11-18.38.28:167][112]LogTexture: Display: Building textures: ShadowMapTexture2D_146 (G8, 1024X128)
+[2020.03.11-18.38.28:167][112]LogTexture: Display: Building textures: ShadowMapTexture2D_159 (G8, 1024X128)
+[2020.03.11-18.38.28:167][112]LogTexture: Display: Building textures: ShadowMapTexture2D_161 (BGRA8, 1024X128)
+[2020.03.11-18.38.28:167][112]LogTexture: Display: Building textures: ShadowMapTexture2D_145 (BGRA8, 1024X256)
+[2020.03.11-18.38.28:167][112]LogTexture: Display: Building textures: ShadowMapTexture2D_151 (BGRA8, 1024X256)
+[2020.03.11-18.38.28:791][112]LogTexture: Display: Building textures: ShadowMapTexture2D_144 (BGRA8, 1024X1024)
+[2020.03.11-18.38.28:791][112]Lightmass on DESKTOP-IFJPMID: 38.2 sec total, 285 ms importing, 170 ms setup, 4.51 sec photons, 33.2 sec processing, 0 ms extra exporting [488/488 mappings]. Threads: 3:52 min total, 2:40 min processing.
+[2020.03.11-18.38.28:828][112]LogStaticLightingSystem: Town_1_BuiltData storing lightmap data for 488 meshes in 36 LightmapResourceClusters (13.6 Meshes per cluster).
+[2020.03.11-18.38.28:883][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.03.11-18.38.28:900][112]LogStaticLightingSystem: Illumination: 44.5 sec (2.26 sec encoding lightmaps, 234 ms encoding shadowmaps)
+[2020.03.11-18.38.28:901][112]LogStaticLightingSystem: Lightmap texture memory:  9.6 MB (9.6 MB streaming, 0.0 MB non-streaming), 40 textures
+[2020.03.11-18.38.28:901][112]LogStaticLightingSystem: Shadowmap texture memory: 9.1 MB (9.1 MB streaming, 0.0 MB non-streaming), 18 textures
+[2020.03.11-18.38.29:587][112]DumpUnbuiltLightIteractions
+[2020.03.11-18.38.29:587][112]Lights with unbuilt interactions: 0
+[2020.03.11-18.38.29:587][112]
+[2020.03.11-18.38.29:587][112]Primitives with unbuilt interactions: 0
+[2020.03.11-18.38.29:674][113]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.11-18.38.29:674][113]MapCheck: New page: Town_1 - Mar 11, 2020, 8:38:29 AM
+[2020.03.11-18.38.29:677][113]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.712ms to complete.
+[2020.03.11-18.39.14:753][420]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.39.14:758][420]LogSlate: Window 'Message Log' being destroyed
+[2020.03.11-18.39.20:923][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.03.11-18.39.20:946][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.11-18.39.20:967][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.11-18.39.24:460][134]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_170CEEA7F4A81C14C642CA6BFCFBDF56A.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.11-18.39.24:476][134]LogFileHelpers: Saving map 'Town_1' took 3.532
+[2020.03.11-18.39.24:477][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1_BuiltData" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset" SILENT=true
+[2020.03.11-18.39.27:744][134]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_BuiltDataDF0B40834501662EBFDFA7B94005232C.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset'
+[2020.03.11-18.39.27:750][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1_BuiltData" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset" SILENT=true
+[2020.03.11-18.39.30:406][134]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_BuiltDataCA0C9EBE4F7932BA3088ADAE0427BA1C.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset'
+[2020.03.11-18.39.30:433][134]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.11-18.39.30:433][134]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.11-18.39.30:433][134]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Town_1_BuiltData.Town_1_BuiltData
