@@ -2339,3 +2339,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.11-18.39.30:433][134]AssetCheck: New page: Asset Save: multiple assets
 [2020.03.11-18.39.30:433][134]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
 [2020.03.11-18.39.30:433][134]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Town_1_BuiltData.Town_1_BuiltData
+[2020.03.11-18.44.47:000][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
