@@ -3372,3 +3372,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.11-19.28.04:502][518]LogFileHelpers: Saving map 'Town_1' took 4.571
 [2020.03.11-19.28.04:530][518]AssetCheck: New page: Asset Save: Town_1
 [2020.03.11-19.28.04:530][518]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.11-19.29.29:472][525]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.11-19.29.39:458][115]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush21)
+[2020.03.11-19.29.41:799][252]Cmd: PIVOT SNAPPED
+[2020.03.11-19.30.09:810][916]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.11-19.31.04:562][167]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush23)
+[2020.03.11-19.31.06:737][289]Cmd: PIVOT SNAPPED
+[2020.03.11-19.32.12:524][135]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush24)
+[2020.03.11-19.32.15:113][287]Cmd: PIVOT SNAPPED
