@@ -2340,3 +2340,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.11-18.39.30:433][134]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
 [2020.03.11-18.39.30:433][134]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Town_1_BuiltData.Town_1_BuiltData
 [2020.03.11-18.44.47:000][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.03.11-18.45.44:547][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.03.11-18.45.44:686][ 41]LogAIModule: Creating AISystem for world Town_2
+[2020.03.11-18.45.48:592][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.03.11-18.45.48:616][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_2" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.11-18.45.48:656][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.03.11-18.45.51:739][458]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_29781FC0843C0EE1E7B4298AB5B62F5E5.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_2.umap'
+[2020.03.11-18.45.51:750][458]LogFileHelpers: Saving map 'Town_2' took 3.134
+[2020.03.11-18.45.51:769][458]AssetCheck: New page: Asset Save: Town_2
+[2020.03.11-18.45.51:769][458]LogContentValidation: Display: Validating World /Game/Town_2.Town_2
