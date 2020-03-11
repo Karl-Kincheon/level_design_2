@@ -3419,3 +3419,159 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.11-19.42.48:293][128]LogFileHelpers: Saving map 'Town_1' took 4.726
 [2020.03.11-19.42.48:333][128]AssetCheck: New page: Asset Save: Town_1
 [2020.03.11-19.42.48:333][128]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.11-19.43.06:177][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Bridge_Top_01)
+[2020.03.11-19.43.07:282][649]Cmd: DELETE
+[2020.03.11-19.43.07:282][649]Cmd: ACTOR DELETE
+[2020.03.11-19.43.07:301][649]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.11-19.43.07:333][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.03.11-19.43.07:337][649]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2020.03.11-19.43.09:982][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Bridge_Top_2)
+[2020.03.11-19.43.10:349][829]Cmd: DELETE
+[2020.03.11-19.43.10:349][829]Cmd: ACTOR DELETE
+[2020.03.11-19.43.10:358][829]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.11-19.43.10:379][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.11-19.43.10:380][829]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.03.11-19.43.14:408][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Bridge_Top_3)
+[2020.03.11-19.43.14:575][ 80]Cmd: DELETE
+[2020.03.11-19.43.14:575][ 80]Cmd: ACTOR DELETE
+[2020.03.11-19.43.14:584][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.11-19.43.14:605][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.11-19.43.14:606][ 80]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.03.11-19.43.17:978][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Train_Track_Bridge_Top_4)
+[2020.03.11-19.43.18:129][291]Cmd: DELETE
+[2020.03.11-19.43.18:129][291]Cmd: ACTOR DELETE
+[2020.03.11-19.43.18:138][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.11-19.43.18:158][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.11-19.43.18:159][291]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.03.11-19.43.22:492][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.03.11-19.43.22:520][549]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.11-19.43.22:543][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.03.11-19.43.27:053][549]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1EB0EF9794B65C4098AD7768229963FA3.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.11-19.43.27:071][549]LogFileHelpers: Saving map 'Town_1' took 4.551
+[2020.03.11-19.43.27:092][549]AssetCheck: New page: Asset Save: Town_1
+[2020.03.11-19.43.27:092][549]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.11-19.44.18:350][623]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.11-19.44.45:106][210]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2020.03.11-19.44.45:106][210]LogGeometryMode: Warning: Unable to resolve BoxBrush31 Brush in new BSP, see above
+[2020.03.11-19.44.45:106][210]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.03.11-19.44.55:655][837]Cmd: TRANSACTION UNDO
+[2020.03.11-19.44.55:656][837]LogEditorTransaction: Undo Modifier [Edit]
+[2020.03.11-19.45.05:033][379]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_TrainStation_Tower)
+[2020.03.11-19.45.06:381][459]Cmd: TRANSACTION UNDO
+[2020.03.11-19.45.06:381][459]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.11-19.45.07:234][493]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Bld_TrainStation_Tower)
+[2020.03.11-19.45.07:794][526]Cmd: TRANSACTION UNDO
+[2020.03.11-19.45.07:794][526]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.11-19.45.11:003][718]Cmd: TRANSACTION UNDO
+[2020.03.11-19.45.11:003][718]LogEditorTransaction: Undo Modifier [Edit]
+[2020.03.11-19.45.34:433][ 73]Cmd: TRANSACTION UNDO
+[2020.03.11-19.45.34:433][ 73]LogEditorTransaction: Undo Move Actors
+[2020.03.11-19.45.34:482][ 73]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2020.03.11-19.45.34:482][ 73]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2020.03.11-19.45.34:482][ 73]LogGeometryMode: Warning: Unable to resolve BoxBrush31 Brush in new BSP, see above
+[2020.03.11-19.45.34:482][ 73]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.03.11-19.45.38:313][297]Cmd: TRANSACTION UNDO
+[2020.03.11-19.45.38:313][297]LogEditorTransaction: Undo Move Actors
+[2020.03.11-19.45.38:344][297]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2020.03.11-19.45.38:344][297]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2020.03.11-19.45.38:344][297]LogGeometryMode: Warning: Unable to resolve BoxBrush31 Brush in new BSP, see above
+[2020.03.11-19.45.38:344][297]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.03.11-19.45.40:572][415]Cmd: TRANSACTION UNDO
+[2020.03.11-19.45.40:572][415]LogEditorTransaction: Undo Modifier [Edit]
+[2020.03.11-19.45.41:680][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Road_Straight_01)
+[2020.03.11-19.45.53:926][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_TrainStation_Tower)
+[2020.03.11-19.45.54:901][265]Cmd: DELETE
+[2020.03.11-19.45.54:901][265]Cmd: ACTOR DELETE
+[2020.03.11-19.45.54:912][265]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.11-19.45.54:935][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.03.11-19.45.54:937][265]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.03.11-19.46.06:280][943]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2020.03.11-19.46.06:280][943]LogGeometryMode: Warning: Unable to resolve BoxBrush31 Brush in new BSP, see above
+[2020.03.11-19.46.06:280][943]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.03.11-19.46.29:621][326]Cmd: TRANSACTION UNDO
+[2020.03.11-19.46.29:621][326]LogEditorTransaction: Undo Move Actors
+[2020.03.11-19.46.29:652][326]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2020.03.11-19.46.29:652][326]LogGeometryMode: Warning: Unable to resolve BoxBrush31 Brush in new BSP, see above
+[2020.03.11-19.46.29:652][326]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.03.11-19.46.40:726][970]LogEditorViewport: Clicking Background
+[2020.03.11-19.46.54:007][762]Cmd: TRANSACTION UNDO
+[2020.03.11-19.46.54:007][762]LogEditorTransaction: Undo Move Actors
+[2020.03.11-19.46.54:045][762]LogGeometryMode: Warning: Unable to find 3 Vertex(s) in new BSP
+[2020.03.11-19.46.54:045][762]LogGeometryMode: Warning: Unable to resolve BoxBrush31 Brush in new BSP, see above
+[2020.03.11-19.46.54:045][762]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.03.11-19.46.58:216][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Road_Straight_01)
+[2020.03.11-19.47.04:436][366]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.11-19.47.07:315][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.03.11-19.47.07:346][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.11-19.47.07:368][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.03.11-19.47.11:874][534]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_18F3584FE4F065BD84359959FDE3233FB.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.11-19.47.11:896][534]LogFileHelpers: Saving map 'Town_1' took 4.551
+[2020.03.11-19.47.11:916][534]AssetCheck: New page: Asset Save: Town_1
+[2020.03.11-19.47.11:916][534]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.11-19.47.17:560][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.03.11-19.47.17:999][871]LogSlate: Window 'Karl_Kincheon_pro_2 - Unreal Editor' being destroyed
+[2020.03.11-19.47.18:007][871]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.11-19.47.18:507][872]Cmd: QUIT_EDITOR
+[2020.03.11-19.47.18:507][872]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.03.11-19.47.18:536][872]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.03.11-19.47.18:550][872]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.11-19.47.18:736][872]LogExit: Preparing to exit.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:227][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:228][872]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-19.47.20:228][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:228][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:228][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:228][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:228][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:228][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:228][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:228][872]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-19.47.20:228][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:228][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:228][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:228][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:228][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:228][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:228][872]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.11-19.47.20:228][872]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.11-19.47.20:341][872]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.03.11-19.47.20:445][872]LogExit: Editor shut down
+[2020.03.11-19.47.20:447][872]LogExit: Transaction tracking system shut down
