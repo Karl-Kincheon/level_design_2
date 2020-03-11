@@ -2764,3 +2764,43 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.11-19.04.04:750][ 68]LogFileHelpers: Saving map 'Town_1' took 4.202
 [2020.03.11-19.04.04:765][ 68]AssetCheck: New page: Asset Save: Town_1
 [2020.03.11-19.04.04:765][ 68]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.11-19.05.31:879][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_TrainStation_01)
+[2020.03.11-19.05.32:744][625]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.11-19.05.38:791][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Outhouse_2)
+[2020.03.11-19.05.39:085][377]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.11-19.05.47:262][286]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.11-19.06.22:063][396]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush16)
+[2020.03.11-19.06.24:385][649]Cmd: PIVOT SNAPPED
+[2020.03.11-19.06.35:140][857]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.03.11-19.06.52:146][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Outhouse_2)
+[2020.03.11-19.06.53:634][  5]Cmd: DELETE
+[2020.03.11-19.06.53:634][  5]Cmd: ACTOR DELETE
+[2020.03.11-19.06.53:642][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.11-19.06.53:665][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.03.11-19.06.53:666][  5]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.03.11-19.07.03:132][105]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.11-19.07.13:068][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Outhouse_01)
+[2020.03.11-19.07.14:014][384]Cmd: DELETE
+[2020.03.11-19.07.14:014][384]Cmd: ACTOR DELETE
+[2020.03.11-19.07.14:023][384]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.11-19.07.14:046][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.03.11-19.07.14:046][384]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.03.11-19.07.16:957][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Door_Outhouse_01)
+[2020.03.11-19.07.17:977][852]Cmd: DELETE
+[2020.03.11-19.07.17:977][852]Cmd: ACTOR DELETE
+[2020.03.11-19.07.17:986][852]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.11-19.07.18:007][852]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.11-19.07.18:008][852]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.03.11-19.07.26:931][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Door_Outhouse_2)
+[2020.03.11-19.07.27:619][998]Cmd: DELETE
+[2020.03.11-19.07.27:619][998]Cmd: ACTOR DELETE
+[2020.03.11-19.07.27:629][998]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.11-19.07.27:652][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.11-19.07.27:653][998]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.03.11-19.07.35:260][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.03.11-19.07.35:293][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.11-19.07.35:316][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.03.11-19.07.39:896][703]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_19D1DC0DA44FD26C217F635B59CFFD288.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.11-19.07.39:919][703]LogFileHelpers: Saving map 'Town_1' took 4.627
+[2020.03.11-19.07.39:965][703]AssetCheck: New page: Asset Save: Town_1
+[2020.03.11-19.07.39:965][703]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
