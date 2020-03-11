@@ -3380,3 +3380,42 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.11-19.31.06:737][289]Cmd: PIVOT SNAPPED
 [2020.03.11-19.32.12:524][135]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush24)
 [2020.03.11-19.32.15:113][287]Cmd: PIVOT SNAPPED
+[2020.03.11-19.38.37:770][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_TrainStation_01)
+[2020.03.11-19.38.38:148][582]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.11-19.38.49:893][285]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.11-19.38.50:862][341]Cmd: DELETE
+[2020.03.11-19.38.50:862][341]Cmd: ACTOR DELETE
+[2020.03.11-19.38.50:878][341]LogEditorActor: Deleted Actor: Brush
+[2020.03.11-19.38.50:905][341]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.03.11-19.38.50:934][341]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2020.03.11-19.39.01:511][966]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.11-19.39.10:298][488]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush25)
+[2020.03.11-19.39.12:956][620]Cmd: PIVOT SNAPPED
+[2020.03.11-19.39.23:642][256]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush25)
+[2020.03.11-19.39.25:918][387]Cmd: PIVOT SNAPPED
+[2020.03.11-19.39.36:619][ 25]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush25)
+[2020.03.11-19.39.39:032][166]Cmd: PIVOT SNAPPED
+[2020.03.11-19.39.46:428][608]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush25)
+[2020.03.11-19.39.48:926][754]Cmd: PIVOT SNAPPED
+[2020.03.11-19.39.54:724][100]LogEditorViewport: Clicking Background
+[2020.03.11-19.40.06:470][803]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush25)
+[2020.03.11-19.40.07:036][836]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush25)
+[2020.03.11-19.40.09:169][960]Cmd: PIVOT SNAPPED
+[2020.03.11-19.40.56:986][793]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush27)
+[2020.03.11-19.41.00:069][969]Cmd: PIVOT SNAPPED
+[2020.03.11-19.41.14:385][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_TrainStation_01)
+[2020.03.11-19.41.26:227][528]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_TrainStation_01)
+[2020.03.11-19.41.27:478][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_TrainStation_01)
+[2020.03.11-19.42.18:796][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_TrainStation_01)
+[2020.03.11-19.42.20:324][740]Cmd: DELETE
+[2020.03.11-19.42.20:325][740]Cmd: ACTOR DELETE
+[2020.03.11-19.42.20:344][740]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.11-19.42.20:371][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.03.11-19.42.20:371][740]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2020.03.11-19.42.43:530][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.03.11-19.42.43:567][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.11-19.42.43:593][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.03.11-19.42.48:255][128]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_18C4A763643058149BE1DA2AA1952BCC2.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.11-19.42.48:293][128]LogFileHelpers: Saving map 'Town_1' took 4.726
+[2020.03.11-19.42.48:333][128]AssetCheck: New page: Asset Save: Town_1
+[2020.03.11-19.42.48:333][128]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
