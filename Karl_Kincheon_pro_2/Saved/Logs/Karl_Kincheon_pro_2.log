@@ -628,3 +628,296 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.12-13.20.47:541][438]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_Auto1D947CEC74DEE6497892B4190B4BA0CF7.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto1.umap'
 [2020.03.12-13.20.47:677][438]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Town_1' took 11.735
 [2020.03.12-13.20.47:677][438]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 11.735
+[2020.03.12-13.56.02:875][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_01)
+[2020.03.12-13.56.31:894][961]Cmd: TRANSACTION UNDO
+[2020.03.12-13.56.31:894][961]LogEditorTransaction: Undo Move Actors
+[2020.03.12-13.56.32:050][961]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2020.03.12-13.56.32:050][961]LogGeometryMode: Warning: Unable to resolve BoxBrush52 Brush in new BSP, see above
+[2020.03.12-13.56.32:050][961]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.03.12-13.56.33:021][992]Cmd: TRANSACTION UNDO
+[2020.03.12-13.56.33:021][992]LogEditorTransaction: Undo Modifier [Edit]
+[2020.03.12-13.56.33:360][ 10]Cmd: TRANSACTION UNDO
+[2020.03.12-13.56.33:360][ 10]LogEditorTransaction: Undo Modifier [Edit]
+[2020.03.12-13.56.33:583][ 23]Cmd: TRANSACTION UNDO
+[2020.03.12-13.56.33:583][ 23]LogEditorTransaction: Undo Modifier [Edit]
+[2020.03.12-13.56.33:755][ 33]Cmd: TRANSACTION UNDO
+[2020.03.12-13.56.33:755][ 33]LogEditorTransaction: Undo Move Actors
+[2020.03.12-13.56.33:884][ 33]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.03.12-13.56.33:884][ 33]LogGeometryMode: Warning: Unable to resolve BoxBrush52 Brush in new BSP, see above
+[2020.03.12-13.56.33:885][ 33]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.03.12-13.56.33:991][ 38]Cmd: TRANSACTION UNDO
+[2020.03.12-13.56.33:991][ 38]LogEditorTransaction: Undo Modifier [Edit]
+[2020.03.12-13.56.34:192][ 49]Cmd: TRANSACTION UNDO
+[2020.03.12-13.56.34:192][ 49]LogEditorTransaction: Undo Select Brush Surface
+[2020.03.12-13.56.34:411][ 54]Cmd: TRANSACTION UNDO
+[2020.03.12-13.56.34:411][ 54]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.12-13.56.34:760][ 74]Cmd: TRANSACTION UNDO
+[2020.03.12-13.56.34:760][ 74]LogEditorTransaction: Undo Move Actors
+[2020.03.12-13.56.34:993][ 79]Cmd: TRANSACTION UNDO
+[2020.03.12-13.56.34:993][ 79]LogEditorTransaction: Undo Move Actors
+[2020.03.12-13.56.35:156][ 79]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.03.12-13.56.35:156][ 79]LogGeometryMode: Warning: Unable to resolve BoxBrush52 Brush in new BSP, see above
+[2020.03.12-13.56.35:156][ 79]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.03.12-13.56.35:181][ 80]Cmd: TRANSACTION UNDO
+[2020.03.12-13.56.35:181][ 80]LogEditorTransaction: Undo Modifier [Edit]
+[2020.03.12-13.56.35:357][ 89]Cmd: TRANSACTION UNDO
+[2020.03.12-13.56.35:357][ 89]LogEditorTransaction: Undo Modifier [Edit]
+[2020.03.12-13.56.35:554][100]Cmd: TRANSACTION UNDO
+[2020.03.12-13.56.35:554][100]LogEditorTransaction: Undo Modifier [Edit]
+[2020.03.12-13.56.35:742][111]Cmd: TRANSACTION UNDO
+[2020.03.12-13.56.35:742][111]LogEditorTransaction: Undo Modifier [Edit]
+[2020.03.12-13.56.35:948][123]Cmd: TRANSACTION UNDO
+[2020.03.12-13.56.35:948][123]LogEditorTransaction: Undo Modifier [Edit]
+[2020.03.12-13.56.36:173][136]Cmd: TRANSACTION UNDO
+[2020.03.12-13.56.36:173][136]LogEditorTransaction: Undo Move Actors
+[2020.03.12-13.56.36:274][136]LogGeometryMode: Warning: Unable to find 4 Vertex(s) in new BSP
+[2020.03.12-13.56.36:274][136]LogGeometryMode: Warning: Unable to resolve BoxBrush52 Brush in new BSP, see above
+[2020.03.12-13.56.36:274][136]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.03.12-13.56.36:407][143]Cmd: TRANSACTION UNDO
+[2020.03.12-13.56.36:407][143]LogEditorTransaction: Undo Move Actors
+[2020.03.12-13.56.36:548][143]LogGeometryMode: Warning: Unable to find 4 Vertex(s) in new BSP
+[2020.03.12-13.56.36:548][143]LogGeometryMode: Warning: Unable to resolve BoxBrush52 Brush in new BSP, see above
+[2020.03.12-13.56.36:548][143]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.03.12-13.56.36:656][149]Cmd: TRANSACTION UNDO
+[2020.03.12-13.56.36:656][149]LogEditorTransaction: Undo Move Actors
+[2020.03.12-13.56.36:937][160]Cmd: TRANSACTION UNDO
+[2020.03.12-13.56.36:938][160]LogEditorTransaction: Undo Modifier [Split]
+[2020.03.12-13.56.37:492][186]Cmd: TRANSACTION UNDO
+[2020.03.12-13.56.37:492][186]LogEditorTransaction: Undo Modifier [Edit]
+[2020.03.12-13.56.45:319][645]Cmd: TRANSACTION UNDO
+[2020.03.12-13.56.45:319][645]LogEditorTransaction: Undo Move Actors
+[2020.03.12-13.56.45:471][645]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2020.03.12-13.56.45:471][645]LogGeometryMode: Warning: Unable to resolve BoxBrush52 Brush in new BSP, see above
+[2020.03.12-13.56.45:471][645]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.03.12-13.56.46:580][698]LogEditorViewport: Clicking Background
+[2020.03.12-13.56.56:653][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Road_Straight_01)
+[2020.03.12-13.57.38:617][385]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2020.03.12-13.57.38:620][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.03.12-13.57.45:055][385]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_Auto221D696714E4C0FFC574C89AB4C223970.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto2.umap'
+[2020.03.12-13.57.45:058][385]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Town_1' took 6.470
+[2020.03.12-13.57.45:058][385]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 6.470
+[2020.03.12-13.58.26:380][808]Cmd: TRANSACTION UNDO
+[2020.03.12-13.58.26:380][808]LogEditorTransaction: Undo Move Actors
+[2020.03.12-13.58.26:514][808]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2020.03.12-13.58.26:514][808]LogGeometryMode: Warning: Unable to resolve BoxBrush52 Brush in new BSP, see above
+[2020.03.12-13.58.26:514][808]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.03.12-13.58.36:289][372]Cmd: TRANSACTION UNDO
+[2020.03.12-13.58.36:289][372]LogEditorTransaction: Undo Modifier [Edit]
+[2020.03.12-13.58.38:131][465]Cmd: TRANSACTION UNDO
+[2020.03.12-13.58.38:131][465]LogEditorTransaction: Undo Modifier [Edit]
+[2020.03.12-13.58.39:562][550]Cmd: TRANSACTION UNDO
+[2020.03.12-13.58.39:562][550]LogEditorTransaction: Undo Modifier [Edit]
+[2020.03.12-13.58.42:343][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Road_Straight_01)
+[2020.03.12-13.58.42:985][753]Cmd: TRANSACTION UNDO
+[2020.03.12-13.58.42:985][753]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.12-13.59.19:660][859]LogActorFactory: Actor Factory created Cube
+[2020.03.12-13.59.21:065][940]LogActorFactory: Actor Factory created Cube
+[2020.03.12-13.59.29:823][444]Cmd: DELETE
+[2020.03.12-13.59.29:823][444]Cmd: ACTOR DELETE
+[2020.03.12-13.59.30:005][444]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-13.59.30:030][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.03.12-13.59.30:031][444]LogEditorActor: Deleted 1 Actors (0.118 secs)
+[2020.03.12-13.59.39:228][992]LogActorFactory: Actor Factory created Cube
+[2020.03.12-13.59.40:168][ 48]LogActorFactory: Actor Factory created Cube
+[2020.03.12-14.00.08:653][743]MapCheck: New page: Map Check
+[2020.03.12-14.00.09:033][743]Cmd: MAP REBUILD ALLVISIBLE
+[2020.03.12-14.00.09:040][743]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.03.12-14.00.09:487][743]LogWorld: UWorld::CleanupWorld for Town_1, bSessionEnded=true, bCleanupResources=false
+[2020.03.12-14.00.09:586][743]LightingResults: New page: Lighting Build - Mar 12, 2020, 4:00:09 AM
+[2020.03.12-14.00.09:723][743]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.12-14.00.09:831][743]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.12-14.00.09:846][743]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.12-14.00.10:867][743]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.12-14.00.10:868][743]LogSwarmInterface: [TryOpenConnection] Local Process ID is 27320
+[2020.03.12-14.00.13:409][743]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.03.12-14.00.13:412][743]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.12-14.00.13:412][743]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.12-14.00.13:412][743]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.12-14.00.13:412][743]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.12-14.00.13:412][743]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.12-14.00.13:935][743]LogEditorBuildUtils: Build time 0:04
+[2020.03.12-14.00.14:371][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.03.12-14.00.42:737][111]Job is a success!
+[2020.03.12-14.00.43:568][112]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.151s
+[2020.03.12-14.00.43:568][112]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.03.12-14.00.43:568][112]LogVolumetricLightmapImport:      BrickData (all levels) 2.3Mb
+[2020.03.12-14.00.43:568][112]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.12-14.00.43:568][112]LogVolumetricLightmapImport:          0: 2.1% covering 100.0% of volume
+[2020.03.12-14.00.43:568][112]LogVolumetricLightmapImport:          1: 15.5% covering 11.3% of volume
+[2020.03.12-14.00.43:568][112]LogVolumetricLightmapImport:          2: 82.3% covering 0.9% of volume
+[2020.03.12-14.00.43:568][112]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.12-14.00.43:568][112]LogVolumetricLightmapImport:          Town_1 			 373 bricks 	 100.0% (Persistent Level)
+[2020.03.12-14.00.43:993][112]LightingResults: Warning: PointLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.12-14.00.43:993][112]LightingResults: Warning: PointLight2_2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.12-14.00.43:993][112]LightingResults: Warning: PointLight5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.12-14.00.43:993][112]LightingResults: Warning: PointLight6 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.12-14.00.43:993][112]LightingResults: Warning: PointLight_10 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.12-14.00.43:993][112]LightingResults: Warning: PointLight7_9 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 512X512)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 512X512)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 128X128)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 128X128)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 128X128)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 128X128)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 128X128)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 128X128)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 256X256)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 128X128)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 128X128)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 128X128)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 128X128)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 128X128)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 128X128)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 128X128)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 128X128)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 512X512)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 512X512)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 128X128)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 128X128)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 256X256)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 256X256)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 128X128)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 128X128)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 128X128)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 128X128)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 256X256)
+[2020.03.12-14.00.45:824][112]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 256X256)
+[2020.03.12-14.00.46:024][112]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 64X64)
+[2020.03.12-14.00.46:024][112]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 64X64)
+[2020.03.12-14.00.46:024][112]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 64X64)
+[2020.03.12-14.00.46:024][112]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 64X64)
+[2020.03.12-14.00.46:024][112]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 64X64)
+[2020.03.12-14.00.46:024][112]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 64X64)
+[2020.03.12-14.00.46:024][112]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X64)
+[2020.03.12-14.00.46:024][112]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 64X64)
+[2020.03.12-14.00.46:024][112]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 64X64)
+[2020.03.12-14.00.46:024][112]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 64X64)
+[2020.03.12-14.00.46:024][112]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 64X64)
+[2020.03.12-14.00.46:024][112]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 64X64)
+[2020.03.12-14.00.46:024][112]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 64X64)
+[2020.03.12-14.00.46:024][112]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X128)
+[2020.03.12-14.00.46:024][112]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 512X64)
+[2020.03.12-14.00.46:024][112]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X256)
+[2020.03.12-14.00.46:024][112]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 512X512)
+[2020.03.12-14.00.46:812][112]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2020.03.12-14.00.46:812][112]Lightmass on DESKTOP-IFJPMID: 29.9 sec total, 240 ms importing, 106 ms setup, 3.25 sec photons, 26.2 sec processing, 0 ms extra exporting [896/896 mappings]. Threads: 3:03 min total, 2:00 min processing.
+[2020.03.12-14.00.46:847][112]LogStaticLightingSystem: Town_1_BuiltData storing lightmap data for 411 meshes in 31 LightmapResourceClusters (13.3 Meshes per cluster).
+[2020.03.12-14.00.46:902][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.03.12-14.00.46:991][112]LogStaticLightingSystem: Illumination: 37.3 sec (1.83 sec encoding lightmaps, 219 ms encoding shadowmaps)
+[2020.03.12-14.00.46:992][112]LogStaticLightingSystem: Lightmap texture memory:  9.7 MB (7.7 MB streaming, 2.0 MB non-streaming), 40 textures
+[2020.03.12-14.00.46:992][112]LogStaticLightingSystem: Shadowmap texture memory: 8.4 MB (7.0 MB streaming, 1.3 MB non-streaming), 18 textures
+[2020.03.12-14.00.47:454][112]DumpUnbuiltLightIteractions
+[2020.03.12-14.00.47:454][112]Lights with unbuilt interactions: 0
+[2020.03.12-14.00.47:454][112]
+[2020.03.12-14.00.47:454][112]Primitives with unbuilt interactions: 0
+[2020.03.12-14.00.47:627][113]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.12-14.00.47:627][113]MapCheck: New page: Town_1 - Mar 12, 2020, 4:00:47 AM
+[2020.03.12-14.00.47:654][113]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 26.714ms to complete.
+[2020.03.12-14.00.48:965][188]LogSlate: Window 'Message Log' being destroyed
+[2020.03.12-14.00.48:969][188]LogSlate: Window 'Message Log' being destroyed
+[2020.03.12-14.00.50:948][307]Cmd: DELETE
+[2020.03.12-14.00.50:948][307]Cmd: ACTOR DELETE
+[2020.03.12-14.00.50:964][307]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.00.50:985][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.12-14.00.50:987][307]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.03.12-14.01.30:872][645]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush53)
+[2020.03.12-14.01.33:387][767]Cmd: PIVOT SNAPPED
+[2020.03.12-14.01.49:412][703]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush53)
+[2020.03.12-14.01.55:526][ 46]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2020.03.12-14.01.55:526][ 46]LogGeometryMode: Warning: Unable to resolve BoxBrush53 Brush in new BSP, see above
+[2020.03.12-14.01.55:526][ 46]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.03.12-14.02.01:631][400]Cmd: TRANSACTION UNDO
+[2020.03.12-14.02.01:631][400]LogEditorTransaction: Undo Move Actors
+[2020.03.12-14.02.01:724][400]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.03.12-14.02.01:724][400]LogGeometryMode: Warning: Unable to resolve BoxBrush53 Brush in new BSP, see above
+[2020.03.12-14.02.01:724][400]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.03.12-14.02.12:082][  7]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2020.03.12-14.02.12:082][  7]LogGeometryMode: Warning: Unable to resolve BoxBrush53 Brush in new BSP, see above
+[2020.03.12-14.02.12:082][  7]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.03.12-14.02.14:146][119]Cmd: TRANSACTION UNDO
+[2020.03.12-14.02.14:146][119]LogEditorTransaction: Undo Move Actors
+[2020.03.12-14.02.19:420][409]Cmd: TRANSACTION UNDO
+[2020.03.12-14.02.19:420][409]LogEditorTransaction: Undo Move Actors
+[2020.03.12-14.02.19:487][409]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2020.03.12-14.02.19:487][409]LogGeometryMode: Warning: Unable to resolve BoxBrush53 Brush in new BSP, see above
+[2020.03.12-14.02.19:487][409]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.03.12-14.02.34:460][276]LogGeometryMode: Warning: Unable to find BoxBrush45 Brush(s) in new BSP
+[2020.03.12-14.02.34:460][276]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.03.12-14.02.53:949][403]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.12-14.03.41:700][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Piano_01)
+[2020.03.12-14.03.42:492][188]Cmd: DELETE
+[2020.03.12-14.03.42:492][188]Cmd: ACTOR DELETE
+[2020.03.12-14.03.42:513][188]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.03.42:545][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.03.12-14.03.42:547][188]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2020.03.12-14.03.43:127][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Piano_Seat_01)
+[2020.03.12-14.03.43:329][234]Cmd: DELETE
+[2020.03.12-14.03.43:329][234]Cmd: ACTOR DELETE
+[2020.03.12-14.03.43:346][234]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.03.43:368][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.03.12-14.03.43:368][234]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.03.12-14.03.56:248][984]Cmd: TRANSACTION UNDO
+[2020.03.12-14.03.56:248][984]LogEditorTransaction: Undo Modifier [Edit]
+[2020.03.12-14.05.22:677][146]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.12-14.05.38:721][ 78]Cmd: TRANSACTION UNDO
+[2020.03.12-14.05.38:721][ 78]LogEditorTransaction: Undo Move Actors
+[2020.03.12-14.05.38:812][ 78]LogActorComponent: RegisterComponentWithWorld: (/Game/Town_1.Town_1:PersistentLevel.BoxBrush59_7.BrushComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.03.12-14.06.38:014][512]Cmd: DELETE
+[2020.03.12-14.06.38:141][512]Cmd: ACTOR DELETE
+[2020.03.12-14.06.38:168][512]LogEditorActor: Deleted Actor: Brush
+[2020.03.12-14.06.38:201][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.03.12-14.06.38:300][512]LogEditorActor: Deleted 1 Actors (0.159 secs)
+[2020.03.12-14.07.50:249][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.03.12-14.07.50:251][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.03.12-14.07.56:162][594]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_Auto3C6CC6BD049F0F8AA22618A9EF90E8B6F.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Autosaves/Game/Town_1_Auto3.umap'
+[2020.03.12-14.07.56:164][594]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Town_1' took 5.941
+[2020.03.12-14.07.56:164][594]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.941
+[2020.03.12-14.08.05:192][130]Cmd: TRANSACTION UNDO
+[2020.03.12-14.08.05:192][130]LogEditorTransaction: Undo Modifier [Edit]
+[2020.03.12-14.08.21:588][ 53]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush62)
+[2020.03.12-14.08.24:483][217]Cmd: PIVOT SNAPPED
+[2020.03.12-14.08.57:430][136]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush62)
+[2020.03.12-14.09.00:289][298]Cmd: PIVOT SNAPPED
+[2020.03.12-14.09.04:827][564]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush62)
+[2020.03.12-14.09.07:319][708]Cmd: PIVOT SNAPPED
+[2020.03.12-14.10.14:112][786]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush63)
+[2020.03.12-14.10.16:929][945]Cmd: PIVOT SNAPPED
+[2020.03.12-14.10.53:642][ 99]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush64)
+[2020.03.12-14.10.55:750][218]Cmd: PIVOT SNAPPED
+[2020.03.12-14.11.06:272][840]Cmd: TRANSACTION UNDO
+[2020.03.12-14.11.06:272][840]LogEditorTransaction: Undo Modifier [Edit]
+[2020.03.12-14.11.15:094][345]LogEditorViewport: Clicking on Actor (context menu): Brush (Box Brush63)
+[2020.03.12-14.11.17:259][438]Cmd: PIVOT SNAPPED
+[2020.03.12-14.11.53:057][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Butte_02)
+[2020.03.12-14.12.02:182][ 79]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.12-14.12.11:877][638]Cmd: DELETE
+[2020.03.12-14.12.11:877][638]Cmd: ACTOR DELETE
+[2020.03.12-14.12.11:903][638]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.12.11:939][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.03.12-14.12.11:942][638]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2020.03.12-14.12.19:886][ 92]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.12-14.12.36:390][ 70]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.03.12-14.12.55:677][205]LogEditorViewport: Clicking Background
+[2020.03.12-14.12.57:963][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.03.12-14.12.57:999][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.12-14.12.58:021][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.03.12-14.13.04:194][339]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_16D1E5FE84101CDC7C528FB80D848BD9E.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.12-14.13.04:228][339]LogFileHelpers: Saving map 'Town_1' took 6.231
+[2020.03.12-14.13.04:228][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1_BuiltData" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset" SILENT=true
+[2020.03.12-14.13.08:175][339]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_BuiltData6F0ABD2040BC47F60AC1F5ACB7CB8D5A.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset'
+[2020.03.12-14.13.08:181][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1_BuiltData" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset" SILENT=true
+[2020.03.12-14.13.10:647][339]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_1_BuiltDataF2F777AE41FE1FDFEF7BA9A63EF8737D.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1_BuiltData.uasset'
+[2020.03.12-14.13.10:676][339]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.12-14.13.10:676][339]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
+[2020.03.12-14.13.10:676][339]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Town_1_BuiltData.Town_1_BuiltData
