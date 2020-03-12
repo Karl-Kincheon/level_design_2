@@ -921,3 +921,174 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.12-14.13.10:676][339]AssetCheck: New page: Asset Save: multiple assets
 [2020.03.12-14.13.10:676][339]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
 [2020.03.12-14.13.10:676][339]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Town_1_BuiltData.Town_1_BuiltData
+[2020.03.12-14.14.57:748][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bld_Saloon_01)
+[2020.03.12-14.14.58:915][613]Cmd: DELETE
+[2020.03.12-14.14.58:915][613]Cmd: ACTOR DELETE
+[2020.03.12-14.14.58:933][613]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.14.58:959][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.03.12-14.14.58:963][613]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2020.03.12-14.15.35:500][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Shelf_2)
+[2020.03.12-14.15.37:091][892]Cmd: DELETE
+[2020.03.12-14.15.37:091][892]Cmd: ACTOR DELETE
+[2020.03.12-14.15.37:105][892]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.15.37:126][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.12-14.15.37:128][892]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.03.12-14.15.37:574][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Bottle_07)
+[2020.03.12-14.15.37:729][927]Cmd: DELETE
+[2020.03.12-14.15.37:729][927]Cmd: ACTOR DELETE
+[2020.03.12-14.15.37:742][927]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.15.37:763][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.12-14.15.37:764][927]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.03.12-14.15.38:427][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Bottle_11)
+[2020.03.12-14.15.38:581][975]Cmd: DELETE
+[2020.03.12-14.15.38:581][975]Cmd: ACTOR DELETE
+[2020.03.12-14.15.38:594][975]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.15.38:613][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.12-14.15.38:614][975]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.03.12-14.15.39:326][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Bottle_06)
+[2020.03.12-14.15.39:511][ 28]Cmd: DELETE
+[2020.03.12-14.15.39:511][ 28]Cmd: ACTOR DELETE
+[2020.03.12-14.15.39:524][ 28]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.15.39:544][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.03.12-14.15.39:544][ 28]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.03.12-14.15.39:924][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Bottle_05)
+[2020.03.12-14.15.40:176][ 65]Cmd: DELETE
+[2020.03.12-14.15.40:176][ 65]Cmd: ACTOR DELETE
+[2020.03.12-14.15.40:189][ 65]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.15.40:209][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.03.12-14.15.40:209][ 65]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.03.12-14.15.40:639][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Bottle_03)
+[2020.03.12-14.15.40:857][103]Cmd: DELETE
+[2020.03.12-14.15.40:858][103]Cmd: ACTOR DELETE
+[2020.03.12-14.15.40:871][103]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.15.40:892][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.03.12-14.15.40:892][103]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.03.12-14.15.41:383][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Bottle_4)
+[2020.03.12-14.15.41:601][145]Cmd: DELETE
+[2020.03.12-14.15.41:601][145]Cmd: ACTOR DELETE
+[2020.03.12-14.15.41:615][145]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.15.41:636][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.03.12-14.15.41:637][145]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.03.12-14.15.41:978][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Bottle_01)
+[2020.03.12-14.15.42:249][181]Cmd: DELETE
+[2020.03.12-14.15.42:249][181]Cmd: ACTOR DELETE
+[2020.03.12-14.15.42:263][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.15.42:284][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.03.12-14.15.42:285][181]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.03.12-14.15.42:615][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Bottle_8)
+[2020.03.12-14.15.42:933][219]Cmd: DELETE
+[2020.03.12-14.15.42:933][219]Cmd: ACTOR DELETE
+[2020.03.12-14.15.42:947][219]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.15.42:968][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.12-14.15.42:969][219]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.03.12-14.15.43:265][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Bottle_6)
+[2020.03.12-14.15.43:582][255]Cmd: DELETE
+[2020.03.12-14.15.43:582][255]Cmd: ACTOR DELETE
+[2020.03.12-14.15.43:596][255]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.15.43:616][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.12-14.15.43:616][255]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.03.12-14.15.43:963][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Bottle_2)
+[2020.03.12-14.15.44:251][292]Cmd: DELETE
+[2020.03.12-14.15.44:251][292]Cmd: ACTOR DELETE
+[2020.03.12-14.15.44:264][292]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.15.44:284][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.12-14.15.44:284][292]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.03.12-14.15.44:647][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Bottle_02)
+[2020.03.12-14.15.44:914][329]Cmd: DELETE
+[2020.03.12-14.15.44:914][329]Cmd: ACTOR DELETE
+[2020.03.12-14.15.44:927][329]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.15.44:947][329]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.03.12-14.15.44:948][329]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.03.12-14.15.45:262][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Bottle_5)
+[2020.03.12-14.15.45:579][366]Cmd: DELETE
+[2020.03.12-14.15.45:579][366]Cmd: ACTOR DELETE
+[2020.03.12-14.15.45:592][366]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.15.45:613][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.12-14.15.45:613][366]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.03.12-14.15.45:954][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Bottle_12)
+[2020.03.12-14.15.46:323][408]Cmd: DELETE
+[2020.03.12-14.15.46:323][408]Cmd: ACTOR DELETE
+[2020.03.12-14.15.46:337][408]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.15.46:357][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.12-14.15.46:357][408]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.03.12-14.15.46:703][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Bottle_3)
+[2020.03.12-14.15.47:006][446]Cmd: DELETE
+[2020.03.12-14.15.47:006][446]Cmd: ACTOR DELETE
+[2020.03.12-14.15.47:019][446]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.15.47:039][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.12-14.15.47:039][446]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.03.12-14.15.47:364][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Bottle_13)
+[2020.03.12-14.15.47:665][483]Cmd: DELETE
+[2020.03.12-14.15.47:665][483]Cmd: ACTOR DELETE
+[2020.03.12-14.15.47:678][483]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.15.47:698][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.12-14.15.47:699][483]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.03.12-14.15.47:990][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Bottle_9)
+[2020.03.12-14.15.48:459][528]Cmd: DELETE
+[2020.03.12-14.15.48:459][528]Cmd: ACTOR DELETE
+[2020.03.12-14.15.48:472][528]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.15.48:491][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.12-14.15.48:491][528]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.03.12-14.15.48:882][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Bottle_14)
+[2020.03.12-14.15.49:118][565]Cmd: DELETE
+[2020.03.12-14.15.49:118][565]Cmd: ACTOR DELETE
+[2020.03.12-14.15.49:132][565]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.15.49:154][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.12-14.15.49:155][565]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.03.12-14.15.49:466][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Bottle_7)
+[2020.03.12-14.15.49:818][604]Cmd: DELETE
+[2020.03.12-14.15.49:818][604]Cmd: ACTOR DELETE
+[2020.03.12-14.15.49:832][604]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.15.49:852][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.03.12-14.15.49:853][604]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.03.12-14.15.50:177][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Bottle_04)
+[2020.03.12-14.15.50:878][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Bottle_10)
+[2020.03.12-14.15.51:213][684]Cmd: DELETE
+[2020.03.12-14.15.51:213][684]Cmd: ACTOR DELETE
+[2020.03.12-14.15.51:227][684]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.15.51:246][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.03.12-14.15.51:247][684]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.03.12-14.15.51:921][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Bottle_04)
+[2020.03.12-14.15.52:039][731]Cmd: DELETE
+[2020.03.12-14.15.52:039][731]Cmd: ACTOR DELETE
+[2020.03.12-14.15.52:053][731]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.15.52:073][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.03.12-14.15.52:074][731]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.03.12-14.15.56:736][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Cow_Skull_01)
+[2020.03.12-14.15.57:457][ 53]Cmd: DELETE
+[2020.03.12-14.15.57:457][ 53]Cmd: ACTOR DELETE
+[2020.03.12-14.15.57:471][ 53]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.15.57:493][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.03.12-14.15.57:494][ 53]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.03.12-14.16.08:915][705]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.12-14.16.36:405][298]Cmd: TRANSACTION UNDO
+[2020.03.12-14.16.36:405][298]LogEditorTransaction: Undo Edit Z
+[2020.03.12-14.16.51:949][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_PokerTable_01)
+[2020.03.12-14.16.53:024][241]Cmd: DELETE
+[2020.03.12-14.16.53:024][241]Cmd: ACTOR DELETE
+[2020.03.12-14.16.53:041][241]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.16.53:065][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.03.12-14.16.53:066][241]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.03.12-14.17.17:432][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Chair_2)
+[2020.03.12-14.18.12:365][862]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush4)
+[2020.03.12-14.18.26:016][661]Cmd: TRANSACTION UNDO
+[2020.03.12-14.18.26:016][661]LogEditorTransaction: Undo Edit Z
+[2020.03.12-14.18.33:434][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Table_2)
+[2020.03.12-14.18.34:354][123]Cmd: DELETE
+[2020.03.12-14.18.34:354][123]Cmd: ACTOR DELETE
+[2020.03.12-14.18.34:388][123]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.18.34:414][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.03.12-14.18.34:416][123]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2020.03.12-14.18.39:813][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Prop_Table_01)
+[2020.03.12-14.18.40:508][476]Cmd: DELETE
+[2020.03.12-14.18.40:508][476]Cmd: ACTOR DELETE
+[2020.03.12-14.18.40:538][476]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.12-14.18.40:560][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.03.12-14.18.40:561][476]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2020.03.12-14.18.51:858][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.03.12-14.18.51:888][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_1" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.12-14.18.51:910][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.03.12-14.19.03:001][121]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_16B29F93D4D6320AE24F9D79CDEA5F21D.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_1.umap'
+[2020.03.12-14.19.03:021][121]LogFileHelpers: Saving map 'Town_1' took 11.134
+[2020.03.12-14.19.03:034][121]AssetCheck: New page: Asset Save: Town_1
+[2020.03.12-14.19.03:034][121]LogContentValidation: Display: Validating World /Game/Town_1.Town_1
