@@ -721,3 +721,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.18-17.44.59:258][ 15]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 31.792ms to complete.
 [2020.03.18-17.45.01:454][142]LogSlate: Window 'Message Log' being destroyed
 [2020.03.18-17.45.01:459][142]LogSlate: Window 'Message Log' being destroyed
+[2020.03.18-17.45.23:217][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.03.18-17.45.23:622][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_2" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.18-17.45.23:655][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.03.18-17.45.27:213][604]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_2E062C4A8472F249F1F8FCC8D2903F49E.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_2.umap'
+[2020.03.18-17.45.27:334][604]LogFileHelpers: Saving map 'Town_2' took 3.719
+[2020.03.18-17.45.27:334][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Town_2_BuiltData" FILE="C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_2_BuiltData.uasset" SILENT=true
+[2020.03.18-17.45.29:983][604]LogSavePackage: Moving 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Saved/Town_2_BuiltData241118B04319CBBBBDC5C5BF10E0FB37.tmp' to 'C:/Users/13462/Documents/GitHub/level_design_2/Karl_Kincheon_pro_2/Content/Town_2_BuiltData.uasset'
+[2020.03.18-17.45.30:015][604]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.18-17.45.30:015][604]LogContentValidation: Display: Validating World /Game/Town_2.Town_2
+[2020.03.18-17.45.30:015][604]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Town_2_BuiltData.Town_2_BuiltData
